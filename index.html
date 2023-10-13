@@ -9,27 +9,41 @@
         text-decoration: underline;
         color: #000;
       }
+      .container {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 680px;
+      }
       #output {
-        color: #333;
+        cursor: pointer;
+        border-radius: 8px;
+        color: rgb(68, 73, 80);
         border: 1px solid #eee;
         margin-top: 20px;
         padding: 12px;
-        max-height: 500px;
+        max-height: 600px;
         overflow-y: scroll;
+        box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.1);
+        font-size: 20px;
+        line-height: 32px;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu,
+          Cantarell, "Noto Sans", sans-serif;
       }
     </style>
   </head>
   <body>
-    <h1>Text to Speech</h1>
-    <form id="fileForm">
-      <input type="file" id="fileInput" accept=".txt" required />
-      <button type="button" id="playButton" disabled>Play Text</button>
-      <button type="button" id="pauseButton" disabled>Pause</button>
-      <button type="button" id="prev">Prev</button>
-      <button type="button" id="next">Next</button>
-    </form>
-    <div id="output"></div>
-
+    <div class="container">
+      <h1>Text to Speech</h1>
+      <form id="fileForm">
+        <input type="file" id="fileInput" accept=".txt" required />
+        <button type="button" id="playButton" disabled>Play Text</button>
+        <button type="button" id="pauseButton" disabled>Pause</button>
+        <button type="button" id="prev">Prev</button>
+        <button type="button" id="next">Next</button>
+      </form>
+      <div id="output"></div>
+    </div>
     <script>
       const fileInput = document.getElementById("fileInput");
       const playButton = document.getElementById("playButton");
@@ -59,6 +73,8 @@
       let rsPause;
 
       let paused = false;
+
+      let switchTmo;
 
       window.speechSynthesis.cancel();
 
@@ -146,7 +162,24 @@
         continueRead();
       }
 
-      async function startPlay() {
+      function switchTo(idx) {
+        if (idx < 0) {
+          idx = 0;
+        }
+        if (idx > lines.length - 1) {
+          idx = lines.length - 1;
+        }
+
+        clearTimeout(switchTmo);
+        handlePause();
+
+        currentIndex = idx;
+        highlight(currentIndex);
+
+        switchTmo = setTimeout(() => handleResume(), 300);
+      }
+
+      function startPlay() {
         outputDiv.innerHTML = ""; // Clear previous content
 
         currentIndex = 0;
@@ -159,8 +192,8 @@
           const el = document.createElement("span");
           el.textContent = lines[i];
 
-          el.addEventListener("dbclick", function () {
-            currentIndex = i;
+          el.addEventListener("dblclick", function () {
+            switchTo(i);
           });
 
           outputDiv.appendChild(el);
@@ -168,17 +201,11 @@
         }
 
         next = function () {
-          handlePause();
-
-          currentIndex++;
-          highlight(currentIndex);
+          switchTo(currentIndex + 1);
         };
 
         prev = function () {
-          handlePause();
-
-          currentIndex--;
-          highlight(currentIndex);
+          switchTo(currentIndex - 1);
         };
 
         continueRead();
@@ -190,16 +217,17 @@
         }
         hlEl = els[idx];
         hlEl.classList.add(highlightClass);
-        hlEl.scrollIntoView({
-          behavior: "smooth",
-          block: "center",
-          inline: "center",
-        });
       }
 
       async function continueRead() {
         for (; currentIndex < lines.length; currentIndex++) {
           highlight(currentIndex);
+
+          hlEl.scrollIntoView({
+            behavior: "smooth",
+            block: "center",
+            inline: "center",
+          });
 
           if (paused) {
             break;
