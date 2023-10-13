@@ -1,0 +1,381 @@
+28. MOMENTUM, RATE OF CHANGE, AND SMOOTHED RATE OF CHANGE 
+When greed or fear grips a mass of traders, the crowd surges. Oscillators 
+measure the speed of that surge and track its momentum. 
+Technical indicators are divided into three main groups. Trend -following 
+indicators help identify trends. Oscillators help find turning points. 
+Miscellaneous indicators, such as the New High-New Low Index, track gen - 
+eral changes in mass psychology. 
+Oscillators identify the emotional extremes of market crowds. They allow 
+you to find unsustainable levels of optimism and pessimism. Professionals 
+tend to fade those extremes. They bet against them, for a return to normalcy. 
+When the market rises and the crowd gets up on its hind legs and roars from 
+greed, professionals sell short. They buy when the market falls and the 
+crowd howls in fear. Oscillators help them to time those trades. 
+Overbought and Oversold 
+Martin Pring compares trend -following indicators and oscillators to the foot - 
+prints of a man walking his dog on a leash. The man leaves a fairly straight 
+trail - like a trend -following indicator. The dog's trail swings right and left as 
+far as the leash allows - like an oscillator. When the dog reaches the end of 
+its leash, it is likely to turn and run the other way. 
+You can follow the trail of a man to find the trend of the pair. When the 
+dog deviates from that trail by the length of its leash, it usually turns around. 
+Usually, but not always. If a dog sees a cat or a rabbit, it may become excited 
+enough to pull its owner off his trail. Traders need to use judgment when 
+using oscillator signals. 
+An oscillator becomes overbought when it reaches a high level associated 
+with tops in the past. Overbought means too high, ready to turn down. An 
+oscillator becomes oversold when it reaches a low level associated with bot- 
+toms in the past. Oversold means too low, ready to turn up. 
+Overbought and oversold levels are marked by horizontal reference lines 
+on the charts. The proper way to draw those lines is to place them so that an 
+oscillator spends only about 5 percent of its time beyond each line. Place 
+overbought and oversold lines so that they cut across only the highest peaks 
+and the lowest valleys of an oscillator for the past six months. Readjust these 
+lines once every three months. 
+28. MOMENTUM 143 
+When an oscillator rises or falls beyond its reference line, it helps a trader 
+to pick a top or a bottom. Oscillators work spectacularly well in trading 
+ranges, but they give premature and dangerous trading signals when a new 
+trend erupts from a range. When a strong trend begins, oscillators start acting 
+like a dog that pulls its owner off his path. 
+An oscillator can stay overbought for weeks at a time when a new, strong 
+uptrend begins, giving premature sell signals. It can stay oversold for weeks 
+in a steep downtrend, giving premature buy signals. Knowing when to use 
+oscillators and when to rely on trend-following indicators is a hallmark of a 
+mature analyst (see Section 43). 
+Types of Divergences 
+Oscillators, as well as other indicators, give their best trading signals when 
+they diverge from prices. Bullish divergences occur when prices fall to a new 
+low while an oscillator refuses to decline to a new low. They show that bears 
+are losing power, prices are falling out of inertia, and bulls are ready to seize 
+control. Bullish divergences often mark the ends of downtrends. 
+Bearish divergences occur in uptrends- they identify market tops. They 
+emerge when prices rally to a new high while an oscillator refuses to rise to a 
+new peak. A bearish divergence shows that bulls are running out of steam, 
+prices are rising out of inertia, and bears are ready to take control. 
+There are three classes of bullish and bearish divergences (Figure 28-1). 
+Class A divergences identify important turning points - the best trading 
+opportunities. Class B divergences are less strong, and class C divergences 
+are least important. Valid divergences are clearly visible - they seem to jump 
+from the charts. If you need a ruler to tell whether there is a divergence, 
+assume there is none. 
+Class A bearish divergences occur when prices reach a new high but an 
+oscillator reaches a lower high than it did on a previous rally. Class A bear- 
+ish divergences usually lead to sharp breaks. Class A bullish divergences 
+occur when prices reach a new low but an oscillator traces a higher bottom 
+than during its previous decline. They often precede sharp rallies. 
+Class B bearish divergences occur when prices make a double top but an 
+oscillator traces a lower second top. Class B bullish divergences occur when 
+prices make a double bottom but an oscillator traces a higher second bottom. 
+Class C bearish divergences occur when prices rise to a new high but an 
+indicator stops at the same level it reached during the previous rally. It shows 
+144 COMPUTERIZED TECHNICAL ANALYSIS 
+PRICE 
+~kb 
+- - - - - - - - 
+- 
+- 
+- 
+ln~umn 
+!a 
+DnrowiDla 
+Cuss A Cuss A 
+BEARW Buwvl 
+Figure 28-1. Types of Divergences 
+Divergences between prices and indicators give some of the most pow- 
+erful signals in technical analysis. Divergences are defined by the differ- 
+ences in height or depth of prices and indicators. 
+Class A bearish divergence -prices reach a new peak while an indicator 
+reaches a lower peak. This is the strongest sell signal. 
+Class A bullish divergence-prices fall to a new low while an indicator 
+stops at a more shallow low than before. This is the 
+strongest buy signal. 
+Class B bearish divergence -prices trace a double top while an indicator 
+reaches a lower peak. This is the second strongest sell 
+signal. 
+Class B bullish divergence-prices trace a double bottom while an indica- 
+tor traces a higher second bottom. This is the second 
+strongest buy signal. 
+Class C bearish divergence -prices reach a new peak while an indicator 
+traces a double top. This is the weakest bearish diver- 
+gence. 
+Class C bullish divergence-prices fall to a new low while an indicator 
+makes a double bottom. This is the weakest bullish 
+divergence. 
+Ph 5 
+-- 
+- 
+- 
+- 
+- - 
+- 
+- 
+- 
+- 
+- 
+4bPbPb 
+ tl 
+Cuss B Cuss B 
+BEN~W &LUSH 
+P'kb 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+CussC Cuss C 
+Bww Buwvl 
+28. MOMENTUM 145 
+that bulls are becoming neither stronger nor weaker. Class C bullish diver - 
+gences occur when prices fall to a new low but the indicator traces a double 
+bottom. 
+Class A divergences almost always identify good trades. Class B and C 
+divergences more often lead to whipsaws. It is best to ignore them, unless 
+they are strongly confirmed by other indicators. 
+Triple Bullish or Bearish Divergences consist of three price bottoms and 
+three oscillator bottoms or three price tops and three oscillator tops. They are 
+even stronger than regular divergences. In order for a triple divergence to 
+occur, a regular bullish or bearish divergence first has to abort. That's 
+another good reason to practice tight money management! If you lose only a 
+little on a whipsaw, you will not suffer-and you will have both the money 
+and psychological strength to re-enter a trade. 
+Momentum and Rate of Change 
+Momentum and Rate of Change measure trend acceleration - its gain or loss 
+of speed. These leading indicators show when a trend speeds up, slows 
+down, or maintains its rate of progress. They usually reach a peak before the 
+trend reaches its high and reach a bottom before prices hit their low. 
+As long as oscillators keep reaching new highs, it is safe to hold long 
+positions. As long as they keep reaching new lows, it is safe to hold short 
+positions. When an oscillator reaches a new high, it shows that an uptrend 
+is gaining speed and is likely to continue. When an oscillator traces a lower 
+peak, it shows that an uptrend has stopped accelerating, like a rocket that 
+has run out of fuel. When it flies only because of inertia, you have to get 
+ready for a reversal. The same reasoning applies to oscillator lows in 
+downtrends. 
+Momentum and Rate of Change compare today's closing price to a price a 
+selected period of time ago. Momentum subtracts a past price from today's 
+price; Rate of Change divides today's price by a past price. 
+where M = Momentum. 
+ROC = Rate of Change. 
+Ptod = Today's closing price. 
+Ptod 
+- = Closing price n days ago (chosen by trader). 
+146 COMPUTERIZED TECHNICAL ANALYSIS 
+For example, a 7 -day Momentum of closing prices equals today's closing 
+price minus the closing price 7 days ago. Momentum is positive if today's 
+price is higher, negative if today's price is lower, and at zero if today's price 
+equals the price of 7 days ago. The slope of the line connecting momentum 
+values for each day shows whether momentum is rising or falling. 
+A 7-day Rate of Change (ROC) divides the latest price by the closing 
+price 7 days ago. If they are equal, ROC equals 1. If today's price is higher, 
+then ROC is greater than 1, and if today's price is lower, then ROC is less 
+than 1. The slope of the line that connects values for each day shows whether 
+Rate of Change is rising or falling (see worksheet, Figure 28 -2). 
+A trader must choose the width of the time window for Momentum or 
+ROC. As a rule of thumb, it pays to keep oscillator windows fairly narrow. 
+Use wide windows for trend -following indicators whose goal it is to catch 
+trends. Use narrow windows for oscillators to detect short-term changes in 
+the markets. 
+Momentum and ROC share a flaw with simple moving averages - they 
+jump twice in response to each piece of data. They react to each new price, 
+and they jump again when that piece of data leaves the oscillator's window. 
+Smoothed Rate of Change takes care of this problem. 
+Crowd Psychology 
+Each price reflects the consensus of value of all market participants at the 
+moment of transaction. Momentum and ROC compare today's price (today's 
+consensus of value) to a previous price (an earlier consensus of value). They 
+measure changes in mass optimism or pessimism. 
+To find out whether a child is growing fast enough, you can measure his 
+height each month and compare it with his height six months ago. Then you 
+find out whether your child is growing normally, growing so slowly that you 
+should take him to a doctor, or growing fast enough to think about applying 
+for a basketball scholarship. Momentum and ROC tell you whether a trend is 
+accelerating, slowing down, or moving at the same speed. 
+When Momentum or ROC rises to a new peak, it shows that the optimism 
+of the market crowd is growing, and prices are likely to rally higher. When 
+Momentum or ROC falls to a new low, it shows that the pessimism of the 
+market crowd is increasing, and lower prices are likely ahead. 
+When prices rise but Momentum or ROC falls, it warns you that a top is 
+near-it is time to think of taking profits on long positions or tightening 
+stops. If prices reach a new high but Momentum or ROC reaches a lower top, 
+28. MOMENTUM 147 
+Crude Oil 
+-- 
+Figure 28-2. Momentum, Rate of Change, and Smoothed Rate 
+of Change Worksheet , Date 
+1 Close i Mtm:7 
+I RoC:7 
+ j 13-EMA 
+I S-ROC 13/21 
+- 
+6/19 
+1 19.91 i -0.18 
+[ 99.10 20.33 96.07 
+6/20 
+1 20.17 i -0.03 
+1 99.85 ] 20.30 
+ 1 95.94 
+Momentum (Mtm:7) is today's closing price minus the closing price 7 
+days ago. 
+Rate of Change (RoC:7) is today's closing price divided by the closing 
+price 7 days ago. 
+You can use closing prices for the day in these formulas or median 
+prices (high plus low, divided by two). This also applies to most indica- 
+tors described in this book. it is 
+OK to use time windows that are wider 
+or narrower than 7 days. 
+To create a Smoothed Rate of Change (S-ROC 13/21 ), calculate a 13- 
+day exponential moving average of closing prices and apply a 21-day 
+Rate of Change to it. ...... 96.04 
+ 99:51 ...... 1 .... 
+.20:.29 '. ............................... 
+99.95 1 20.25 
+1 95.90 
+ .............................................. ............................... 
+100.50 2023 95.72 4 .......... : ......................................... 6/21 ........................... 
+6/24 
+6/25 202, ...... i ...... 
+3:10 
+........... 
+20.00 i -0.01 ................................................................... 
+20.10 i 0.10 ........................................................................................ 
+, 6/26 20.09 
+i -0.04 99.80 
+i 20.21 f. 95.49 
+, 6/27 ) 20.46 
+i 0.36 
+i 101.79 
+! 20.24 [ 95.66 
+, 6/28 
+1 20.53 
+i 0.62 
+1 103.11 
+! 20.29 ! 95.67 
+7/01 
+1 20.65 
+ i 0.48 
+1 102.38 
+ 1 20.34 1 95.88 
+- 
+102.13 f 20.77 100.14 
+7/12 21.48 
+i 0.78 1103.77 
+ 1 20.87 [ 100.93 
+101.65 
+ 103:31 ........... 20.92 
+..................................... 
+103.14 
+! 20.99 * ........................... " .."" .................. 102.37 103.21 
+103:'1 .....; ..... 
+!?.I.:!.!! ...................................... 
+102.65 21.18 103.85 711 5 ............................................ 
+711 6 
+711 7 ........................... 
+711 8 21.23 
+ : i ..... 
+O:S!! ........... 
+21.37 
+! 0.65 ........................................................................................ 
+.??!.:.el ...... i ...... 
+0:3! ........... 
+21.66 i 0.56 
+COMPUTERIZED TECHNICAL ANALYSIS 
+that bearish divergence gives a strong sell signal. The reverse holds true in 
+downtrends. 
+There are times when Momentum and ROC act not as leading but as coin- 
+cident indicators. Think what happens to a rocket when it hits an overhead 
+obstacle. Its speed and momentum stop rising and fall together as the rocket 
+crashes. This happens in the markets when the crowd gets hit by a major 
+piece of bad news and this "overhead obstacle " sends ROC and prices down 
+together. 
+Trading Rules 
+Leading indicators are like brake lights on a car ahead of you on a highway. 
+When they light up, you do not know whether the other driver is tapping his 
+breaks or slamming them. You have to be extra careful putting on trades 
+using leading indicators (Figure 28-3). 
+1. When the trend is up, buy whenever ROC declines below its centerline 
+and ticks up. It shows that the uptrend has slowed down -like a train 
+that slows down to pick up passengers. When the trend is down, sell 
+short whenever ROC rallies above its centerline and ticks down. 
+2. If you hold a long position and prices begin to slide, see whether ROC 
+has reached a record peak before this pullback. A new peak in ROC 
+shows a high level of bullish energy, which is likely to lift the market 
+to its previous high or higher. Then it is relatively safe to hold long 
+positions. On the other hand, a series of declining peaks in ROC is a 
+sign of weakness-it is better to sell immediately. Reverse this 
+approach in downtrends. 
+3. A break in a trendline of Momentum or ROC often precedes a break of 
+a price trendline by a day or two. When you see a leading indicator 
+break a trendline, prepare for a break in the price trend. 
+Smoothed Rate of Change 
+This oscillator, developed by Fred G. Schutzman, avoids the major flaw of 
+ROC. It responds to each piece of data only once rather than twice. Smoothed 
+Rate of Change (S-ROC) compares the values of an exponential moving 
+average (EMA) instead of prices at two points in time. It gives fewer trading 
+signals, and the quality of these signals is better. 
+28. MOMENTUM 149 
+Figure 28-3. Seven-day Momentum (Mtm:7) and Rate of 
+Change (RoC:7) 
+When Momentum or ROC rises, it shows that a rally is accelerating. 
+When it falls, it shows that a decline is accelerating. Peaks and bottoms 
+of these indicators show when a trend has reached its maximum speed. 
+Once Momentum or ROC turns, it is time to begin a countdown to a 
+reversal. These indicators give their best signals when they diverge from 
+prices (as marked by arrows on the chart). 
+Momentum and ROC can be analyzed using classical charting meth - 
+ods, which often give leading trading signals. Notice how ROC and 
+Momentum have sliced through their resistance in August, several days 
+prior to a price breakout. At the right edge of the chart, a bearish diver- 
+gence shows that the uptrend has run out of steam. It is time to take prof- 
+its on long positions and go short, with a protective stop a few ticks 
+above the September top. 
+150 COMPUTERIZED TECHNICAL ANALYSIS 
+To create S-ROC you must first calculate an exponential moving average 
+of closing prices (see Section 25). The next step is to apply Rate of Change 
+to the EMA. S-ROC is not very sensitive to the length of its EMA or ROC 
+parts. You can calculate a 13 -day EMA of closing prices and then apply a 
+21-day Rate of Change to it (see worksheet, Figure 28-2). 
+Some traders calculate the Rate of Change of prices first and then smooth 
+it with a moving average. Their method produces a much jumpier indicator, 
+which is less useful than S-ROC. 
+Crowd Behavior 
+An exponential moving average reflects the average consensus of value of 
+all market participants during the period of its window. It is like a composite 
+photograph that reflects major features of the market crowd rather than its 
+fleeting moods. 
+S-ROC compares each reading of an EMA to a past reading from your 
+selected period of time. It compares the average mass consensus today to the 
+average consensus in the past. S-ROC tracks major shifts in the bullishness 
+and bearishness of the market crowd. 
+Trading Rules 
+Changes in the direction of S-ROC often identify important market turns. 
+Upturns of S-ROC mark significant bottoms, and its downturns mark impor - 
+tant tops (Figure 28-4). Divergences between S-ROC and prices give espe- 
+cially strong buy and sell signals. 
+1. Buy when S-ROC turns up from below its centerline. 
+2. Sell when S-ROC stops rising and turns down. Sell short when S-ROC 
+turns down from above its centerline. 
+3. If prices reach a new high but S-ROC traces a lower peak, it shows that 
+the market crowd is less enthusiastic even though prices are higher. A 
+bearish divergence between S-ROC and price gives a strong signal to 
+sell short. 
+4. If prices fall to a new low but S-ROC traces a higher bottom, it shows 
+that the market crowd is less fearful, even though prices are lower. It 
+29. WILLIAMS %R 151 
+.. 138 
+Figure 28-4. Smoothed Rate of Change (S-ROC 13/21 ) 
+To create this indicator, calculate a 13-day exponential moving average 
+of closing prices and apply a 21-day Rate of Change to it. S-ROC usually 
+flows in smooth waves whose crests and bottoms identify many impor- 
+tant turning points. This indicator works especially well in the stock mar- 
+ket, with stock groups as well as with individual stocks. 
+shows that the downside pressure has lessened, even though the mar - 
+ket has fallen deeper than before. A bullish divergence gives a strong 
+signal to cover shorts and buy. 

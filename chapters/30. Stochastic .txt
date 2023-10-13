@@ -1,0 +1,195 @@
+30. STOCHASTIC 
+Stochastic is an oscillator popularized by George Lane. It is now included in 
+many software programs and widely used by computerized traders. 
+Stochastic tracks the relationship of each closing price to the recent high -low 
+range. 
+Stochastic is more complex than Williams %R. It includes several steps 
+for filtering out market noise and weeding out bad signals. Stochastic con - 
+sists of two lines: a fast line called %K and a slow line called %D. 
+1. The first step in calculating Stochastic is to obtain "raw Stochastic " or 
+% K. 
+where Ctod = today's close. 
+Ln = the lowest point for the selected number of days. 
+Hn = the highest point for the selected number of days. 
+n = the number of days for Stochastic, selected by the trader. 
+The standard width of Stochastic's time window is 5 days, although some 
+traders use much higher values. A narrow window helps catch more turning 
+points, but a wider window helps identify major turning points. 
+2. The second step is to obtain %D. It is done by smoothing %K-usu- 
+ally over a three -day period. It can be done in several ways, such as: 
+30. STOCHASTIC 
+3-day sum of (Ctod - L,) %D = 100 
+3-day sum of (H, - L,) 
+There are two ways to plot Stochastic-Fast and Slow. Fast Stochastic 
+consists of two lines - %K and %D -plotted on the same chart. It is very sen- 
+sitive to market turns but leads to many whipsaws. Many traders prefer a less 
+sensitive Slow Stochastic. The %D of Fast Stochastic becomes the %K of 
+Slow Stochastic and is smoothed by repeating step 2 to obtain %D of Slow 
+Stochastic. Slow Stochastic does a better job of filtering out market noise and 
+leads to fewer whipsaws. A 5-bar Slow Stochastic (smoothed over a 3 -day 
+period) is a popular choice among traders (see worksheet, Figure 30 -1). 
+Swiss Franc 
+-- 
+Figure 30-1. Stochastic Worksheet 
+The %K of Fast Stochastic is similar to Williams %R. 
+The %D of Fast Stochastic is obtained by smoothing %K over a 3-day 
+period. 
+The %D of Fast Stochastic becomes the %K of Slow Stochastic and is 
+smoothed once again to obtain %D of Slow Stochastic. 
+Most traders use computers to construct Stochastic. Choosing the 
+width of the Stochastic window depends on a trend you are trying to 
+identify. 
+A very short-term Stochastic (5 days or so) helps catch short- 
+term reversals. A longer Stochastic (14-21 days) helps identify more sig- 
+nificant market turns. 
+158 COMPUTERIZED TECHNICAL ANALYSIS 
+Stochastic is designed to fluctuate between 0 and 100. Reference lines are 
+drawn at 20 percent and 80 percent levels to mark overbought and oversold 
+areas. Slow Stochastic seldom reaches the same extremes as raw Williams 
+%R. 
+Crowd Psychology 
+Each price is the consensus of value of all market participants at the moment 
+of transaction. Daily closing prices are important because the settlement of 
+trading accounts depends on them. The high of any period marks the maxi- 
+mum power of bulls during that time. The low of that period shows the max- 
+imum power of bears during that time. 
+Stochastic measures the capacity of bulls or bears to close the market near 
+the upper or lower edge of the recent range. When prices rally, markets tend 
+to close near the high. If bulls can lift prices up during the day but cannot 
+close them near the top, Stochastic turns down. It shows that bulls are 
+weaker than they seem and gives a sell signal. 
+Daily closes tend to occur near the lows during downtrends. When a bar 
+closes near its high, it shows that bears can only push prices down during the 
+day but cannot hold them down. An upturn of Stochastic shows that bears 
+are weaker than they appear and flashes a buy signal. 
+Trading Rules 
+Stochastic shows when bulls or bears become stronger or weaker. This 
+information helps you decide whether bulls or bears are likely to win the 
+current fight in the market. It pays to trade with the winners and against 
+the losers. 
+Stochastic gives three types of trading signals, listed here in the order of 
+importance: divergences, the level of Stochastic lines, and their direction 
+(Figure 30-2). 
+Divergences 
+The most powerful buy and sell signals of Stochastic are given by diver- 
+gences between this indicator and prices. 
+30. STOCHASTIC 
+1. A bullish divergence occurs when prices fall to a new low but 
+Stochastic traces a higher bottom than during the previous decline. It 
+shows that bears are losing strength and prices are falling out of iner- 
+tia. As soon as Stochastic turns up from its second bottom, it gives a 
+strong buy signal: Go long and place a protective stop below the latest 
+low in the market. The best buy signals occur when the first bottom is 
+below the lower reference line and the second is above it. . 
+,. Swiss Franc 
+ 14 
+f/+\~'+/~~ 
+,1,11 111 , 
+'"I' 
+lflll,! 
+2. A bearish divergence occurs when prices rally to a new high but 
+Stochastic traces a lower top than during its previous rally. It shows 
+l'~'l'~!'l] 
+t 11, 
+l~\~~jii,hl 
+1 S~II .. 65,48 1 
+" 
+1'1' t 
+sell 
+1' 
+sell .. 
+63*96 
+:: 1 
+self A 
+ .A 
+62,43 
+.. May Slow Stochastic .. 
+128,88 
+Figure 30-2. Five-Day Slow Stochastic 
+Stochastic lines help identify top and bottom areas when they move 
+above or below their reference lines. These signals work well during 
+trading ranges but are premature when a new trend begins (see early 
+September). Stochastic gives its best signals when it diverges from prices. 
+There is a Class A bearish divergence in early October, prior to a sharp 
+price break. 
+Once you go long or short using Stochastic, place a protective stop 
+immediately below the latest minor low or above the latest minor high. 
+There is a buy signal at the right edge of the chart-it is time to cover 
+shorts and buy. 
+A 6833 
+" 67" 
+160 COMPUTERIZED TECHNICAL ANALYSIS 
+that bulls are becoming weaker and prices are rising out of inertia. As 
+soon as Stochastic turns down from its second top, it gives a sell sig- 
+nal: Go short and place a protective stop above the latest price peak. 
+The best sell signals occur when the first top is above the upper refer- 
+ence line and the second is below. 
+Overbought and Oversold 
+When Stochastic rallies above its upper reference line, it shows that the mar- 
+ket is overbought. Overbought means too high, ready to turn down. When 
+Stochastic falls below its lower reference line, it shows that the market is 
+oversold. Oversold means too low, ready to turn up. 
+These signals work fine during trading ranges but not when a market 
+develops a trend. In uptrends, Stochastic quickly becomes overbought and 
+keeps giving sell signals while the market rallies. In downtrends, Stochastic 
+quickly becomes oversold and keeps giving premature buy signals. It pays to 
+combine Stochastic with a long -term trend -following indicator (see Section 
+43). The Triple Screen trading system allows traders to take buy signals from 
+daily Stochastic only when the weekly trend is up. When the weekly trend is 
+down, it allows traders to take only sell signals from daily Stochastic. 
+3. When you identify an uptrend on a weekly chart, wait for daily 
+Stochastic lines to decline below their lower reference line. Then, 
+without waiting for their crossover or an upturn, place a buy order 
+above the high of the latest price bar. Once you are long, place a pro - 
+tective stop below the low of the trade day or the previous day, 
+whichever is lower. 
+The shape of Stochastic's bottom often indicates whether a rally is likely 
+to be strong or weak. If the bottom is narrow and shallow, it shows that bears 
+are weak and the rally is likely to be strong. If it is deep and wide, it shows 
+that bears are strong and the rally is likely to be weak. It is better to take only 
+strong buy signals. 
+4. When you identify a downtrend on a weekly chart, wait for daily 
+Stochastic lines to rally above their upper reference line. Then, with - 
+out waiting for their crossover or a downturn, place an order to sell 
+short below the low of the latest price bar. By the time Stochastic lines 
+cross over, the market is often in a free fall. Once you are short, place 
+30. STOCHASTIC 161 
+a protective stop above the high of the trade day or the previous day, 
+whichever is higher. 
+The shape of Stochastic's top often indicates whether a decline is likely to 
+be steep or sluggish. A narrow top in Stochastic shows that bulls are weak 
+and a severe decline is likely. A Stochastic top that is high and wide shows 
+that bulls are strong- it is safer to pass up that sell signal. 
+5. Do not buy when Stochastic is overbought and do not sell short when 
+it is oversold. This rule filters out most bad trades. 
+Line Direction 
+When both Stochastic lines are headed in the same direction, they confirm 
+the short-term trend. When prices rise and both Stochastic lines rise, the 
+uptrend is likely to continue. When prices slide and both Stochastic lines fall, 
+the short-term downtrend is likely to continue. 
+More on Stochastic 
+Stochastic can be used in any timeframe, including weekly, daily, or intra- 
+day. Weekly Stochastic usually changes its direction one week prior to 
+weekly MACD -Histogram. If weekly Stochastic turns, it warns you that 
+trend-following MACD -Histogram is likely to turn the next week. It is a sig - 
+nal to tighten stops on existing positions or start taking profits. 
+Choosing the width of the Stochastic window is important. Short -term 
+oscillators are more sensitive. Long-term oscillators turn only at important 
+tops and bottoms. If you use Stochastic as a stand-alone oscillator, a longer 
+Stochastic is preferable. If you use Stochastic as part of a trading system, 
+combined with trend -following indicators, then a shorter Stochastic is 
+preferable. 
+An ingenious way to use Stochastic, popularized by Jacob Bernstein, is 
+called a Stochastic pop. When Stochastic crosses above its upper reference 
+line, it indicates strength. You can buy for a quick rally and sell as soon as 
+Stochastic turns down. This signal can help you catch the last splash of the 
+bullish wave. 
+Stochastic is one of the favorite tools of automatic trading systems devel- 
+opers. These modern-day alchemists try to use Stochastic in a 
+pu-ily 
+162 COMPUTERIZED TECHNICAL ANALYSIS 
+mechanical manner, buying and selling when the two Stochastic lines cross. 
+They discard Stochastic when it fails to deliver magic results. Trading the 
+crossovers of Stochastic lines is not profitable, no matter how much you 
+optimize them, because Stochastic works differently, depending on whether 
+the market is in a trend or in a trading range. 

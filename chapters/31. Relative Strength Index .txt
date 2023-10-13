@@ -1,0 +1,178 @@
+31. RELATIVE STRENGTH INDEX 
+Relative Strength Index (RSI) is an oscillator developed by J. Welles Wilder, 
+Jr. It is now included in most software packages. RSI measures the strength 
+of any trading vehicle by monitoring changes in its closing prices. It is a 
+leading or a coincident indicator - it is never a laggard. 
+100 
+RSI 
+= 100 - 
+1+RS 
+average of net UP closing changes for a selected number of days 
+RS = 
+average of net DOWN closing changes for the same 
+number of days 
+The pattern of RSI peaks and valleys does not change in response to the 
+width of its time window. Trading signals become more visible with shorter 
+RSI, such as 7 or 9 days. Most traders use computers to calculate and plot 
+RSI. Take these steps to calculate a 7 -day RSI for any market: 
+1. Obtain closing prices for the past 7 days. 
+2. Find all days where the market closed higher than the day before and 
+add up the amounts of increases. Divide the sum by 7 to obtain the 
+average UP closing change. 
+3. Find all days when the market closed lower than the day before and 
+add up the amounts of declines. Divide the sum by 7 to obtain the 
+average DOWN closing change. 
+4. Divide the average UP closing change by the average DOWN closing 
+change to obtain Relative Strength (RS). Insert RS in the formula 
+above to arrive at RSI - Relative Strength Index. 
+5. Repeat the process daily (see worksheet, Figure 31 -1). 
+31. RELATIVE STRENGTH INDEX 163 
+If you calculate RSI by hand, you can use a shortcut. Once you have 7 
+days' worth of data, replace steps 2 and 3 on all following days: r 
+Swiss Franc 
+Figure 31-1. Seven-Day Relative Strength Index Worksheet 
+Begin by calculating average UP closing and average DOWN closing for 
+the past 7 days. Insert the results in the RSI formula and then start using 
+the calculation shortcut, as outlined in the text. UpAvq:7 ......... i 
+DownAvg:7 
+ I RSI:7 ".. ..." ". 
+? .................... "" ............. " .................. i .{ ............................................................ 
+j Date ................ " ......... ". 
+1 0129 
+1 0130 
+2. Multiply yesterday's average UP closing change by 6, add today's UP 
+closing change, if any, and divide the total by 7. That is your new 
+average UP closing change. 
+- Close .................................. 
+77.34 ........................................................................................ 
+78.02 
+3. Multiply yesterday's average DOWN closing change by 6, add today's 
+DOWN close if any, and divide the total by 7. That is your new aver - 
+age DOWN closing change. Then proceed to step 4 (opposite page). 1 0131 
+ 1 77.71 
+I i 
+1111 78.45 
+1 
+ ! I 
+RSI fluctuates between 0 and 100. When RSI reaches a peak and turns 
+down, it identifies a top. When RSI falls and then turns up, it identifies a bot- 
+tom. These turns come at different levels in different markets or even in the 
+same market, during bull and bear periods. 1112 
+1115 
+1116 
+1117 
+1 79.99 ) 0.4629 0.0843 
+ I 84.60 
+0.3967 
+i 0.0765 
+ 1 83.83 
+0.3401 
+9 i 0.0685 i 
+: 83.24 ........................... ............................. ............................. 
+0.2943 
+9 i 0.0587 i 83.38 ........................... ............................. ............................. --- 0.2523 I 0.0789 76.18 
+--- 
+11/14 
+ 1 80.09 
+ 1 0.2634 
+i 0.0676 j 79.587 
+11/15 
+ 1 79.72 
+ 1 0.2258 / 0.1 108 
+ j 67.08 
+11/16 
+ 1 80.10 
+ 1 0.2478 
+i 0.0950 
+! 72.29 79.15 ...................................................................................................................... 
+79.91 ........................................................................................ 
+79.63 
+: 
+ L + ............................. 
+i i : ............................. 
+ 4 ............................. 
+i I 
+164 COMPUTERIZED TECHNICAL ANALYSIS 
+Overbought and oversold levels vary from market to market and from 
+year to year. There are no magical levels marking all tops and bottoms. 
+Oversold and overbought signals are like hot and cold readings on a ther- 
+mometer. The same temperature has a different meaning in summer or in 
+winter. 
+Horizontal reference lines must cut across the highest peaks and the low - 
+est valleys of RSI. They are often drawn at 30 and 70. Some traders use 40 
+and 80 levels in bull markets or 20 and 60 in bear markets. Use the 5 percent 
+rule: Draw each line at a level beyond which RSI has spent less than 5 per- 
+cent of its time in the past 4 to 6 months. Adjust reference lines once every 
+three months. 
+Mass Psychology 
+Each price represents the consensus of value of all market participants at the 
+moment of transaction. Closing price reflects the most important consensus 
+of the day because the settlement of traders' accounts depends on it. When 
+the market closes higher, bulls make money and bears lose. When the market 
+closes lower, bears make money and bulls lose. 
+Most traders in all markets pay more attention to closing prices than to 
+any other prices. In the futures markets, money is transferred from losers' to 
+winners' accounts at the end of each trading day. RSI shows whether bulls or 
+bears are stronger at closing time- the crucial money-counting time in the 
+market. 
+Trading Rules 
+RSI gives three types of trading signals. They are, in order of importance, 
+divergences, charting patterns, and the level of RSI. 
+Bullish and Bearish Divergences 
+Divergences between RSI and prices give the strongest buy and sell signals. 
+They tend to occur at major tops and bottoms. They show when the trend is 
+weak and ready to reverse (Figure 31-2). 
+1. Bullish divergences give buy signals. They occur when prices fall to a 
+31. RELATIVE STRENGTH INDEX 165 
+f 
+Figure 31-2. Seven-Day Relative Strength Index 
+RSI gives its best trading signals when it diverges from prices. Its 
+strongest divergences are those in which prices rise to a new high or fall 
+to a new low, while RSI fails to cross its reference line. 
+RSI tends to break its trendlines ahead of prices. In addition to the 
+ones marked, you can find several other examples on this chart where 
+the breaking of RSI trendlines identifies turning points in the Swiss Franc. 
+At the right edge of the chart, as soon as RSI breaks above its trendline, it 
+will confirm a bullish divergence and give a strong buy signal. 
+new low but RSI makes a more shallow bottom than during its previ- 
+ous decline. Buy as soon as RSI turns up from its second bottom, and 
+place a protective stop below the latest minor price low. Buy signals 
+are especially strong if the first RSI bottom is below its lower refer - 
+ence line and the second bottom is above that line. 
+2. Bearish divergences give sell signals. They occur when prices rally to 
+a new peak but RSI makes a lower top than during the previous rally. 
+Sell short as soon as RSI turns down from its second top, and place a 
+protective stop above the latest minor high. Sell signals are especially 
+strong if the first RSI top is above its upper reference line and the sec - 
+ond top is below it. 
+166 COMPUTERIZED TECHNICAL ANALYSIS 
+Charting Patterns 
+Classical charting methods work better with Relative Strength Index than 
+with other indicators. Trendlines, support and resistance, and head-and- 
+shoulders patterns work well with RSI. RSI often completes these patterns a 
+few days in advance of prices, providing hints of likely trend changes. For 
+example, RSI trendlines are usually broken one or two days before price 
+trendlines. 
+3. When RSI breaks its downtrendline, place an order to buy above the 
+price trendline in order to catch an upside breakout. 
+4. When RSI breaks its uptrendline, place an order to sell short below the 
+price trendline to catch a downside breakout. 
+RSI Levels 
+When RSI rises above its upper reference line, it shows that bulls are strong 
+but the market is overbought and entering its sell zone. When RSI declines 
+below its lower reference line, it shows that bears are strong but the market 
+is oversold and entering its buy zone. 
+It pays to buy using overbought signals of daily RSI only when the 
+weekly trend is up. It pays to sell short using sell signals of daily RSI only 
+when the weekly trend is down (see Section 43). 
+5. Buy when RSI declines below its lower reference line and then rallies 
+above it. 
+6. Sell short when RSI rises above its upper reference line and then 
+crosses below it. 
+More on RSI 
+Some traders try to find deeper meaning in RSI patterns. Some analysts have 
+described formations called positive and negative reversals, which they 
+said forecasted the extent of any price move using RSI patterns. So far, there 
+have been no reports of conspicuous success using these patterns from any - 
+one but their promoters. 
+The Neglected Essentials 

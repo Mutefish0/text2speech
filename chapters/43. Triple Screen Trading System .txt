@@ -1,0 +1,297 @@
+43. TRIPLE SCREEN TRADING SYSTEM 
+The Triple Screen trading system was developed by this author and has been 
+used for trading since 1985. It was first presented to the public in April 1986, 
+in an article in Futures Magazine. 
+Triple Screen applies three tests or screens to every trade. Many trades 
+that seem attractive at first are rejected by one or another screen. Those 
+trades that pass the Triple Screen test have a higher degree of profitability. 
+Triple Screen combines trend-following methods and counter -trend tech - 
+niques. It analyzes all potential trades in several timeframes. Triple Screen is 
+more than a trading system, it is a method, a style of trading. 
+Trend-Following Indicators and Oscillators 
+Beginners often look for a magic bullet-a single indicator for making 
+money. If they get lucky for a while, they feel as if they discovered the royal 
+road to profits. When the magic dies, amateurs give back their profits with 
+interest and go looking for another magic tool. The markets are too complex 
+to be analyzed with a single indicator. 
+Different indicators give contradictory signals in the same market. Trend- 
+following indicators rise during uptrends and give buy signals, while oscilla - 
+tors become overbought and give sell signals. Trend -following indicators 
+2 36 TRADING SYSTEMS 
+turn down in downtrends and give signals to sell short but oscillators become 
+oversold and give buy signals. 
+Trend-following indicators are profitable when markets are moving but 
+lead to whipsaws in trading ranges. Oscillators are profitable in trading 
+ranges, but give premature and dangerous signals when the markets begin to 
+trend. Traders say: "The trend is your friend," and "Let your profits run." 
+They also say: "Buy low, sell high." But why sell if the trend is up? And 
+how high is high? 
+Some traders try to average out the votes of trend-following indicators 
+and oscillators. It is easy to rig this vote. If you use more trend -following 
+tools, the vote will go one way, and if you use more oscillators, it will go the 
+other way. A trader can always find a group of indicators telling him what he 
+wants to hear. 
+The Triple Screen trading system combines trend-following indicators 
+with oscillators. It is designed to filter out their disadvantages while preserv - 
+ing their strengths. 
+Choosing 
+ Tirneframes--The Factor of Five 
+Another major dilemma is that the trend can be up and down at the same 
+time, depending on what charts you use. A daily chart may show an uptrend 
+while a weekly chart shows a downtrend, and vice versa (see Section 36). A 
+trader needs to handle conflicting signals in different timeframes. 
+Charles Dow, the author of the venerable Dow theory, stated at the turn of 
+the century that the stock market had three trends. The long-term trend lasted 
+several years, the intermediate trend several months, and anything shorter 
+than that was a minor trend. Robert Rhea, the great market technician of the 
+1930s, compared the three market trends to a tide, a wave, and a ripple. He 
+believed that traders should trade in the direction of the market tide and take 
+advantage of the waves but ignore the ripples. 
+Times have changed, and the markets have become more volatile. Traders 
+need a more flexible definition of timeframes. The Triple Screen trading sys - 
+tem is based on the observation that every timeframe relates to the larger and 
+shorter ones by approximately a factor of five (see Section 36). 
+Each trader needs to decide which timeframe he wants to trade. Triple 
+Screen calls that the intermediate timeframe. The long-term timeframe is 
+one order of magnitude longer. The short-term timeframe is one order of 
+magnitude shorter. 
+43. TRIPLE SCREEN TRADING SYSTEM 237 
+For example, if you want to carry a trade for several days or weeks, then 
+your intermediate timeframe will be defined by the daily charts. Weekly 
+charts are one order of magnitude longer, and they determine the long-term 
+timeframe. Hourly charts are one order of magnitude shorter, and they deter - 
+mine the short-term timeframe. 
+Day-traders who hold their positions for less than an hour can use the 
+same principle. For them, a 10 -minute chart may define the intermediate 
+timeframe, an hourly chart the long -term timeframe, and a 2-minute chart the 
+short-term timeframe. 
+Triple Screen demands that you examine the long-term chart first. It 
+allows you to trade only in the direction of the tide- the trend on the long - 
+term chart. It uses the waves that go against the tide for entering positions. 
+For example, daily declines create buying opportunities when the weekly 
+trend is up. Daily rallies provide shorting opportunities when the weekly 
+trend is down. 
+First Screen-Market Tide 
+Triple Screen begins by analyzing the long -term chart, one order of magni- 
+tude greater than the one you plan to trade. Most traders pay attention only to 
+the daily charts, with everybody watching the same few months of data. If 
+you begin by analyzing weekly charts, your perspective will be five times 
+greater than that of your competitors. 
+The first screen of Triple Screen uses trend -following indicators to iden- 
+tify long-term trends. The original system uses the slope of weekly MACD- 
+Histogram (see Section 26) to identify the market tide. The slope is defined 
+as the relationship between the two latest bars. When the slope is up, it 
+shows that bulls are in control-it is time to trade from the long side. When 
+the slope is down, it shows that bears are in control and tells you to trade 
+only from the short side (Figure 43-1). 
+A single uptick or a downtick of weekly MACD -Histogram indicates a 
+change of a trend. The upturns that occur below the centerline give better 
+buy signals than those above the centerline (See "Indicator Seasons" in 
+Section 36). The downturns that occur above the centerline give better sell 
+signals than the downturns below the centerline. 
+Some traders use other indicators to identify maior trends. Steve Notis 
+wrote an article in Futures magazine showing how he used the Directional 
+System as the first screen of Triple Screen. Even a simpler tool, such as the 
+238 TRADING SYSTEMS 
+'I Gold Weekly 
+b 
+sen 
+MACD-Histogram 2,8826 
+buy buy .. 0,9884 
+I. I 
+,I II 
+I I .. -0,2017 
+Rising Falling .. -1,439 
+T + -2,640 
+Feb 
+lCa~ Apr 
+Nay Jun Jul Aug Sep Oet 
+lh 
+Figure 43-1. Weekly MACD-Histogram-The First Screen of 
+Triple Screen 
+The slope of MACD-Histogram is defined by the relationship between its 
+two latest bars (see inset). Triple Screen tells traders to examine weekly 
+charts before looking at the dailies. When the weekly trend is up, it 
+allows us to trade only from the long side or stand aside. When the 
+weekly trend is falling, it allows us only to trade from the short side or 
+stand aside. 
+Weekly MACD-Histogram gives a buy signal when its slope turns up. 
+The best buy signals are given when this indicator turns up below its 
+centerline. When MACD -Histogram turns down, it gives a sell signal. 
+The best sell signals are given when it turns down from above its center- 
+line (see "Indicator Seasons," Section 36). Once you find the trend of the 
+weekly MACD -Histogram, turn to daily charts and look for trades in the 
+same direction. 
+slope of a 13-week exponential moving average, can serve as the first screen 
+of the Triple Screen trading system. The principle is the same. You can use 
+most trend-following indicators, as long as you analyze the trend on the 
+weekly charts first and then look for trades on the daily charts only in that 
+direction. 
+43. TRIPLE SCREEN TRADING SYSTEM 239 
+Screen One: Identify the weekly trend using a trend-following indica - 
+tor and trade only in its directkn. 
+A trader has three choices: buy, sell, or stand aside. The first screen of the 
+Triple Screen trading system takes away one of those choices. It acts as a 
+censor who permits you only to buy or stand aside during major uptrends. It 
+allows you only to sell short or stand aside during major downtrends. You 
+have to swim with the tide or stay out of the water. 
+Second Screen-Market Wave 
+The second screen identifies the wave that goes against the tide. When the 
+weekly trend is up, daily declines point to buying opportunities. When the 
+weekly trend is down, daily rallies point to shorting opportunities. 
+The second screen applies oscillators to the daily charts in order to iden - 
+tify deviations from the weekly trend. Oscillators give buy signals when 
+markets decline and sell signals when markets rise. The second screen of the 
+Triple Screen trading system allows you to take only those daily signals that 
+point in the direction of the weekly trend. 
+Screen Two: Apply an oscillator to a daily chart. Use daily declines 
+during weekly uptrends to find buying opportunities and daily rallies 
+during weekly downtrends to find shorting opportunities. 
+When the weekly trend is up, Triple Screen takes only buy signals from 
+daily oscillators and ignores their sell signals. When the weekly trend is 
+down, Triple Screen takes only shorting signals from oscillators and ignores 
+their buy signals. Force Index and Elder -ray are good oscillators to use with 
+Triple Screen, but Stochastic and Williams %R also perform well. 
+When the weekly 
+MACD-Histogram rises, the Zday EMA of Force Index 
+(see Chapter 8) gives buy signals when it falls below its centerline, as long as it 
+does not fall to a new multiweek low. When the weekly MACD -Histogram 
+declines, Force Index gives shorting signals when it rallies above its centerline, 
+as long as it does not rise to a new multiweek high Figure 43-2). 
+When the weekly trend is up, daily Elder -ray-(see Section 41) gives a buy 
+signal when Bear Power declines below zero and then ticks back up toward 
+240 TRADING SYSTEMS 
+Figure 43-2. Daily Force Index-The Second Screen of Triple 
+Screen 
+The 2day EMA of Force lndex is one of several oscillators that can work 
+as the second screen of the Triple Screen trading system. Force lndex 
+marks buying opportunities when it falls below its centerline. It marks 
+selling opportunities when it rallies above its centerline. 
+When the weekly trend is up, take only buy signals from the daily 
+oscillator for entering long positions. When the weekly trend is down, 
+take only sell signals for entering short positions. At the right edge of the 
+chart, the weekly trend has turned down. Wait for a rise in Force lndex 
+in order to sell short. 
+the centerline. When the weekly trend is down, daily Elder-ray signals to go 
+short when Bull Power rallies above zero and then ticks back down. 
+Stochastic (see Section 30) gives trading signals when its lines enter a buy 
+or a sell zone. When weekly 
+ MACD-Histogram rises but daily Stochastic 
+falls below 30, it identifies an oversold area, a buying opportunity. When the 
+weekly MACD -Histogram declines but daily Stochastic rises above 70, it 
+identifies an overbought area, a shorting opportunity. 
+Williams %R (see Section 29) needs a 4- or 5-day window to work with 
+Triple Screen. It is interpreted similarly to Stochastic. The Relative Strength 
+43. TRIPLE SCREEN TRADING SYSTEM 241 
+Index does not react to price changes as fast as other oscillators. It helps with 
+overall market analysis, but is too slow for Triple Screen. 
+Third Screen-lntraday Breakout 
+The first screen of the Triple Screen trading system identifies market tide on 
+a weekly chart. The second screen identifies a wave that goes against that 
+tide on a daily chart. The third screen identifies the ripples in the direction of 
+the tide. It uses intraday price action to pinpoint entry points. 
+The third screen does not require a chart or an indicator. It is a technique 
+for entering the market after the first and second screens gave a signal to buy 
+' or sell short. The third screen is called a trailing buy -stop technique in 
+uptrends and a trailing sell-stop technique in downtrends (Figure 43-3). 
+When the weekly trend is up and the daily trend is down, trailing buy- 
+stops catch upside breakouts. When the weekly trend is down and the daily 
+trend is up, trailing sell-stops catch downside breakouts. 
+Triple Screen Summary 
+Weekly Trend Daily Trend Action Order 
+UP UP Stand aside None 
+UP Down Go long Trailing buy -stop 
+Dowri Down Stand aside None 
+Down 
+ u P Go short Trailing sell-stop 
+When the weekly trend is up and a daily oscillator declines, it activates a 
+trailing buy -stop technique. Place a buy order one tick above the high of the 
+previous day. If prices rally, you will be stopped in long automatically when 
+the rally takes out the previous day's high. If prices continue to decline, your 
+buy-stop will not be touched. Lower your buy order the next day to the level 
+one tick above the latest price bar. Keep lowering your buy-stop each day until 
+stopped in or until the weekly indicator reverses and cancels its buy signal. 
+When the weekly trend is down, wait for a rally in a daily oscillator to 
+activate a trailing sell-stop technique. Place an order to sell short one tick 
+below the latest bar's low. As soon as the market turns down, you will be 
+stopped in on the short side. If the rally continues, keep raising your sell 
+order daily. The aim of a trailing sell -stop technique is to catch an intraday 
+downside breakout from a daily uptrend in the direction of a weekly down- 
+trend. 
+r 
+370,0 
+366.1 
+362,2 
+358.3 
+354.4 
+350,6 
+34.7 
+342,8 
+338.9 
+335,U 
+Figure 43-3. Trailing Buy-Stop-The Third Screen of Triple 
+Screen 
+Weekly MACD -Histogram has turned up in 
+midSeptember. When the 
+first screen points up, every decline of the second screen-the 2-day EMA 
+of Force Index-marks a buying opportunity. 
+a. Force lndex falls below its centerline. Place a buy order for tornor- 
+row 1 tick above the high of day a. 
+b. The decline continues. Lower the buy order to 1 tick above the 
+high of bar b. 
+c. Bought at the opening. Place a stop at the low of bar b. The new 
+high in Force lndex shows that the rally is strong, likely to continue. 
+d. Force lndex falls below its centerline. Place a buy order at the bar's 
+high. 
+e. Bought when prices rallied above the high of d. Place a stop at the 
+low of bar d. 
+f. Force lndex falls below its centerline. Place a buy order at the bar's 
+high. 
+g. Decline continues. Lower the buy-stop to within 1 tick of the high 
+of bar g. 
+h. Bought when prices rallied above the high of g. Place a stop at the 
+low of bar g. 
+i. Force lndex falls below its centerline. Place a buy order at the bar's 
+high. 
+j. Decline continues. Lower the buy-stop to within 1 tick of the high 
+of bar j. 
+k. Bought at the opening. Place a stop at the low of bar j. 
+I. Gold opens lower and hits the protective stop. It is important to use 
+stops because no indicator is perfect. 
+1 
+43. TRIPLE SCREEN TRADING SYSTEM 
+Screen Three: Use the trailing buy-stop technique when the weekly 
+trend is up and the daily oscillator is down. Use the trailing sell-stop 
+techniquemwhen the weekly trend is down and the daily oscillator is 
+up: 
+Stop-Loss 
+Proper money management is essential for successful trading. A disciplined 
+trader cuts his losses short and outperforms a loser who keeps hanging on 
+and hoping. The Triple Screen trading system calls for placing very tight 
+stops. 
+, As soon as you buy, place a stop -loss order one tick below the low of the 
+trade day or the previous day, whichever is lower. Once you sell short, place 
+a protective stop -loss one tick above the high of the trade day or the previous 
+day, whichever is higher. Move your stop to a break -even level as soon as the 
+market moves in your favor. Afterwards, the rule of thumb is to move your 
+stop to protect approximately 50 percent of paper profits (see Section 48). 
+The reason for using such tight stops is that Triple Screen trades only in 
+the direction of the tide. If a trade does not work out fast, it is a sign that 
+something is fundamentally changing below the surface of the market. Then 
+it is better to run fast. The first loss is the best loss-it allows you to re- 
+examine the market from the safety of the sidelines. 
+Conservative traders should go long or short on the first signal of the 
+Triple Screen trading system and stay with that position until the major trend 
+reverses or until stopped out. Active traders can use each new signal from 
+the daily oscillator for pyramiding the original position. 
+A position trader should try and stay with a trade until the weekly trend 
+reverses. A short -term trader may take profits using signals from the second 
+screen. For example, if a trader is long and Force Index becomes positive or 
+Stochastic rises to 70 percent, he may sell and take profits, then look for 
+another buying opportunity. 
+The Triple Screen trading system combines different timeframes and sev- 
+eral types of indicators. It uses a trend -following indicator with the long-term 
+charts and a short -term oscillator with the intermediate charts. It uses special 
+entry techniques for buying or selling short. It also uses tight money man- 
+agement rules. 
+TRADING SYSTEMS 

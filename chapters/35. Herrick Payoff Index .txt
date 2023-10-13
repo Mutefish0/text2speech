@@ -1,0 +1,120 @@
+35. HERRICK PAYOFF INDEX 
+The Herrick Payoff Index (HPI) is an indicator developed by John Herrick, a 
+technical market analyst from California. He taught it privately, but the indi - 
+cator became more popular after it was included in CompuTrac software in 
+the early 1980s. 
+The Herrick Payoff Index helps detect accumulation and distribution. 
+Most indicators measure only prices, some measure volume, but HPI tracks 
+open interest as well as prices and volume. HPI confirms valid trends and 
+helps catch their reversals. 
+How to Construct HPI 
+The Herrick Payoff Index may be calculated using several types of daily 
+data. You may use a single contract with its own price, volume, and open 
+interest. It is more practical to combine volume and open interest from all 
+contracts and apply them to the prices of the most active delivery month. 
+HPI uses daily high and low prices, volume, and open interest. It requires 
+data for at least three weeks before it begins producing meaningful numbers. 
+Its complex formula makes using a computer almost a necessity (see work - 
+sheet, Figure 35 -1). 
+HPI = Ky + (K - Ky) 
+where Ky = yesterday's HPI. 
+K = [(M -My) C V] 
+[I 
+* {(I 2)/G)] 
+and M = mean price - i.e., (High t Low)/2. 
+My = yesterday's mean price. 
+C = the value of a 1-cent move (or use the same constant for 
+all contracts). 
+V = volume. 
+184 THE NEGLECTED ESSENTIALS 
+Copper 
+Figure 35-1. Herrick Payoff Index Worksheet 
+HPI measures changes in prices, volume, and open interest. It is based on 
+mean rather than closing prices-the average consensus of value for the 
+day. The complexity of HPI makes using a computer almost a necessity. 
+I = absolute value of today's minus yesterday's open interest. 
+G = today's or yesterday's open interest, whichever is less. 
+The "+" or "-" sign in the right brackets is determined as follows: 
+If M 
+> My, the sign is "+"; if M 
+< My, the sign is "-". 
+Traders can apply HPI only to daily data and not to weekly or intraday 
+data. There is no such thing as weekly open interest. Weekly volume can be 
+obtained by adding up daily volume for five days, but open interest cannot 
+be added up. 
+Crowd Psychology 
+The Herrick Payoff Index measures mean prices rather than closing prices. 
+Daily mean prices represent the average consensus of value for the day. 
+Volume represents the degree of financial commitment in a given market. 
+When volume increases, the absolute value of HPI for that day increases. 
+35. HERRICK PAYOFF INDEX 
+Daily changes in open interest represent the flow of funds into and out of 
+the market. Rising open interest is bullish in an uptrend and bearish in a 
+downtrend. Falling open interest is bearish in an uptrend and bullish in a 
+downtrend. Flat open interest is essentially neutral. 
+Trading Rules 
+The Herrick Payoff Index gives several types of trading signals, listed here 
+in the order of importance. Divergences between HPI and prices identify 
+some of the best trading opportunities (Figure 35-2). When HPI breaks its 
+trendline, it gives an early warning that a price trendline is likely to be bro- 
+ken. When HPI crosses its centerline, it confirms new price trends. 
+1. When prices fall to a new low but HPI makes a higher bottom than 
+during the previous decline, it creates a bullish divergence and gives a 
+buy signal. When HPI turns up from its second bottom, buy and place 
+a protective stop below the latest price low. 
+2. A bearish divergence occurs when prices rally to a new high but HPI 
+makes a lower top. The signal to sell short is flashed when HPI turns 
+down from its second top. Place a protective stop above the latest high 
+price. 
+Important divergences develop over the course of several weeks. A diver- 
+gence that takes two months to develop is more powerful than the one in 
+which two weeks passed between the tops or bottoms. Pay attention to the 
+differences in the height of the adjacent HPI tops or bottoms. If the first top 
+or bottom is far away from the centerline and the second top or bottom is 
+near that line, that divergence is likely to lead to a greater move. 
+Bullish and bearish divergences of HPI often have long lead times. Once 
+you have identified a potential turning point using an HPI divergence, lean 
+on short-term oscillators for more precise timing. If a divergence between 
+HPI and price aborts, and you get stopped out, watch closely -you may get 
+an even better trading opportunity if a regular divergence turns into a triple 
+bullish or triple bearish divergence. Triple bullish divergences consist of 
+three lower bottoms in prices and three higher bottoms in HPI. Triple bearish 
+divergences consist of three higher tops in prices and three lower tops in 
+HPI. They occur at some of the major turning points in the markets. 
+3. HPI lends itself well to classical charting methods, especially trend- 
+lines. When trendlines of prices and HPI point in the same direction, 
+186 THE NEGLECTED ESSENTIALS 
+128 
+122 
+115 
+189 
+183 
+89,2 
+51,7 
+14,l 
+Herrick Payoff Index -23,4 
+-61,i 
+Figure 35-2. Herrick Payoff lndex 
+HPI tracks the flow of funds into or out of the market by measuring 
+changes in prices, volume, and open interest. HPI gives its best signals 
+when its patterns diverge from price patterns. HPI identified market tops 
+in August and September by tracing lower peaks while prices rose to 
+new highs. HPI called market bottoms in October and November when 
+it stopped declining and bottomed out at more shallow levels while cop - 
+per slid to new lows. 
+The bullish divergence in November was followed by a breaking of a 
+downtrendline of HPI and a rally above HPl's centerline. This combina- 
+tion gave an especially strong signal to buy copper. The best signals 
+develop slowly and give traders plenty of time to get aboard a new 
+trend. 
+they confirm trends. HPI often breaks its trendline before prices break 
+theirs. When HPI breaks below its uptrend, it gives a sell signal. When 
+it breaks above a downtrend, it gives a buy signal. Then it pays to 
+either take profits or to tighten stops. 
+4. The position of HPI above or below its centerline shows whether bulls 
+or bears dominate the market. When HPI is above its centerline, it 
+shows that bulls are in control-it is better to be long. When HPI is 
+below its centerline, it is better to be short. Bulls may buy or add to 
+36. TIME 187 
+their long positions when HPI rises above its centerline. When HPI 
+declines below its centerline, it confirms downtrends. 

@@ -1,0 +1,210 @@
+47. MONEY MANAGEMENT 
+Suppose you and I bet a penny on a coin flip: Tails, you win, heads, you lose. 
+Suppose you have $10 of risk capital and I have $1. Even though I have less 
+money, I have little to fear-it would take a string of 100 losses to wipe me 
+out. We can play for a long time, unless two brokers get between us and 
+drain our capital by commissions and slippage. 
+258 RISK MANAGEMENT 
+The odds will dramatically change if you and I raise our bet to a quarter. If 
+I have only $1, then a string of only four losses will destroy me. If you have 
+$10, you can afford to lose a quarter 40 times in a row. A series of four 
+losses is likely to come much sooner than forty. All other factors being 
+equal, the poorer of two traders is the first to go broke. 
+Most amateurs think that "other factors" are far from equal. They consider 
+themselves brighter than the rest of us. The trading industry works hard to 
+reinforce that delusion, telling traders that winners get the money lost by 
+losers. They try to hide the fact that trading is a minus-sum game (see 
+Section 3). Cocky amateurs take wild risks, producing commissions for bro- 
+kers and profits for floor traders. When they blow themselves out of the mar- 
+ket, new suckers come in because hope springs eternal. 
+Survival First 
+The first goal of money management is to ensure survival. You need to avoid 
+risks that can put you out of business. The second goal is to earn a steady 
+rate of return, and the third goal is to earn high returns - but survival comes 
+first. 
+"Do not risk thy whole wad" is the first rule of trading. Losers violate it 
+by betting too much on a single trade. They continue to trade the same or 
+even a bigger size during a losing streak. Most losers go bust trying to trade 
+their way out of a hole. Good money management can keep you out of the 
+hole in the first place. 
+The deeper you fall, the more slippery your hole. If you lose 10 percent, 
+you need to gain 11 percent to recoup that loss, but if you lose 20 percent, 
+you need to gain 25 percent to come back. If you lose 40 percent, you need 
+to make a whopping 67 percent, and if you lose 50 percent, you need to 
+make 100 percent simply to recover. While losses grow arithmetically, the 
+profits that are required to recoup them increase geometrically. 
+You have to know in advance how much you can lose - when and at what 
+level you will cut your loss. Professionals tend to run as soon as they smell 
+trouble and re -enter the market when they see fit. Amateurs hang on and 
+hope. 
+Get Rich Slowly 
+An amateur trying to get rich quick is like a monkey out on a thin branch. He 
+reaches for a ripe fruit but crashes when the branch breaks under his weight. 
+47. MONEY MANAGEMENT 259 
+Institutional traders as a group tend to be more successful than private 
+traders. They owe it to their bosses, who enforce discipline (See Section 14). 
+If a trader loses more than his limit on a single trade, he is fired for insubor - 
+dination. If he loses his monthly limit, his trading privileges are suspended 
+for the rest of the month and he becomes a gofer, fetching other traders cof - 
+fee. If he loses his monthly limit several times in a row, the company either 
+fires or transfers him. This system makes institutional traders avoid losses. 
+Private traders have to be their own enforcers. 
+An amateur who opens a $20,000 trading account and expects to run it 
+into a million in two years is like a teenager who runs away to Hollywood to 
+become a pop singer. He may succeed, but the exceptions only confirm the 
+rule. Amateurs try to get rich quick but destroy themselves by taking wild 
+risks. They may succeed for a while but hang themselves, given enough 
+rope. 
+Amateurs often ask me what percentage profit they can make annually 
+from trading. The answer depends on their skills or lack of such and market 
+conditions. Amateurs never ask a more important question: "How much will 
+I lose before I stop trading and re -evaluate myself, my system, and the mar - 
+kets?" If you focus on handling losses, profits will take care of themselves. 
+A person who makes 25 percent profit annually is a king of Wall Street. 
+Many top -flight money managers would give away their firstborn child to be 
+able to top this. A trader who can double his money in a year is a star-as 
+rare as a pop musician or a top athlete. 
+If you set modest goals for yourself and achieve them, you can go very 
+far. If you can make 30 percent annually, people will beg you to manage 
+their money. If you manage $10 million -not an outlandish amount in 
+today's markets-your management fee alone can run 6 percent of that, or 
+$600,000 a year. If you make a 30 percent profit, you will keep 15 percent of 
+it as an incentive fee- another $450,000. You will earn over a million dol - 
+lars a year trading, without taking big risks. Keep these numbers in mind 
+when you plan your next trade. Trade to establish the best track record, with 
+steady gains and small drawdowns. 
+How Much to Risk 
+Most traders get killed by one of two bullets: ignorance or emotion. 
+Amateurs act on hunches and stumble into trades that they should never take 
+due to negative mathematical expectations. Those who survive the stage of 
+virginal ignorance go on to design better systems. When they become more 
+260 RISK MANAGEMENT 
+confident, they lift their heads out of the foxholes-and the second bullet 
+hits them! Confidence makes them greedy, they risk too much money on a 
+trade, and a short string of losses blows them out of the market. 
+If you bet a quarter of your account on each trade, your ruin is guaranteed. 
+You will be wiped out by a very short losing streak, which happens even 
+with excellent trading systems. Even if you bet a tenth of your account on a 
+trade, you will not survive much longer. 
+A professional cannot afford to lose more than a tiny percentage of his 
+equity on a single trade. An amateur has the same attitude toward trading as 
+an alcoholic has toward drinking. He sets out to have a good time, but winds 
+up destroying himself. 
+Extensive testing has shown that the maximum amount a trader may lose on 
+a single trade without damaging his long-term prospects is 2 percent of his 
+equity. This limit includes slippage and commissions. If you have a $20,000 
+account, you may not risk more than $400 on any trade. If you have a 
+$100,000 account, you may not risk more $2000 on a trade, but if you have 
+only $10,000 in your account, then you can risk no more than $200 on a trade. 
+Most amateurs shake their heads when they hear this. Many have small 
+accounts and the 2 percent rule throws a monkey wrench into the dreams of 
+quick profits. Most successful professionals, on the other hand, consider the 
+2 percent limit too high. They do not allow themselves to risk more than 1 
+percent or 1.5 percent of their equity on any single trade. 
+The 2 percent rule puts a solid floor under the amount of damage the market 
+can do to your account. Even a string of five or six losing trades will not crip- 
+ple your prospects. In any case, if you are trading to create the best track 
+record, you will not want to show more than a 6 percent or 8 percent monthly 
+loss. When you hit that limit, stop trading for the rest of the month. Use this 
+cooling-off period to reexamine yourself, your methods, and the markets. 
+The 2 percent rule keeps you out of riskier trades. When your system 
+gives an entry signal, check to see where to place a logical stop. If that 
+would expose more than 2 percent of your account equity -pass up that 
+trade. It pays to wait for trades that allow very close stops (see Chapter 9). 
+Waiting for them reduces the excitement of trading but enhances profit 
+potential. You choose which of the two you really want. 
+The 2 percent rule helps you decide how many contracts to trade. For 
+example, if you have $20,000 in your account, you may risk up to $400 per 
+trade. If your system flags an attractive trade with a $275 risk, then you may 
+trade only one contract. If the risk is only $175, then you can afford to trade 
+two contracts. 
+47. MONEY MANAGEMENT 261 
+What about pyramiding - increasing the size of your trading positions as 
+a trade moves in your favor? The 2 percent rule helps here too. If you show 
+profit on a trend-following position, you may add to it, as long as your 
+existing position is at a break-even level or better and the risk on the addi- 
+tional position does not exceed 2 percent of your equity. 
+Martingale Systems 
+Once you set your maximum risk per trade, you have to decide whether to 
+risk the same amount on every trade. Most systems vary the amount of 
+money at risk from trade to trade. One of the oldest money management sys - 
+tems is the martingale, originally developed for gambling. It has you bet a 
+greater amount after a loss, in order to "come back." Needless to say, this 
+approach has a great emotional appeal to losers. 
+A martingale player in a casino keeps betting $1 as long as he wins, but if 
+he loses, he doubles up and bets $2. If he wins, he ends up with a $1 profit 
+(-$I + $2) and goes back to betting $1. If he loses, he doubles up again and 
+bets $4. If he wins, he gets a $1 profit (-$I, -$2, +$4), but if he loses, he 
+doubles up and bets $8. As long as he keeps doubling up, his very first win 
+will cover all his losses and return a profit equal to his original bet. 
+A martingale system sounds like a no-lose proposition, until you realize 
+that a long run of bad trades will wipe out every gambler, no matter how 
+rich. At the extreme, a gambler who starts betting $1 and has 46 losses in a 
+row, has to bet $70 trillion on his 47th bet-more than the net worth of the 
+entire world (about $50 trillion). He is sure to run out of money or hit the 
+house limit much sooner than that. A martingale system is futile if you have 
+a negative or even-money expectation. It is self -defeating if you have a win- 
+ning system and a positive expectation. 
+Amateurs love martingale systems because of their emotional appeal. 
+There is a common superstition that you can get unlucky only up to a point 
+and that bad luck is bound to change. Losers often trade more heavily after a 
+drawdown. A loser fighting to come back often doubles his trading size after 
+a loss. This is a very poor method of money management. 
+If you want to vary your trading size, logic requires you to trade more 
+when your system is in gear with the market and making money. As your 
+account grows, the 2 percent rule allows you to trade larger amounts. You 
+should trade less when your system is out of sync with the market and losing 
+money. 
+262 RISK MANAGEMENT 
+Optimal f 
+Some traders who develop computerized trading systems believe in trading 
+what they call the optimal f- an "optimal fixed fraction " of the account. The 
+fraction of capital they risk on any trade depends on a formula that is based 
+on the performance of their trading system and their account size. It is a 
+complex method, but whether you use it or not, you can borrow several 
+sound ideas from it. 
+Ralph Vince has shown in his book, Portfolio Management Formulas, 
+that: (1) optimal f keeps changing; (2) if you trade more than optimalf, you 
+gain no benefit and are virtually certain to go broke; (3) if you trade less than 
+optimal f, your risk decreases arithmetically but your profits decrease geo - 
+metrically. 
+Trading at the optimal f is emotionally hard because it can lead to 85 per- 
+cent drawdowns. It should be attempted only with true risk capital. The key 
+point here is that if you trade more than the optimal fraction, you are certain 
+to destroy your account. The lesson is: When in doubt, risk less. 
+Computerized testing of money management rules has confirmed several 
+old-timers' rules and observations. The true measure of any system's finan - 
+cial risk is its biggest losing trade. A drawdown depends on the length of an 
+adverse run, which can never be predicted. Diversification can buffer the 
+drawdowns. You can diversify by trading different markets and using differ - 
+ent systems. Closely related markets such as currencies offer no diversifica - 
+tion. A small trader is forced to follow a simple rule: Put all your eggs into 
+one basket and watch it like a hawk. 
+According to Vince, computer testing has proven several common 
+money management rules: Never average down; never meet a margin call; 
+if you must lighten up, liquidate your worst position; the first mistake is 
+the cheapest. 
+Reinvesting Profits 
+Pay attention to what you feel when you handle profits. Many traders feel 
+tom between a craving for a bigger and faster buck and a fear of losing. A 
+professional trader calmly removes some money from his account, just as 
+any other professional draws an income from his work. An amateur who 
+fearfully grabs a profit and buys something with it before he can lose it 
+shows little confidence in his ability to make money. 
+Reinvesting can turn a winning system into a losing one, but no method of 
+48. EXITING TRADES 263 
+reinvesting profits can turn a losing system into a winning one. Leaving 
+profits in your account allows you to make money faster by trading more 
+contracts or being able to establish long -term positions using wider stops. 
+Removing some of your profits provides a cash flow. The government also 
+wants its share in taFes. 
+There is no hard and fast rule for splitting your profits between reinvest - 
+ment and personal use. It depends on your personality and the size of your 
+trading account. If you start with a small account, such as $50,000, you will 
+not want to drain profits from it. When your account is well into six figures, 
+you may begin treating it as an income-producing business. 
+You will need to make important personal decisions. Do you need 
+$30,000 or $300,000 a year to live on? Are you willing to cut spending in 
+order to leave more in your account? The answers to these questions depend 
+on your personality. Make sure to use your intellect and not your emotions 
+when you make these decisions. 

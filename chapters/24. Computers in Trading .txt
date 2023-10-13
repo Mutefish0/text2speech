@@ -1,0 +1,197 @@
+24. COMPUTERS IN TRADING 
+To be a successful trader, you must understand markets better than your 
+competitors do. You can analyze them more thoroughly using a computer. 
+Many traders who compete with you in the markets already have these 
+machines. 
+Manual charting can help you develop an intuitive, physical feel for 
+prices. You can buy some graph paper and plot several stocks or commodi - 
+ties each day. Once you post your charts, write down at what level you will 
+be a buyer or a seller and where you will place your stops. 
+After you do that for a while, you will probably want to analyze more 
+markets using technical indicators. Then it is time to look for a computer and 
+technical analysis software. 
+Driving or Walking 
+A trader without a computer is like a man traveling on a bicycle. His legs 
+grow strong and he sees a lot of scenery, but his progress is slow. When you 
+travel on business and want to get to the point fast, you get a car. 
+A computer can help you track and analyze more markets in depth. It can 
+take over routine tasks and free up your mind for thinking. A computer 
+116 COMPUTERIZED TECHNICAL ANALYSIS 
+allows you to use more indicators and spot more opportunities in the mar- 
+kets. Trading is an information game. A computer helps you process more 
+information. 
+Computerized technical analysis is more objective than classical charting. 
+You can argue about whether a head-and-shoulders pattern is present - but 
+there is never an argument about an indicator's direction. When an indicator 
+points up, it is clearly up, and when it is down, it is clearly down. 
+Switching from manual charting to computerized analysis is like giving 
+up an abacus for a calculator. It may slow you down for a while, as you learn 
+to push the keys, but the eventual increase in speed is worth the effort. 
+Three Steps to Computerized Analysis 
+There are three steps to becoming a computerized trader. First you must 
+choose software, then a computer, and finally data for analysis. Different 
+programs require different computers, which is why it pays to choose soft- 
+ware first. Software tells a computer how to process data and how to display 
+the results. Each program has a unique list of features and its own look and 
+feel. 
+Draw a list of tasks you want your computer to perform for you and show 
+it to computerized traders. Contact a traders' group such as Club 3000 to see 
+what its members like. Many traders call Financial Trading Seminars, Inc. 
+for our opinion on the best packages. Magazines for traders, such as Futures 
+and Technical Analysis of Stocks and Commodities carry many ads for tech- 
+nical analysis software. Read those ads and software reviews, and send away 
+for demo diskettes. 
+Once you narrow down your choices to two or three programs, call the 
+companies whose software you like and ask for names of users in your area. 
+Insist on names of real users-your best source of practical and unbiased 
+advice. Many traders feel isolated and enjoy contact with other traders. They 
+like to show their equipment and tell you about the quality of technical sup 
+port. 
+Most programs for technical analysis fall into one of three groups: tool - 
+boxes, black boxes, and gray boxes. Toolboxes are for serious traders, black 
+boxes are for people who believe in Santa Claus, and gray boxes are in 
+between. When considering a new package, ask yourself which group it 
+belongs to. 
+24. COMPUTERS IN TRADING 117 
+Toolboxes 
+If you want to work with wood or metal, you can go to a hardware store and 
+buy a toolbox with a set of tools. You must learn how to use those tools to 
+work smarter and more efficiently. A technical analysis toolbox provides a 
+set of electronic tools for processing market data. 
+A toolbox draws daily and weekly charts, splits the screen into several 
+windows, and plots prices and indicators. A good toolbox includes many 
+popular indicators, such as moving averages, channels, MACD, MACD- 
+Histogram, Stochastic, the Relative Strength Index, and a dozen others. It 
+allows you to fine-tune all indicators. For example, it lets you switch from a 
+5-day to a 9-day Stochastic at the push of a button. 
+A quality package allows you to write your own indicators into the sys - 
+tem. You may have a favorite formula that you want to follow, along with 
+ready-made indicators. Avoid programs that limit you to canned indicators. 
+A good toolbox allows you to compare any two markets and analyze 
+their spreads. If you trade options, your toolbox must include an options 
+valuation model. Advanced packages allow you to test the profitability of 
+trading systems. 
+There are good toolboxes at all price levels. At the high end, 
+CompuTrac'sT" 
+list of indicators runs to two pages, it allows you to test profitability, and it is 
+highly automated. Most of the charts in this book were drawn using CompuTrac. 
+Financial Trading Seminars, Inc. maintains a list of recommended resources for 
+computerized traders - software packages at all price levels, data services, com - 
+puter configurations, and so on. This list is updated every few months and 
+offered to traders as a public service. You can receive this timely information by 
+contacting our company at the address that appears in the back of this book. 
+Black Boxes 
+Black box software tells you what to buy and sell and when to buy or sell it 
+without telling you why. You put data into a black box, lights blink, gears 
+click, and out comes a piece of paper telling you what to do. Thousands of 
+traders pay good money for this. 
+Most black boxes are sold by hustlers to gullible or insecure traders. 
+Black boxes always come with impressive track records showing profitable 
+past performance. Every black box self-destructs because markets keep 
+changing. Even systems with built-in optimization do not work because we 
+118 COMPUTERIZED TECHNICAL ANALYSIS 
+do not know what kind of optimization will be needed in the future. There is 
+no substitute for mature judgment in trading. The only way to make money 
+from a black box is to sell one. 
+Each black box is guaranteed to fail, even if sold by an honest developer. 
+Complex human activities such as trading cannot be automated. Machines 
+can help but not replace humans. 
+Trading with a black box means using a slice of someone else's intelligence, 
+as it existed at some point in the past. Markets change, and experts change 
+their minds, but a black box keeps churning out its buy and sell signals. 
+Trading with a black box is like having sex using a penile implant - you may 
+deceive your partner for a while, but you will never deceive yourself. 
+Gray Boxes 
+Like a black box, a gray box generates trading signals based on a proprietary 
+formula. Unlike a black box, it gives you a general understanding of its for- 
+mula and allows you to fine-tune its operations to some degree. The closer a 
+gray box is to a toolbox, the better it is. 
+Well-known gray boxes include such programs as MESA. It is considered 
+the best program for identifying market cycles. 
+Computers 
+Different software programs run on different machines. This is why it is bet- 
+ter to choose your software before you buy a computer. Get the most modem 
+machine, so that it will remain useful for years. Traders keep demanding 
+more memory and speed - I never heard anyone complain about having too 
+much of either. Buy a fast modem for collecting data from a database. Get a 
+laser printer if you need to print high -quality charts. 
+Most programs allow you to automate studies and print them out. You 
+push a button and leave the computer alone. When you return, there is a 
+ream of charts with indicators piled in front of the printer. The tedious work 
+is done, and you can go to work making trading decisions. 
+It pays to hire a person who already uses the package to set up your sys - 
+tem. I often do that when I start using a new piece of software - it saves a lot 
+of time and energy. Once you know which buttons to push, you can run most 
+programs without knowing much about computers. 
+24. COMPUTERS IN TRADING 119 
+Market Data 
+Each trader needs to start with a historical database and update it daily. In the 
+old days, both had to be created manually. Now historical data for any given 
+market costs less than a dollar per month, and updates are cheap. It takes less 
+than a minute to update a dozen markets by modem, using your regular 
+phone line. There are many reliable databases offering a variety of stock, 
+currency, futures, and options data. 
+Some traders collect their data around the clock. They use satellite dishes, 
+FM receivers, and dedicated phone lines. Real -time data is necessary for 
+day-trading, but not for position trading. 
+Position traders enter and exit positions within days or weeks. Day-traders 
+enter and exit trades within a few hours if not minutes. You need to become a 
+competent position trader before you can day-trade. You can compare position 
+trading and day-trading to playing a video game at level one or level nine. You 
+run the same mazes and dodge the same monsters, but the pace of the game is 
+so fast that at level nine your reactions must be almost automatic. If you stop 
+to think, you are dead. Learn to analyze the markets and trade at level one- 
+learn to be a position trader before attempting to day-trade. 
+When you buy historical data, it pays to cover two bull markets and two 
+bear markets. Starting to analyze a new market, I usually review a monthly 
+chartbook covering 20 years of trading to see whether the market is histori- 
+cally high or low. I buy three to five years' worth of weekly data and one 
+year of daily data. 
+When you begin using a computer, focus on six or fewer markets and add 
+more later. For example, you may follow Treasury Bonds, Standard & Poor's 
+500, gold, and Japanese Yen or the German Mark. Change this list if you 
+want to follow agricultural or industrial markets. Choose a few technical 
+indicators, and run them daily on each market. After you learn them well, 
+add new ones. I use a battery of 10 or 12 indicators at any given time, plus 
+one new indicator. I watch it for several months and compare its signals to 
+others. If it proves useful, I add it to the standard package. 
+Three Major Groups of Indicators 
+Indicators can help you identify trends and their turning points. They can 
+provide a deeper insight into the balance of power between bulls and bears. 
+Indicators are more objective than chart patterns. 
+120 COMPUTERIZED TECHNICAL ANALYSIS 
+The trouble with indicators is that they often contradict one another. Some 
+of them work best in trending markets, others in flat markets. Some are good 
+at catching turning points, while others are better at following trends. 
+Most beginners look for a single indicator - a silver bullet to kill the con- 
+fusion in the markets. Others lump together many indicators and try to aver- 
+age their signals. Either way, a careless beginner with a computer is like a 
+teenager with a sports car - an accident waiting to happen. A serious trader 
+needs to know which indicators work best under different conditions. Before 
+you use any indicator, you must understand what it measures and how it 
+works. Only then can you have confidence in its signals. 
+Professionals divide indicators into three groups: trend -following indicators, 
+oscillators, and miscellaneous. Trend -following indicators work best when 
+markets are moving but give bad and dangerous signals when the markets are 
+flat. Oscillators catch turning points in flat markets but give premature and 
+dangerous signals when the markets begin to trend. Miscellaneous indicators 
+provide special insights into mass psychology. The secret of successful trading 
+is to combine several indicators from different groups so that their negative 
+features cancel each other out while their positive features remain undisturbed. 
+This is the aim of the Triple Screen trading system (see Section 43). 
+Trend-following indicators include moving averages, MACD (moving 
+average convergence -divergence), MACD -Histogram, the Directional 
+System, On-Balance Volume, 
+Accumulation/Distribution, and others. Trend- 
+following indicators are coincident or lagging indicators - they turn after 
+trends reverse. 
+Oscillators help identify turning points. They include Stochastic, Rate of 
+Change, Smoothed Rate of Change, Momentum, the Relative Strength 
+Index, Elder-ray, the Force Index, Williams %R, the Commodity Channel 
+Index, and others. Oscillators are leading or coincident indicators and often 
+turn ahead of prices. 
+Miscellaneous indicators provide insights into the intensity of bullish or 
+bearish market opinion. They include the New High-New Low Index, the 
+Put-Call Ratio, Bullish Consensus, Commitments of Traders, the 
+AdvanceDecline Index, the Traders' Index, and so on. They can be leading 
+or coincident indicators. 

@@ -1,0 +1,235 @@
+20. TREND AND TRADING RANGE 
+Traders try to profit from changes in prices: Buy low and sell high, or sell 
+short high and cover low. Even a quick look at a chart reveals that markets 
+spend most of their time in trading ranges. They spend less time in trends. 
+A trend exists when prices keep rising or falling over time. In an 
+uptrend, each rally reaches a higher high than the preceding rally and each 
+decline stops at a higher level than the preceding decline. In a downtrend, 
+each decline falls to a lower low than the preceding decline and each rally 
+stops at a lower level than the preceding rally. In a trading range, most ral- 
+lies stop at about the same high and declines peter out at about the same low. 
+A trader needs to identify trends and trading ranges. It is easier to trade 
+during trends (Figure 20-1). It is harder to make money when prices are flat 
+unless you write options, which requires a special skill. 
+Trading in trends and in trading ranges calls for different tactics. When 
+you go long in an uptrend or sell short in a downtrend, you have to give that 
+trend the benefit of the doubt and not be shaken out easily. It pays to buckle 
+your seat belt and hang on for as long as the trend continues. When you trade 
+in a trading range, you have to be nimble andclose out your position at the 
+slightest sign of a reversal. 
+Another difference in trading tactics between trends and trading ranges is 
+the handling of strength and weakness. You have to follow strength during 
+trends-buy in uptrends and sell short in downtrends. When prices are in a 
+trading range, you have to do the opposite - buy weakness and sell strength. 
+20. TREND AND TRADING RANGE 
+- 340 
+Soybeans . 330 
+. 328 
+. 310 
+1 
+~lh,{h+@~d . 278 
+. 260 
+2 
+T 4 
+ y 258 
+Nou Dec .Jan Feb Mar 
+ AP~ 
+Figure 20-1. Trend and Trading Range 
+A pattern of lower bottoms and lower tops defines downtrends. 
+Soybeans declined from November until the middle of January. Bdttom 
+4 was lower than bottom 2, and peak 3 lower than peak 1. The break of 
+the downtrendline at point 5 signaled the end of the downtrend. A bro- 
+ken downtrend can lead to either a trading range or an uptrend. 
+The November-January downtrend has dissolved into a trading range, 
+defined by horizontal lines drawn through the low 4 and highs 3 and 6. 
+When the decline from high 6 stopped at a higher low 7 without reach - 
+ing the bottom of the range, you could draw a preliminary uptrendline. 
+A breakout from the range at point 8 confirmed the beginning of a new 
+uptrend. 
+At the right edge of the chart, prices are hovering just above their 
+uptrendline. It is a buying opportunity because the trend is up. The 
+downside risk of a trade can be limited by placing a stop either below 
+the latest low or below the trendline. Notice that daily trading ranges 
+(the distances from highs to lows) are relatively narrow. This is typical of 
+a healthy trend. Trends often end after several wide-range days-a sign of 
+blowoff action. 
+CLASSICAL CHART ANALYSIS 
+Mass Psychology 
+An uptrend emerges when bulls are stronger than bears and their buying forces 
+prices up. If bears manage to push prices down, bulls return in force, break the 
+decline, and force prices to a new high. Downtrends occur when bears are 
+stronger and their selling pushes markets down. When a flurry of buying lifts 
+prices, bears sell short into that rally, stop it, and send prices to new lows. 
+When bulls and bears are equally strong or weak, prices stay in a trading 
+range. When bulls manage to push prices up, bears sell short into that rally 
+and prices fall. Bargain hunters step in and break the decline; bears cover 
+shorts, their buying fuels a minor rally, and the cycle repeats. 
+A trading range is like a fight between two equally strong gangs. They 
+push one another back and forth on a street comer but neither can control the 
+turf. A trend is like a fight where a stronger gang chases the weaker gang 
+down the street. Every once in a while the weaker gang stops and puts up a 
+fight but then is forced to turn and run again. 
+Prices in trading ranges go nowhere, just as crowds spend most of their 
+time in aimless milling. Markets spend more time in trading ranges than in 
+trends because aimlessness is more common among people than purposeful 
+action. When a crowd becomes agitated, it surges and creates a trend. 
+Crowds do not stay excited for long- they go back to meandering. 
+Professionals tend to give the benefit of the doubt to trading ranges. 
+The Hard Right Edge 
+Identifying trends and trading ranges is one of the hardest tasks in technical 
+analysis. It is easy to find them in the middle of a chart, but the closer you 
+get to the right edge, the harder it gets. 
+Trends and trading ranges clearly stand out on old charts. Experts show 
+those charts at seminars and make it seem easy to catch trends. Trouble is, 
+your broker does not allow you to trade in the middle of the chart. He says 
+you must make your trading decisions at the hard right edge of the chart! 
+The past is fixed and easy to analyze. The future is fluid and uncertain. By 
+the time you identify a trend, a good chunk of it is gone. Nobody rings a bell 
+when a trend dissolves into a trading range. By the time you recognize that 
+change, you will lose some money trying to trade as if the market was still 
+trending. 
+20. TREND AND TRADING RANGE 83 
+Many chart patterns and indicator signals contradict one another at the 
+right edge of the chart. You have to base your decisions on probabilities in an 
+atmosphere of uncertainty. 
+Most people cannot accept uncertainty. They have a strong emotional 
+need to be right. They hang onto losing positions, waiting for the market to 
+turn and make them whole. Trying to be right in the market is very expen - 
+sive. Professional traders get out of losing trades fast. When the market devi - 
+ates from your analysis, you have to cut losses without fuss or emotions. 
+Methods and Techniques 
+) '-. - -- 
+- 
+There is no single magic method for identifying trends and trading ranges. 
+There are several methods, and it pays to combine them. When they confirm 
+one another, their message is reinforced. When they contradict one another, 
+it is better to pass up a trade. 
+1. Analyze the pattern of highs and lows. When rallies keep reaching 
+higher levels and declines keep stopping at higher levels, they identify 
+an uptrend. The pattern of lower lows and lower highs identifies a 
+downtrend, and the pattern of irregular highs and lows points to a trad - 
+ing range (Figure 20-1). 
+2. Draw an uptrendline connecting significant recent lows and a down- 
+trendline connecting significant recent highs (see Section 21). The 
+slope of the latest trendline identifies the current trend (Figures 20 -1, 
+20-2,21-1). 
+A significant high or low on a daily chart is the highest high or the lowest 
+low for at least a week. As you study charts, you become better at identify - 
+ing those points. Technical analysis is partly a science and partly an art. 
+3. Plot a 13-day or longer exponential moving average (see Section 25). 
+The direction of its slope identifies the trend. If a moving average has 
+not reached a new high or low in a month, then the market is in a trad- 
+ing range. 
+4. Several market indicators, such as MACD (see Section 26) and the 
+Directional system (Section 27), help identify trends. The Directional 
+system is especially good at catching early stages of new trends. 
+84 CLASSICAL CHART ANALYSIS 
+Ikc Jan Feb 
+Figure 20-2. Trendlines Identify Trends 
+The most important message of a trendline is the direction of its slope. 
+When the slope is up, trade that market from the long side. When the 
+slope is down, trade that market from the short side. 
+The uptrendline connecting bottoms 1 and 2 identifies an uptrend. It 
+tells you to trade heating oil only from the long side. Notice that some- 
+times prices break their uptrendline but later pull back to it from below 
+(3). This is a superb shorting opportunity. This happens again at point 7, 
+where prices rise to their old uptrendline after breaking it. 
+When you trade in the direction of the trendline, you are usually trad- 
+ing in the direction of the market tide. At the right edge of the chart, you 
+need to look for a shorting opportunity because the trend is down. Do 
+not sell short immediately, because prices are too far below their down- 
+trendline and your stop would have to be too wide. It is essential to wait 
+for trades with a good riskheward ratio. Patience is a virtue for a trader. 
+L 
+Trade or Wait 
+When you identify an uptrend and decide to buy, you have to decide whether 
+to buy immediately or wait for a dip. If you buy fast, you get in gear with the 
+trend, but your stops are likely to be farther away and you risk more. 
+If you wait for a dip, you will risk less but will have four groups of com- 
+20. TREND AND TRADING RANGE 85 
+petitors: longs who want to add to their positions, shorts who want to get out 
+even, traders who never bought, and traders who sold too early but are eager 
+to buy. The waiting area for a pullback is very crowded! Markets are not 
+known for their charity, and a deep pullback may well signal the beginning 
+of a reversal. This reasoning also applies to downtrends. Waiting for pull - 
+backs while a trend is gathering steam is an amateur's game. 
+If the market is in a trading range and you are waiting for a breakout, you 
+have to decide whether to buy in anticipation of a breakout, during a break - 
+out, or on a pullback after a valid breakout. If you trade multiple positions, 
+you can buy a third in anticipation, a third on a breakout, and a third on a 
+pullback. 
+Whatever method you use, there is one money management rule that will 
+keep you out of the riskiest trades. The distance from the entry point to the 
+level of a protective stop should never be more than 2 percent of your 
+account equity (see Chapter 10). No matter how attractive a trade is, pass it 
+up if it requires a wider stop. 
+Money management tactics are different in trends and trading ranges. It 
+pays to put on a smaller position in a trend but use a wider stop. Then you will 
+be less likely to get shaken out by reactions while you keep risk under control. 
+You may put on a bigger position in a trading range but use a tighter stop. 
+Finding good entry points is extremely important in trading ranges. You 
+have to be very precise because the profit potential is so limited. A trend is 
+more forgiving of a sloppy entry, as long as you trade in the direction of the 
+trend. Old traders chuckle: "Do not confuse brains with a bull market." 
+When you cannot tell whether the market is in a trend or in a trading range, 
+remember that professionals give the benefit of the doubt to trading ranges. 
+If you are not sure, stand aside. 
+Professionals love trading ranges because they can slide in and out of 
+positions with little risk of being impaled on a trend. Since they pay low or 
+no commissions and suffer little slippage, it is profitable for them to trade in 
+gently fluctuating markets. Those of us who trade away from the floor are 
+better off trying to catch trends. You can trade less frequently during trends, 
+and your account suffers less from commissions and slippage. 
+Conflicting Timeframes 
+Most traders ignore the fact that markets usually are both in a trend and in a 
+trading range at the same time! They pick one timeframe such as daily or 
+86 CLASSICAL CHART ANALYSIS 
+:: Eurodollars -Weekly 
+.. 89 
+" A C 88 
+APP Jun Bug Oct Dec leb APP Jun Aug Gt Dee kb AR Jun Aug 
+95 
+:: Eurodollars - Daily 
+T 94 
+94 
+93 
+93 
+93 
+92 
+92 
+92 
+Figure 20-3. Conflicting Trends in Different Timeframes 
+The weekly chart of Eurodollars shows a perfect uptrend A-B. At the 
+same time, the daily chart shows that a downtrend X-Y is beginning. 
+Which of them will you follow? Contradictory signals in different time- 
+frames in the same market are among the most common and thorny 
+dilemmas in trading. You need to watch markets in more than one time- 
+frame and know how to handle their conflicting signals. The Triple 
+Screen trading system helps you solve this problem (see Section 43). 
+hourly and look for trades on daily charts. With their attention fixed on daily 
+or hourly charts, trends from other timeframes, such as weekly or 10-minute 
+trends, keep sneaking up on them and wreaking havoc with their plans. 
+Markets exist in several timeframes simultaneously (see Section 36). 
+They exist on a 10-minute chart, an hourly chart, a daily chart, a weekly 
+chart, and any other chart. The market may look like a buy on a daily chart 
+but a sell on a weekly chart, and vice versa (Figure 20-3). The signals in dif- 
+ferent timeframes of the same market often contradict one another. Which of 
+them will you follow? 
+When you are in doubt about a trend, step back and examine the charts in 
+a timeframe that is larger than the one you are trying to trade. This search for 
+a greater perspective is one of the key principles of the Triple Screen trading 
+system (see Section 43). 
+A losing trader often thinks he would be better off if he had a real-time 
+quote machine on his desk. One of the universal fantasies of losers is that 
+they would be winners if they could get their data faster and focused on a 
+shorter timeframe. But they lose money even faster with a quote system! 
+When that happens, some losers say they would be better off trading right on 
+the exchange floor, without any delay for data transmission. But more than 
+half of floor traders wash out in their first year; being in the middle of the 
+action does not do losers any good. 
+The conflicting signals in different timeframes of the same market are one 
+of the great puzzles in market analysis. What looks like a trend on a daily 
+chart may show up as a blip on a flat weekly chart. What looks like a flat 
+trading range on a daily chart shows rich uptrends and downtrends on an 
+hourly chart, and so on. When professionals are in doubt, they look at the big 
+picture, but amateurs focus on the short-term charts. 

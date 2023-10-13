@@ -1,0 +1,150 @@
+40. COMMITMENT INDICATORS 
+Several government agencies and exchanges collect data on buying and sell- 
+ing by several groups of investors and traders. They publish summary 
+reports of actual trades-commitments of money as well as ego. It pays to 
+trade with those groups that have a track record of success and bet against 
+those with poor track records. 
+For example, the Commodity Futures Trading Commission (CFTC) 
+reports long and short positions of hedgers and big speculators. Hedgers- 
+the commercial producers and consumers of commodities-are the most 
+successful participants in the futures markets. The Securities and Exchange 
+Commission (SEC) reports purchases and sales by corporate insiders. 
+Officers of publicly traded companies know when to buy or sell their com- 
+pany shares. The New York Stock Exchange reports the number of shares 
+bought, sold, and shorted by its members and by odd-lot traders. Members 
+are more successful than small -time speculators. 
+Commitments of Traders 
+Traders must report their positions to the CFTC after they reach certain lev- 
+els, called reporting levels. At the time of this writing, if you are long or 
+short 100 contracts of corn or 300 contracts of the S&P 500 futures, the 
+CFTC classifies you as a big speculator. Brokers send reports on positions 
+that reach reporting levels to the CFTC. It compiles them and releases sum - 
+maries once every two weeks. 
+The CFTC also sets up the maximum number of contracts, called position 
+21 6 PSYCHOLOGICAL INDICATORS 
+limits, that a speculator is allowed to hold in any given market. At this time, 
+a speculator may not be net long or short more than 2400 contracts of corn or 
+500 contracts of the S&P 500 futures. These limits are set to prevent very 
+large speculators from accumulating positions that are big enough to bully 
+the markets. 
+The CFTC divides all market participants into three groups: commercials, 
+small speculators, and large speculators. Commercials, also known as 
+hedgers, are firms or individuals who deal in actual commodities in the nor- 
+mal course of business. In theory, they trade futures to hedge business risks. 
+For example, a bank trades interest rate futures to hedge its loan portfolio, or 
+a food processing company trades wheat futures to offset the risks of buying 
+grain. Hedgers post smaller margins and are exempt from speculative posi - 
+tion limits. 
+Large speculators are those traders whose positions reach reporting lev- 
+els. The CFTC reports buying and selling by commercials and large specula - 
+tors. To find the positions of small traders, you need to subtract the hold - 
+ings of the first two groups from the open interest. 
+The divisions between hedgers, big speculators, and small speculators are 
+somewhat artificial. Smart small traders grow into big traders, dumb big 
+traders become small traders, and many hedgers speculate. Some market par- 
+ticipants play games that distort the CFTC reports. For example, an acquain - 
+tance who owns a brokerage firm sometimes registers his wealthy speculator 
+clients as hedgers, claiming they trade stock index and bond futures to hedge 
+their stock and bond positions. 
+The commercials can legally speculate in the futures markets using inside 
+information. Some of them are big enough to play futures markets against 
+cash markets. For example, an oil firm may buy crude oil futures, divert sev - 
+eral tankers, and hold them offshore in order to tighten supplies and push 
+futures prices up. They can take profits on long positions, go short, and 
+deliver several tankers at once to refiners in order to push crude futures 
+down and cover shorts. This manipulation is illegal, and most firms hotly 
+deny that it takes place. 
+As a group, the commercials have the best track record in the futures mar- 
+kets. They have inside information and are well -capitalized. It pays to follow 
+them because they are successful in the long run. The few exceptions, such 
+as orange juice hedgers, only confirm this rule. 
+Big speculators used to be highly successful as a group until a decade or 
+so ago. They used to be wealthy individuals who took careful risks with their 
+own money. Today's big traders are commodity funds. These trend-follow- 
+40. COMMITMENT INDICATORS 21 7 
+ing behemoths do poorly as a group. The masses of small traders are the 
+proverbial "wrong-way Corrigans7' of the markets. 
+It is not enough to know whether a certain group is short or long. 
+Commercials are often short futures because many of them own physical 
+commodities. Small traders are usually long, reflecting their perennial opti - 
+mism. To draw valid conclusions from the CFTC reports, you need to com - 
+pare current positions to their historical norms. 
+The modem approach to analyzing commitments of traders has been devel- 
+oped by Curtis Arnold and popularized by Stephen Briese, publisher of the 
+Bullish Review newsletter. These analysts measure deviations of current commit - 
+ments from their historical norms. Bullish Review uses the following formula: 
+Current Net - Minimum Net 
+COT Index = 
+Maximum Net - Minimum Net 
+where COT Index = commitments of Traders Index. 
+Current Net = the difference between commercial and 
+speculative net positions. 
+Minimum Net = the smallest difference between commer - 
+cial and speculative net positions. 
+Maximum Net = the largest difference between commercial 
+and speculative net positions. 
+Net Position = long contracts minus short contracts of any 
+given group. 
+When the COT Index rises above 90 percent, it shows that commercials 
+are uncommonly bullish and gives a buy signal. When the COT Index falls 
+below 10 percent, it shows that commercials are uncommonly bearish and 
+gives a sell signal. 
+Insider Trading 
+Officers and investors who hold more than 5 percent of the shares in publicly 
+traded companies must report their buying and selling to the Securities and 
+Exchange Commission. The SEC tabulates insider buying and selling and 
+releases this data to the public once a month. 
+Corporate insiders have a record of buying stocks cheap and selling dear. 
+Insider buying emerges after severe market drops, and insider selling accel - 
+erates when the market rallies and becomes overpriced. 
+218 PSYCHOLOGICAL INDICATORS 
+Buying or selling by a single insider matters little. For example, an execu- 
+tive may sell shares in his firm to meet major personal expenses or may buy 
+shares to exercise stock options. Analysts who researched legal insider trad- 
+ing found that insider buying or selling was meaningful only if more than 
+three executives or large stockholders bought or sold within a month. These 
+actions reveal that something very positive or negative is about to happen to 
+the firm. A stock is likely to rise if three insiders buy in one month and to 
+fall if three insiders sell within a month. 
+Stock Exchange Members 
+Membership in a stock exchange - particularly as a specialist - is a license 
+to mint money. An element of risk does not deter generations of traders from 
+paying hundreds of thousands of dollars for the privilege of planting their 
+feet on a few square inches of a crowded floor. 
+The Member Short Sale Ratio (MSSR) is the ratio of shorting by mem- 
+bers to total shorting. The Specialist Short Sale Ratio (SSSR) is the ratio of 
+shorting by specialists to shorting by members. These indicators used to 
+serve as the best tools of stock market technicians. High readings of MSSR 
+(over 85 percent) and SSSR (over 60 percent) showed that savvy traders 
+were selling short to the public and identified stock market tops. Low read- 
+ings of MSSR (below 75 percent) and SSSR (below 40 percent) showed that 
+members were buying from the bearish public and identified stock market 
+bottoms. These indicators became erratic in the 1980s. They were done in by 
+the options markets, which gave exchange members more opportunities for' 
+arbitrage. Now it is impossible to tell when their shorting is due to bearish - 
+ness or to arbitrage plays. 
+Odd-Lot Activity 
+Odd-lotters are people who trade less than 100 shares of stock at a time - the 
+small fry of the stock exchange. They remind us of a more bucolic time on 
+Wall Street. Odd-lotters transacted one quarter of the exchange volume a 
+century ago, and 1 percent as recently as two decades ago. Odd-lotters as a 
+group are value investors. They buy when stocks are cheap and sell when 
+prices rise. 
+The indicators for tracking the behavior of odd-lotters were developed in 
+40. COMMITMENT INDICATORS 21 9 
+the 1930s. The Odd-Lot Sales Ratio measured the ratio of odd-lot sales to 
+purchases. When it fell, it showed that odd -lotters were buying and the stock 
+market was near the bottom. When it rose, it indicated that odd-lotters were 
+selling and the stock market was near the top. 
+The Odd-Lot Short Sale Ratio was a very different indicator. It tracked 
+the behavior of short-sellers among odd -lotters, many of whom were gam - 
+. blers. Very low levels of odd-lot short sales indicated that the market was 
+near the top, and high levels of odd-lot short sales showed that the stock 
+market was at a bottom. 
+These indicators lost value as the financial scene changed in the 1970s 
+and 1980s. The intelligent small investors moved their money into well-run 
+mutual funds, and gamblers discovered that they could get more bang for 
+their money in options. Now the New York Stock Exchange has a preferen- 
+tial mechanism for filling odd -lot orders, and many professionals trade in 99- 
+share lots. 
+New Indicators 

@@ -1,0 +1,280 @@
+45. CHANNEL TRADING SYSTEMS 
+Prices often flow in channels, the way rivers flow in valleys. When a river 
+touches the right edge of its valley, it turns left. When a river touches the left 
+rim of its valley, it turns right. When prices rally, they often seem to stop at 
+an invisible ceiling. When they fall, they often seem to hit an invisible floor. 
+Channels help traders identify buying and selling opportunities and avoid 
+bad trades. The original research into trading channels was conducted by J. 
+M. Hurst and described in his 1970 book, The Profit Magic of Stock 
+Transaction Timing. 
+Four Ways to Construct a Channel 
+Channels help traders because their boundaries show where to expect sup - 
+port or resistance to come into the market. There are four main ways to con- 
+struct a channel: 
+1. By drawing a channel line parallel to a trendline (see Section 21). 
+2. By plotting two lines parallel to a moving average: one above it and 
+another below. 
+248 TRADING SYSTEMS 
+3. Same as above, only the distance between each line and the moving 
+average changes depending on the market's volatility (Bollinger 
+bands). 
+4. By drawing a moving average of the highs and another of the lows. 
+Channels parallel to trendlines are useful for long-term analysis, especially 
+on the weekly charts. Channels around moving averages are useful for short- 
+term analysis, especially on daily and intraday charts. Channels whose width 
+depends on volatility are good for catching early stages of major new trends. 
+Support is where buyers buy with greater intensity than sellers sell. 
+Resistance is where sellers sell with greater intensity than buyers buy (see 
+Section 19). Channels show where to expect support and resistance in the 
+future. 
+A channel's slope identifies a market's trend. When a channel lies flat, 
+you may trade all swings within its walls. When a channel rises, it pays to 
+trade only from the long side, buying - at the lower wall and selling at the 
+upper wall. When a channel declines, it pays to trade only from the short 
+side, shorting at the upper channel wall and covering at the lower wall. 
+Moving Average Channels 
+A 13-day exponential moving average can serve as the backbone of a chan- 
+nel (see Section 25). Draw upper and lower channel lines parallel to it. The 
+width of a channel depends on the coefficient selected by the trader. 
+Upper Channel Line = EMA + Channel Coefficient EMA 
+Lower Channel Line = EMA - Channel Coefficient EMA 
+You need to adjust channel coefficients until a channel contains 90 per- 
+cent to 95 percent of the price action. A channel shows the boundaries 
+between normal and abnormal price action. It is normal for prices to be 
+inside a channel, and only unusual events push them outside. The market is 
+undervalued below its lower channel line and overvalued above its upper 
+channel line. 
+For example, in 1992, the channel coefficient on the daily chart of the 
+S&P 500 futures was 1.5 percent. If the 13-day EMA stood at 400, then the 
+upper channel line was 406 [400 + (400 1.5/100)] and the lower channel 
+line was 394 1400 - (400 1.5/100)]. 
+248 TRADING SYSTEMS 
+3. Same as above, only the distance between each line and the moving 
+average changes depending on the market's volatility (Bollinger 
+bands). 
+4. By drawing a moving average of the highs and another of the lows. 
+Channels parallel to trendlines are useful for long-term analysis, especially 
+on the weekly charts. Channels around moving averages are useful for short - 
+term analysis, especially on daily and intraday charts. Channels whose width 
+depends on volatility are good for catching early stages of major new trends. 
+Support is where buyers buy with greater intensity than sellers sell. 
+Resistance is where sellers sell with greater intensity than buyers buy (see 
+Section 19). Channels show where to expect support and resistance in the 
+future. 
+A channel's slope identifies a market's trend. When a channel lies flat, 
+you may trade all swings within its walls. When a channel rises, it pays to 
+trade only from the long side, buying at the lower wall and selling at the 
+upper wall. When a channel declines, it pays to trade only from the short 
+side, shorting at the upper channel wall and covering at the lower wall. 
+Moving Average Channels 
+A 13-day exponential moving average can serve as the backbone of a chan - 
+nel (see Section 25). Draw upper and lower channel lines parallel to it. The 
+width of a channel depends on the coefficient selected by the trader. 
+Upper Channel Line = EMA + Channel Coefficient EMA 
+Lower Channel Line = EMA - Channel Coefficient EMA 
+You need to adjust channel coefficients until a channel contains 90 per- 
+cent to 95 percent of the price action. A channel shows the boundaries 
+between normal and abnormal price action. It is normal for prices to be 
+inside a channel, and only unusual events push them outside. The market is 
+undervalued below its lower channel line and overvalued above its upper 
+channel line. 
+For example, in 1992, the channel coefficient on the daily chart of the 
+S&P 500 futures was 1.5 percent. If the 13-day EMA stood at 400, then the 
+upper channel line was 406 [400 + (400 1.5/100)] and the lower channel 
+line was 394 [400 - (400 1.5/100)]. 
+248 TRADING SYSTEMS 
+3. Same as above, only the distance between each line and the moving 
+average changes depending on the market's volatility (Bollinger 
+bands). 
+4. By drawing a moving average of the highs and another of the lows. 
+Channels parallel to trendlines are useful for long -term analysis, especially 
+on the weekly charts. Channels around moving averages are useful for short - 
+term analysis, especially on daily and intraday charts. Channels whose width 
+depends on volatility are good for catching early stages of major new trends. 
+Support is where buyers buy with greater intensity than sellers sell. 
+Resistance is where sellers sell with greater intensity than buyers buy (see 
+Section 19). Channels show where to expect support and resistance in the 
+future. 
+A channel's slope identifies a market's trend. When a channel lies flat, 
+you may trade all swings within its walls. When a channel rises, it pays to 
+trade only from the long side, buying at the lower wall and selling at the 
+upper wall. When a channel declines, it pays to trade only from the short 
+side, shorting at the upper channel wall and covering at the lower wall. 
+Moving Average Channels 
+A 13-day exponential moving average can serve as the backbone of a chan- 
+nel (see Section 25). Draw upper and lower channel lines parallel to it. The 
+width of a channel depends on the coefficient selected by the trader. 
+Upper Channel Line = EMA + Channel Coefficient EMA 
+Lower Channel Line = EMA - Channel Coefficient EMA 
+You need to adjust channel coefficients until a channel contains 90 per- 
+cent to 95 percent of the price action. A channel shows the boundaries 
+between normal and abnormal price action. It is normal for prices to be 
+inside a channel, and only unusual events push them outside. The market is 
+undervalued below its lower channel line and overvalued above its upper 
+channel line. 
+For example, in 1992, the channel coefficient on the daily chart of the 
+S&P 500 futures was 1.5 percent. If the 13-day EMA stood at 400, then the 
+upper channel line was 406 [400 + (400 1.5/100)] and the lower channel 
+line was 394 1400 - (400 1.5/100)]. 
+45. CHANNEL TRADING SYSTEMS 249 
+Adjust channel coefficients at least once every three months to make a 
+channel contain 90 percent to 95 percent of prices. If prices keep blowing 
+out of a channel and staying outside for more than a few days, that channel 
+should be widened. Too many reversals within the channel without reaching 
+its walls indicate falling volatility, and that channel should be tightened. 
+Volatile markets require wider channels, and quieter markets require nar- 
+row channels. Long -term charts require wider channels. As a rule of thumb, 
+weekly channel coefficients are twice as wide as daily ones. 
+Mass Psychology 
+An exponential moving average reflects the average consensus of value 
+during the time covered by that average (see Section 25). When prices rise 
+above the average consensus of value, sellers see an opportunity to take 
+profits on long positions or go short. When they overpower the bulls, 
+prices decline. When prices fall below the moving average, bargain hunters 
+step in. Their buying and short covering by bears lift prices, and the cycle 
+repeats. 
+When prices are near their moving average, the market is fairly valued. 
+When prices are at or below the lower channel line, the market is underval- 
+ued. When prices are at or above the upper channel line, the market is over- 
+valued. Channels help traders find buying opportunities when the market is 
+cheap and shorting opportunities when the market is dear. 
+The market is like a manic-depressive person. When he reaches the height 
+of mania, he is ready to calm down, and when he reaches the bottom of his 
+depression, his mood is ready to improve. A channel marks the limits of 
+mass optimism and pessimism. Its upper line shows where bulls run out of 
+steam, and its lower line shows where bears become exhausted. 
+Every animal fights harder closer to home. The upper channel line shows 
+where bears have their backs against the wall and fight off the bulls. The 
+lower channel line shows where bulls have their backs against the wall and 
+fight off the bears. 
+When a rally fails to reach the upper channel line, it is a bearish sign. It 
+shows that bulls are becoming weaker. If a rally shoots out of a channel and 
+prices close above it, it shows that the uptrend is strong. The reverse rules 
+apply in downtrends. 
+Channels help traders who use them remain objective when others get 
+swept up in bullish or bearish hysteria. If prices touch the upper channel line, 
+250 TRADING SYSTEMS 
+you see that mass bullishness is being overdone and it is time to think about 
+selling. When everyone turns bearish but prices touch the lower channel line, 
+you know that it is time to think about buying instead of selling. 
+Trading Rules 
+Amateurs and market professionals handle channels differently. Amateurs 
+bet on long shots- they tend to buy upside breakouts and sell short down - 
+side breakouts. When an amateur sees a breakout from a channel, he hopes 
+that a major new trend is about to begin and make him rich quick. 
+Professionals trade against deviations and for a return to normalcy. It is 
+normal for prices to remain within channels. Most breakouts are exhaustion 
+moves that are quickly aborted. Professionals like to fade them - trade 
+against them. They sell short as soon as an upside breakout stalls and buy 
+when a downside breakout stops reaching new lows. 
+Breakouts can produce spectacular gains for amateurs when a major new 
+trend blows out of a channel. Amateurs occasionally win, but it pays to trade 
+with the professionals. Most breakouts are false and are followed by reversals. 
+Moving average channels can be used as a stand-alone trading method or 
+combined with other techniques. Gerald Appel has recommended the follow - 
+ing rules for trading with channels: 
+1. Draw a moving average and build a channel around it. When a chan- 
+nel is relatively flat, the market is almost always a good buy near the 
+bottom of its trading channel and a good sell near the top. 
+2. When the trend turns up and a channel rises sharply, an upside pene - 
+tration of the upper channel line shows very strong bullish momentum. 
+It indicates that you will probably have one more chance to sell in the 
+area of the highs that are being made. It is normal for the market to 
+return to its moving average after an upside penetration, offering an 
+excellent buying opportunity. Sell your long position when the market 
+returns to the top of the channel. 
+3. The above rule works in reverse during sharp downtrends. A breakout 
+below the lower channel boundary indicates that a pullback to the 
+moving average is likely to occur, offering another opportunity to sell 
+short. When prices return to the lower channel line, it is time to cover 
+shorts. 
+45. CHANNEL TRADING SYSTEMS 251 
+The best trading signals are given by a combination of channels and 
+technical indicators. Indicators give their strongest signals when they 
+diverge from prices (see Figure 45 -1). A method for combining channels 
+and divergences has been described by Manning Stoller in an interview 
+with this author. 
+4. A sell signal is given when prices reach the upper channel line while 
+an indicator, such as Stochastic or MACD-Histogram, traces a lower 
+top and creates a bearish divergence. It shows that bulls are becoming 
+weak when prices are overextended. 
+5. A buy signal is given when prices reach the lower channel line while 
+an indicator traces a higher bottom and creates a bullish divergence. It 
+shows that bears are becoming weak when prices are already low: 
+We must analyze markets in more than one timeframe. Go long when 
+prices are rising from the bottom to the top of the channel on both weekly 
+and daily charts. Sell short when prices are sinking from the top to the bot- 
+tom of the channel on both weekly and daily charts. 
+6. Go long below the moving average when the channel is rising, and 
+take profits at the upper channel line. Go short when the channel is 
+falling, and take profits at the lower channel line. 
+Standard Deviation Channels (Bollinger Bands) 
+Standard Deviation Channels have been proposed by Perry Kaufman in his 
+book, The New Commodity Trading Systems and Methods, and popularized 
+by analyst John Bollinger. The unique feature of Bollinger bands is that their 
+width changes in response to market volatility. Trading rules for them differ 
+from those for other channels. 
+1. Calculate a 21-day EMA. 
+2. Subtract the 21-day EMA from each closing price to obtain all the 
+deviations from the average. 
+3. Square each of the deviations and get their sum to obtain the total 
+squared deviation. 
+4. Divide the total squared deviation by the EMA length to obtain the 
+average squared deviation. 
+252 TRADING SYSTEMS 
+5. Take the square root of the average squared deviation to obtain the 
+standard deviation. 
+These steps, outlined by John Bollinger, can be performed by many soft- 
+ware packages for technical analysis. A Bollinger band becomes wider when 
+volatility increases and narrows down when it decreases. A narrow Bollinger .. 78 
+.. 68 
+.. 66 
+.. 64 
+.. 62 
+.- 8,3655 
+.. 
+.. 
+.. 
+r 8,2132 
+8,8609 
+-8,8914 
+-8,2438 
+Figure 45-1. Trading with Channels and Indicators 
+A moving average reflects the average consensus of value. A channel or 
+an envelope must be adjusted until it contains 90 percent-95 percent of 
+all data. The upper channel line shows where the market is overvalued. 
+The lower channel line shows where it is undervalued. It pays to buy in 
+the lower half of a rising channel and to sell short in the upper half of a 
+falling channel. Channels work best when their signals are combined 
+with indicator divergences. 
+Bullish divergences in July and October occurred when the Swiss 
+Franc was undervalued, near its lower channel line. These buy signals 
+led to strong rallies. Bearish divergences occurred in August and 
+November, when the Swiss Franc was overvalued, near its upper chan- 
+nel line. These sell signals were followed by sharp breaks. Combining 
+channels with divergences allows you to trade against the market crowd 
+at key turning points. 
+45. CHANNEL TRADING SYSTEMS 253 
+band identifies a sleepy, quiet market. Major market moves ted to erupt from 
+flat bases. Bollinger bands help find transitions from quiet to active markets. 
+When prices rally outside a very narrow Bollinger band, they give a buy 
+signal. When they drop out of a very narrow Bollinger band, they give a sig- 
+nal to go short. When prices pull back to their channel from the outside, it is 
+time to close out positions. 
+Bollinger bands are especially useful for options traders. Options prices 
+depend heavily on the swings in volatility. Bollinger bands help you buy 
+when volatility is low and options are relatively cheap. They help you sell 
+options when volatility is high and options are expensive. 
+More on Channels 
+Some traders use channels whose upper line is a moving average of the 
+highs and whose lower line is a moving average of the lows. They appear 
+more ragged than other channels. A trader has to choose a smoothing period 
+for these channels. Here, as elsewhere, a 13-day EMA is a safe bet. A 13-day 
+EMA of the highs creates the upper channel line, and a 13-day EMA of the 
+lows creates the lower channel line. 
+One of the popular technical indicators is the Commodity Channel 
+Index (CCI). It is based on the same principles as channels - it measures 
+deviations from the moving average. If you use channels in trading, you may 
+dispense with the CCI. Channels are better because they keep you visually 
+closer to prices. 
+Risk Management 

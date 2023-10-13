@@ -1,0 +1,221 @@
+41. ELDER-RAY 
+Elder-ray is a new technical indicator. It was developed in 1989 by this 
+author and named for its similarity to X -rays. Doctors use X -rays to see bone 
+structure below the surface of the skin. Traders can use Elder -ray to see the 
+power of bulls and bears below the surface of the markets. 
+To be a successful trader, you do not have to forecast the future. You need 
+to find when bulls or bears are in control and trade with the dominant group. 
+Elder-ray helps you see when bulls and bears become stronger or weaker. 
+How to Construct Elder -ray 
+Elder-ray combines the best features of trend-following indicators and oscil- 
+lators (see Section 24). It includes an exponential moving average, which is 
+a trend-following indicator. Its Bull Power and Bear Power components are 
+oscillators. 
+To create Elder-ray, divide your computer screen or chart paper into three 
+horizontal windows. Plot a bar chart and an exponential moving average 
+(EMA) in the upper window. Plot Bull Power in the middle window and 
+Bear Power in the bottom window. 
+It takes four steps to construct Elder -ray (see worksheet, Figure 41-1). 
+41. ELDER-RAY 221 
+Gold 
+Figure 41-1. Elder-ray Worksheet 
+Bull Power = High of the bar - 13-day EMA. 
+Bear Power = Low of the bar - 13-day EMA 
+It is normal for Bull Power to be positive and for Bear Power to be 
+negative. The higher the Bull Power, the stronger the bulls, and the 
+deeper the Bear Power, the stronger the bears. When Bull Power turns 
+negative, it shows that the bears are so strong they completely over - 
+power the bulls. If Bear Power turns positive, it shows that bulls are 
+uncommonly strong, completely overpowering the bears. 
+1. Draw a bar chart of any trading vehicle in the top window of your 
+screen. 
+2. Plot an EMA of closing prices in the same window. A 13-day EMA is 
+a good choice. 
+Bull Power = High - EMA 
+Bear Power = Law - EMA 
+3. Calculate Bull Power according to the above formula. Plot it as a his- 
+togram in the middle window. Bull Power of any day equals the high 
+of that day minus the EMA of that day. Normally, the high of a bar is 
+above the EMA, Bull Power is positive, and the histogram is above 
+NEW INDICATORS 
+the centerline. The entire bar may sink below the EMA during a sharp 
+break. When the high is below the EMA, Bull Power turns negative 
+and its histogram falls below the centerline. 
+4. Calculate Bear Power and plot it as a histogram in the bottom window. 
+Bear Power of any bar equals the low of that bar minus the EMA. 
+Normally, the low of a bar is below the EMA, Bear Power is negative, 
+and the histogram is below the centerline. If the entire bar rises above 
+the EMA during a sharp rally, then Bear Power turns positive and its 
+histogram rises above the centerline (Figure 41 -2). 
+Trading Psychology 
+Elder-ray combines several pieces of information: price, a moving average, 
+the high of each bar, and the low of each bar. We need to understand their 
+meaning in order to understand Elder -ray. 
+Each price is a momentary consensus of value (see Section 12). Buyers 
+are buying because they expect prices to rise. Sellers are selling because 
+they expect them to fall. The undecided traders are standing aside, but their 
+presence puts pressure on bulls and bears. A trade takes place when a 
+buyer is willing to buy and a seller is willing to sell, both prompted by fear 
+that an undecided trader may step in and snap away an opportunity. The 
+price of every trade reflects the latest consensus of value of any trading 
+vehicle. 
+A moving average shows the average consensus of value during its time 
+window. A 10-day MA represents the average consensus of value for the 
+past 10 days, a 20-day MA for the past 20 days, and so on. An exponential 
+moving average is more reliable than a simple MA (see Section 25). The 
+most important message of a moving average is its slope. When it rises, it 
+shows that the crowd is becoming more bullish. When it declines, it shows 
+that the crowd is becoming more bearish. Trade in the direction of the slope 
+of a moving average. 
+The high of any bar reflects the maximum power of bulls during that bar. 
+Bulls make money when prices rise. They keep buying until they cannot lift 
+prices any higher. Bulls would love to raise prices one more tick-but they 
+are out of breath. The high point of a daily bar represents the maximum 
+power of bulls during the day, the high point of a weekly bar represents the 
+maximum power of bulls during the week, and so on. 
+The low of any bar represents the maximum power of bears during that 
+I 
+t 10.00 
+5.00 
+-5.08 
+beargower 5.@0 
+-5.00 
+-10.00 
+l Jun lJul 
+ lfiug 
+ IS~P IOct 
+Figure 41-2. Elder-ray 
+The 13-day EMA reflects the average consensus of value; its slope identi- 
+fies the market trend. Bull Power reflects the ability of bulls to lift prices 
+above the average consensus of value. Bear Power reflects the ability of 
+bears to push prices below the average consensus of value. 
+The best buy signals are given by bullish divergences-when prices fall 
+to a new low, but Bear Power stops at a more shallow bottom. The best 
+shorting signals are given by bearish divergences-when prices rise to or 
+above the previous high, but Bull Power reaches a lower peak. 
+A bearish divergence in June and July gave a sell signal-a double top 
+in price, accompanied by a lower peak in Bull Power. The sell signal 
+was confirmed when the 13-day EMA turned down. Bull Power became 
+positive several times during the downtrend, showing where to add to 
+short positions. When Bull Power turns positive during a downtrend and 
+then ticks down, place an order to sell short below the last day's low. 
+A bullish divergence developed in September when gold fell to a new 
+low, but Bear Power made a more shallow low. The buy signal was con- 
+firmed when the 13-day EMA of gold turned up. At the right edge of the 
+chart, the new peak in Bull Power confirms that the rally is strong and 
+likely to continue. 
+224 NEW INDICATORS 
+bar. Bears make money when prices fall. They keep selling and shorting 
+until they cannot push prices down another tick. The lowest point of a daily 
+bar reflects the maximum power of bears during the day, the low of a weekly 
+bar shows the maximum power of bears during the week, and so on. 
+Elder-ray compares the maximum power of bulls and bears to the average 
+consensus of value. It does this by measuring the spread between the high 
+and the low of every bar and an exponential moving average. 
+Bull Power reflects the bulls' ability to push prices above the average 
+consensus of value. It measures the distance from the bar's high to the EMA. 
+Bull Power is normally positive. It rises when bulls become stronger and 
+falls when they stumble. Bear Power turns negative when bulls' heads are 
+under water. 
+Bear Power reflects the bears' ability to push prices below the average 
+consensus of value. It measures the distance from the bar's low to the EMA. 
+Bear Power is normally negative. It deepens when bears grow stronger and 
+rises when they become weaker. If Bear Power turns positive, it shows that 
+very strong bulls are holding bears up in the air by the scruff of their necks. 
+To summarize the key points of Elder-ray: 
+1. Price is a consensus of value, expressed in action. 
+2. A moving average is an average consensus of value. 
+3. The highest point of each bar represents the maximum power of bulls 
+during that bar. 
+4. The lowest point of each bar represents the maximum power of bears 
+during that bar. 
+5. Bull Power is the difference between the raw power of bulls and the 
+average consensus of value. 
+6. Bear Power is the difference between the raw power of bears and the 
+average consensus of value. 
+Trading Rules 
+Elder-ray can work as a stand-alone trading method, but it pays to combine it 
+with another method, such as the Triple Screen trading system (see Section 
+43). If you use Elder-ray alone, remember that the slope of its EMA identifies 
+41. ELDER-RAY 225 
+the trend, and trade only in that direction. Use Bull Power and Bear Power to 
+find entry and exit points for your trades in the direction of that trend. 
+Triple Screen, on the other hand, identifies the trend using weekly charts. 
+It then uses Bull Power and Bear Power on the daily charts to find trades in 
+the direction of the weekly trend. If the weekly trend is up, Triple Screen 
+takes only buy signals from daily Elder -ray. If the weekly trend is down, it 
+takes only shorting signals from daily Elder -ray. 
+Buying and Selling 
+There are two essential conditions for buying: 
+1. The trend is up (identified by EMA or a weekly trend -following indi - 
+cator). 
+2. Bear Power is negative but rising. 
+The third and fourth conditions are desirable but not essential: 
+3. The latest peak in Bull Power is higher than the previous peak. 
+4. Bear Power is rising from a bullish divergence. 
+Do not buy when Bear Power is positive. This occurs in runaway 
+uptrends, when the entire bar rises above the EMA. If you buy when bears 
+are being held up in the air, you are betting on the greater fool theory - pay- 
+ing a high price and hoping to meet a greater fool down the road willing to 
+buy from you at an even higher price. 
+The best time to buy is when Bear Power is negative but rising-when 
+bears regain their footing but are starting to slip again. When Bear Power 
+ticks up, place a buy order above the high of the last two days. If the rally 
+continues, your stop will be touched and you will go long. Once long, place 
+a protective stop below the latest minor low. 
+The strongest buy signals are given by bullish divergences between Bear 
+Power and price. If prices fall to a new low but Bear Power traces a higher 
+bottom, it shows that prices are falling out of inertia and bears are becoming 
+weaker. When Bear Power ticks up from the second bottom, buy a larger 
+than usual position. 
+Bear Power is useful for deciding when to pyramid. As the uptrend con- 
+tinues, you can add to your long position whenever Bear Power dips below 
+its centerline and then ticks up again. 
+226 NEW INDICATORS 
+If you buy using indicators, use them to decide when to sell. Do not be 
+distracted by every uptick and downtick of Bull Power-its normal breath - 
+ing process. You can monitor the power of bulls by tracking the pattern of 
+peaks and valleys in Bull Power. As long as every new peak in price is 
+accompanied by a new peak in Bull Power, the uptrend is safe. Sell when 
+bulls start losing power. A sell signal is given when prices reach a new high 
+but Bull Power reaches a lower peak than it reached during its previous rally. 
+Shorting and Covering 
+There are two essential conditions for shorting: 
+1. The trend is down (identified by EMA or weekly trend -following indi - 
+cator). 
+2. Bull Power is positive but falling. 
+The third and fourth conditions are desirable but not essential: 
+3. The latest bottom in Bear Power is deeper than its previous bottom. 
+4. Bull Power is falling from a bearish divergence. 
+Do not sell short if Bull Power is already negative. This happens when the 
+whole price bar is below the EMA-during a waterfall decline. If you sell 
+short when bears already have bulls' heads under water, you are betting that 
+bears can push bulls' heads even deeper. This is another version of the 
+greater fool theory. 
+The best time to sell short is when Bull Power is positive but falling. It 
+shows that bulls have come up for air but are starting to sink again. Place an 
+order to sell short below the low of the last two days. If the decline contin - 
+ues, you will be stopped in automatically. Once short, place a protective stop 
+above the latest minor high. 
+The strongest shorting signals are given by bearish divergences between 
+Bull Power and prices. If prices rally to a new high but Bull Power reaches a 
+lower top, it shows that bulls are weaker than before and prices are rising out 
+of inertia. When Bull Power ticks down from a lower top, sell short a bigger 
+position. 
+Bull Power shows when to pyramid short positions. As a downtrend con - 
+tinues, you can add to your shorts whenever Bull Power rallies above its cen- 
+terline and then ticks down again. 
+If you sell short using indicators, use them also for deciding when to 
+42. FORCE INDEX 227 
+cover. When the trend is down, monitor Bear Power to see whether bears are 
+becoming stronger or weaker. The pattern of peaks and valleys in Bear 
+Power is much more important than its single upticks and downticks. If a 
+new low in price is accompanied by a new low in Bear Power, the down- 
+trcnd is safe. 
+A bullish divergence occurs when prices fall to a new low but Bear Power 
+traces a more shallow bottom. It shows that bears are running out of steam 
+and prices are falling out of inertia. This is a signal to cover shorts and get 
+ready to go long. 
+Divergences between Bull and Bear Power and prices mark the best trad - 
+ing opportunities. X -rays show broken bones under healthy skin -and Elder- 
+ray shows when the dominant group is broken below the surface of a trend. 

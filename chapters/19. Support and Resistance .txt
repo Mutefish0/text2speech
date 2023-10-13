@@ -1,0 +1,166 @@
+19. SUPPORT AND RESISTANCE 
+A ball hits the floor and bounces. It drops after it hits the ceiling. Support 
+and resistance are like a floor and a ceiling, with prices sandwiched between 
+them. Understanding support and resistance is essential for understanding 
+price trends and chart patterns. Rating their strength helps you decide 
+whether the trend is likely to continue or to reverse. 
+Support is a price level where buying is strong enough to interrupt or 
+reverse a downtrend. When a downtrend hits support, it bounces like a 
+diver who hits the bottom and pushes away from it. Support is represented 
+on a chart by a horizontal or near -horizontal line connecting several bot - 
+toms (Figure 19-1). 
+Resistance is a price level where selling is strong enough to interrupt or 
+reverse an uptrend. When an uptrend hits resistance, it stops or tumbles 
+down like a man who hits his head on a branch while climbing a tree. 
+Resistance is represented on a chart by a horizontal or near-horizontal line 
+connecting several tops. 
+It is better to draw support and resistance lines across the edges of conges- 
+tion areas instead of extreme prices. The edges show where masses of traders 
+have changed their minds, while the extreme points reflect only panic among 
+the weakest traders. 
+Minor support or resistance causes trends to pause, while major support or 
+resistance causes them to reverse. Traders buy at support and sell at resis- 
+tance, making their effectiveness a self -fulfilling prophecy. 
+76 CLASSICAL CHART ANALYSIS 
+British Pound 
+Figure 19-1. Support and Resistance 
+Draw horizontal lines through the upper and lower edges of congestion 
+areas. The bottom line marks the support -the level at which buyers over- 
+power sellers. The upper line identifies resistance, where sellers over- 
+power buyers. Areas of support and resistance often switch their roles. 
+Note how the level of support in March became the line of resistance in 
+May. The strength of these barriers increases each time prices touch 
+them and bounce away. 
+Beware of false breakouts from support and resistance. The letter F 
+marks false breakouts on this chart. Amateurs tend to follow breakouts, 
+while professionals tend to fade (trade against) them. At the right edge of 
+the chart, prices are hitting strong resistance. This is the time to look for 
+a shorting opportunity, with a protective stop slightly above the line of 
+resistance. 
+Memories, Pain, and Regret 
+Support and resistance exist because people have memories. Our memories 
+prompt us to buy and sell at certain levels. Buying and selling by crowds of 
+traders creates support and resistance. 
+If traders remember that prices have recently stopped falling and turned 
+up from a certain level, they are likely to buy when prices approach that 
+19. SUPPORT AND RESISTANCE 
+level again. If traders remember that an uptrend has recently reversed after 
+rising to a certain peak, they tend to sell and go short when prices approach 
+that level again. 
+For example, all major rallies in the stock market from 1966 until 1982 
+ended whenever the Dow Jones Industrial Average rallied to 950 or 1050. 
+The resistance was so strong that traders named it "A Graveyard in the Sky." 
+Once the bulls rammed the market through that level, it became a major sup 
+port area. 
+Support and resistance exist because masses of traders feel pain and 
+regret. Traders who hold losing positions feel intense pain. Losers are deter- 
+mined to get out as soon as the market gives them another chance. Traders 
+who missed an opportunity feel regret and also wait for the market to give 
+them a second chance. Feelings of pain and regret are mild in trading ranges 
+where swings are small and losers do not get hurt too badly. Breakouts from 
+trading ranges create intense pain and regret. 
+When the market stays flat for a while, traders get used to buying at the 
+lower edge of the range and shorting at the upper edge. In uptrends, bears 
+who sold short feel pain and bulls feel regret that they did not buy more. 
+Both feel determined to buy if the market gives them a second chance. The 
+pain of bears and regret of bulls make them ready to buy, creating support 
+during reactions in an uptrend. 
+Resistance is an area where bulls feel pain, bears feel regret, and both are 
+ready to sell. When prices break down from a trading range, bulls who 
+bought feel pain, feel trapped, and wait for a rally to let them get out even. 
+Bears regret that they have not shorted more and wait for a rally to give them 
+a second chance to sell short. Bulls7 pain and bears7 regret create resis- 
+tance- a ceiling above the market in downtrends. The strength of support 
+and resistance depends on the strength of feelings among masses of traders. 
+Strength of Support and Resistance 
+A congestion area that has been hit by several trends is like a cratered battle- 
+field. Its defenders have plenty of cover, and an attacking force is likely to 
+slow down. The longer prices stay in a congestion zone, the stronger the 
+emotional commitment of bulls and bears to that area. When prices approach 
+that zone from above, it serves as support. When prices rally into it from 
+below, it acts as resistance. A congestion area can reverse its role and serve 
+as either support or resistance. 
+CLASSICAL CHART ANALYSIS 
+The strength of every support or resistance zone depends on three factors: 
+its length, its height, and the volume of trading that has taken place in it. You 
+can visualize these factors as the length, the width, and the depth of a con - 
+gestion zone. 
+The longer a support or resistance area - its length of time or the number 
+of hits it took-the stronger it is. Support and resistance, like good wine, 
+become better with age. A 2 -week trading range provides only minimal sup - 
+port or resistance, a 2 -month range gives people time to become used to it 
+and creates intermediate support or resistance, while a 2 -year range becomes 
+accepted as a standard of value and offers major support or resistance. 
+As support and resistance levels grow old, they gradually become weaker. 
+Losers keep washing out of the markets, replaced by newcomers who do not 
+have the same emotional commitment to old price levels. People who lost 
+money only recently remember full well what happened to them. They are 
+probably still in the market, feeling pain and regret, trying to get even. 
+People who made bad decisions several years ago are probably out of the 
+markets and their memories matter less. 
+The strength of support and resistance increases each time that area is hit. 
+When traders see that prices have reversed at a certain level, they tend to bet 
+on a reversal the next time prices reach that level. 
+The taller the support and resistance zone, the stronger it is. A tall con - 
+gestion zone is like a tall fence around a property. A congestion zone whose 
+height equals 1 percent of current market value (four points in the case of the 
+S&P 500 at 400) provides only minor support or resistance. A congestion 
+zone that is 3 percent tall provides intermediate support or resistance, and a 
+congestion zone that is 7 percent tall or higher can grind down a major trend. 
+The greater the volume of trading in a support and resistance zone, the 
+stronger it is. High volume in a congestion area shows active involvement 
+by traders - a sign of strong emotional commitment. Low volume shows that 
+traders have little interest in transacting at that level - a sign of weak support 
+or resistance. 
+1. Whenever the trend you are riding approaches support or resistance, 
+tighten your .protective stop. A protective stop is an order to sell below 
+the market when you are long or to cover shorts above the market 
+when you are short. This stop protects you from getting badly hurt by 
+19. SUPPORT AND RESISTANCE 
+an adverse market move. A trend reveals its health by how it acts 
+when it hits support or resistance. If it is strong enough to penetrate 
+that zone, it accelerates, and your tight stop is not touched. If a trend 
+bounces away from support or resistance, it reveals its weakness. In 
+that case, your tight stop salvages a good chunk of profits. 
+2. Support and resistance are more important on long-term charts than on 
+short-term charts. Weekly charts are more important than dailies. A 
+good trader keeps an eye on several timeframes and defers to the 
+longer one. If the weekly trend is sailing through a clear zone, the fact 
+that the daily trend is hitting resistance is less important. When a 
+weekly trend approaches support or resistance, you should be more 
+inclined to act. 
+3. Support and resistance levels are useful for placing stop -loss and pro- 
+tect-profit orders. The bottom of a congestion area is the bottom line 
+of support. If you buy and place your stop below that level, you give 
+the uptrend plenty of room. More cautious traders buy after an upside 
+breakout and place a stop in the middle of a congestion area. A true 
+upside breakout should not be followed by a pullback into the range, 
+just as a rocket is not supposed to sink back to its launching pad. 
+Reverse this procedure in downtrends. 
+Many traders avoid placing stops at round numbers. This superstition 
+began with off -the-cuff advice by Edwards and Magee to avoid placing stops 
+at round numbers because "everybody" was placing them there. Now, if 
+traders buy copper at 92, they place a stop at 89.75 rather than 90. When 
+they sell a stock short at 76, they place a protective stop at 80.25 rather than 
+80. These days there are fewer stops at round numbers than at fractional 
+numbers. It is better to place your stops at logical levels, round or not. 
+Markets spend more time in trading ranges than they do in trends. Most 
+breakouts from trading ranges are false breakouts. They suck in trend-fol- 
+lowers just before prices return into the trading range. A false breakout is the 
+bane of amateurs, but professional traders love them. 
+Professionals expect prices to fluctuate without going very far most of the 
+time. They wait until an upside breakout stops reaching new highs or a 
+80 CLASSICAL CHART ANALYSIS 
+downside breakout stops making new lows. Then they pounce - they fade 
+the breakout (trade against it) and place a protective stop at the latest 
+extreme point. It is a very tight stop, and their risk is low, while there is a big 
+profit potential from a pullback into the congestion zone. The riswreward 
+ratio is so good that professionals can afford to be wrong half the time and 
+still come out ahead of the game. 
+The best time to buy an upside breakout on a daily chart is when your 
+analysis of the weekly chart suggests that a new uptrend is developing. True 
+breakouts are confirmed by heavy volume, while false breakouts tend to 
+have light volume. 
+ True breakouts are confirmed when technical indicators 
+reach new extreme highs or lows in the direction of the trend, while false 
+breakouts are often marked by divergences between prices and indicators. 

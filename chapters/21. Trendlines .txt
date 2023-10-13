@@ -1,0 +1,233 @@
+21. TRENDLINES 
+Charts reveal the actions of bulls and bears. Bottoms of declines show where 
+bears stopped and bulls regained control of the market. Peaks of rallies show 
+where bulls ran out of steam and bears gained control. A line connecting two 
+nearby bottoms shows the lowest common denominator of bullish power. A 
+line that connects two nearby tops shows the lowest common denominator of 
+the power of bears. Those lines are called trendlines. Traders use them to 
+identify trends. 
+88 CLASSICAL CHART ANALYSIS 
+When prices rally, draw an uptrendline across the bottoms. When prices 
+decline, draw a downtrendline across the tops. Projecting those lines into the 
+future helps anticipate buying and selling points. 
+The most important feature of a trendline is its angle-it identifies the 
+dominant market force. When a trendline points cp, it shows that bulls are in 
+control. Then it pays to buy with a protective stop below the trendline. When 
+a trendline points down, it shows that bears are in control. Then it pays to 
+sell short and protect your position with a stop above the trendline. 
+Trendlines are among the oldest tools of traders. Modem computerized 
+tools for identifying trends include moving averages, the Directional system, 
+and MACD (Chapter 4). 
+How to Draw a Trendline 
+Most chartists draw a trendline through extreme high and low points, but it is 
+better to draw it through the edges of congestion areas (Figure 21-1). Those 
+edges show where the majority of traders have reversed direction. Technical 
+analysis is poll-taking - and polltakers want to track opinions of masses, not 
+of a few extremists. Drawing trendlines through the edges of congestion 
+areas is somewhat subjective. You have to watch out for the temptation to 
+slant your ruler. 
+Panic dumping by bulls at the bottoms and panic covering by bears at the 
+tops create extremes, which appear as long "tails" on the charts. You want to 
+base your trendlines on the edges of congestion areas and not on tails 
+because tails show little about the crowd other than its tendency to panic. 
+The extreme points are very important -but not for drawing trendlines. 
+Markets usually recoil from those tails, offering opportunities to short -term 
+traders (Figure 21 -1). As Steidlmayer pointed out, a bar that looks like a fin - 
+ger sticking out of a tight chart pattern provides a valuable reference point 
+for short-term traders. 
+Markets constantly fluctuate, seeking an area that generates the highest 
+volume of trading. A tail shows that a certain price has been rejected by the 
+market. It usually leads to a swing in the opposite direction. As soon as you 
+recognize a tail, trade against it. Place your protective stop halfway through 
+the tail. If the market starts "chewing its tail," it is time to get out. 
+Victor Sperandeo described another method for drawing trendlines in his 
+book, Trader Kc. His technique helps identify reversals of well -established 
+trends (Figure 21-2). 
+Sperandeo draws an uptrendline from the lowest low of the move to the 
+Figure 21-1. Trendlines and "Tails" 
+Draw trendlines through the edges of congestion areas and leave out the 
+extreme prices. Tails are long bars at the ends of trends-they spring out- 
+side of congestion areas. Markets recoil from tails, offering good trading 
+opportunities in the opposite direction. 
+Notice how the angles of uptrends tend to recur, month after month. 
+Knowing this can help you draw preliminary trendlines. At the right edge 
+of the chart, prices are touching their uptrendline -buy as soon as you 
+see a bar that fails to reach a new low. 
+7 
+highest minor low prior to the highest high. That line may not pass through 
+prices between those two points. When that trendline is broken, it gives the 
+first signal of a trend change. The second signal is given when prices retest 
+the recent high and back away from it. The third signal occurs when prices 
+break through the previous minor low. It confirms that the uptrend has 
+reversed. A mirror image of this method applies to downtrends. 
+Rating Trendlines 
+The single most important feature of a trendline is its slope. When a trend- 
+line slants up, bulls are in control and it pays to look for buying opportuni- 
+90 CLASSICAL CHART ANALYSIS 
+Figure 21-2. 1-2-3 Reversal Method 
+Draw a trendline from the highest high (A) to the highest minor high (B) 
+preceding the lowest low (C) so that it does not pass through prices 
+between A and B. The break of this trendline (1) is the first signal of a 
+trend change. A test of the recent low (2) gives the second signal of a 
+trend change. This is a good time to start buying. When prices break 
+through their minor high (3), they will confirm that the trend has 
+reversed. This method, described by Victor Sperandeo, helps catch 
+major reversals rather than shorter -term swings. 
+ties. When a trendline slants down, bears are in control and it pays to look 
+for shorting opportunities. You can rate the importance of any trendline by 
+examining five factors: the timeframe of the trendline, its length, the number 
+of times prices touch it, its angle, and volume. 
+The longer the timeframe, the more important the trendline. A trendline 
+on a weekly chart identifies a more important trend than a daily trendline. A 
+trendline on a daily chart identifies a more important trend than an hourly 
+trendline, and so on. 
+The longer the trendline, the more valid it is. A short trendline reflects 
+mass behavior over a short period. A longer trendline reflects .mass behavior 
+over a longer time. The longer a trend continues, the greater its inertia. A 
+major bull market may follow its trendline for several years. 
+The more contacts between prices and trendline, the more valid that line. 
+When the trend is up, a return to the trendline shows a rebellion among 
+bears. When the trend is down, a rally to the trendline shows a rebellion by 
+the bulls. When prices pull back to a trendline and then bounce away from it, 
+you know that the dominant market group has beaten the rebels. 
+A preliminary trendline is drawn across only two points. Three points of 
+contact make that line more valid. Four or five points of contact show that 
+the dominant market crowd is firmly in control. 
+The angle between a trendline and the horizontal axis reflects the emo- 
+tional intensity of the dominant market crowd. A steep trendline shows that 
+the dominant crowd is moving rapidly. A relatively flat trendline shows that 
+the dominant crowd is moving slowly. A shallow trendline is likely to last 
+longer, like a turtle racing against a hare. 
+It pays to measure the angle of every trendline and write it down on your 
+chart (Figure 21-1). This can be done using a computer, a protractor, or a 
+Chinese Charting Tool. Comparing angles of trendlines shows whether the 
+dominant market crowd is becoming more bullish or bearish. It is uncanny 
+how often trendlines trace the same angle time and again in a given market. 
+It may be because the key players seldom change. 
+Sometimes prices accelerate away from their trendline. Then you can draw a 
+new, steeper trendline. It shows that a trend is speeding up, becoming unsustain- 
+able (Figure 21-3). When you draw a new, steeper trendline, tighten your stop, 
+place it immediately below the latest trendline, and adjust that stop at every new 
+bar. The breaking of a steep trendline is usually followed by a sharp reversal. 
+When the trend is up, volume normally expands when prices rally and 
+shrinks when they decline. This shows that rallies attract traders while 
+declines leave them cold. The opposite occurs in downtrends-volume 
+expands on declines and shrinks on rallies. A pullback on heavy volume 
+threatens a trendline because it shows that the rebellious crowd is growing. 
+If volume expands when prices move in the direction of a trendline, it con- 
+firms that trendline; if volume shrinks when prices pull back to a trendline, it 
+also confirms the trendline. If volume expands when prices return to a trend- 
+line, it warns of a potential break; if volume shrink when prices pull away 
+from a trendline, it warns that the trendline is in danger. 
+Trendline Breaks 
+The breaking of a well-established trendline shows that the dominant market 
+crowd has lost its power. You have to be careful not to anticipate trading sig - 
+nals- most traders lose money when they jump the gun. 
+92 CLASSICAL CHART ANALYSIS 
+I Figure 21-3. When Trendlines Accelerate I 
+The stock market rose slowly but steadily from its 1987 bottom. You 
+' could buy each time prices touched their shallow uptrendline (1). The 
+uptrend accelerated in 1988, and at point A, a new uptrendline (2) had 
+1 to be drawn. When the new, steeper trendline was broken, it indicated 
+that the bull move was over. The market offered, as it sometimes does, 
+an excellent shorting opportunity at point 8, when it pulled back to its 
+old uptrendline before crashing. 
+A trendline is not a glass floor under the market-one crack and it is 
+gone. It is more like a fence that bulls or bears can lean on. They can even 
+violate it a bit without toppling it, the way animals shake a fence. A trendline 
+break is valid only if prices close on the other side of a trendline. Some 
+traders insist that a trendline has to be penetrated by two or three percentage 
+points of price 
+($%$I2 in the case of $40010~. gold). 
+After a very steep uptrend is broken, prices often rally again, retest their 
+old high, and touch their old uptrendline from below (Figures 20 -2, 21-3). 
+When that happens, you have a near-perfect shorting opportunity: a combi- 
+nation of a double top, a pullback to an old trendline, and perhaps a bearish 
+divergence from technical indicators. The reverse also applies to down- 
+trends. 
+21. TRENDLINES 93 
+Trading Rules 
+1. Trade in the direction of the slope of a trendline. If it points up, look 
+for buying opportunities and avoid shorting. When the slope is down, 
+trade from the short side and avoid buying. 
+2. A trendline provides support or resistance, When prices rise, place buy 
+orders at the uptrendline and protective orders below. Reverse the pro - 
+cedure in downtrends. 
+3. Steep trendlines precede sharp breaks. If a trendline is steeper than 
+45", place your stop right at the trendline and adjust it daily. 
+4. Prices often retest their latest extreme after breaking a steep trendline. 
+A pullback rally to an old high on falling volume and with indicator 
+divergences provides an excellent shorting opportunity. A decline to 
+an old low after a downtrendline is broken provides a low -risk buying 
+opportunity. 
+5. Draw a channel line parallel to a trendline and use it as a target for 
+profit taking. 
+Trendline Channels 
+A channel consists of two parallel lines that contain prices (Figure 21-4). If 
+you draw an uptrendline across the bottoms of reactions, you can draw a 
+channel line parallel to it across the tops of rallies. When you draw a down- 
+trendline across the tops of rallies, you can also draw a channel line parallel 
+to it across the bottoms of declines. 
+Channel lines, like trendlines, should be drawn across the edges of con- 
+gestion areas, leaving out the extreme highs and lows. The presence of a 
+channel line reinforces the validity of the trendline itself. The validity of 
+channel lines depends on how many times they were touched by prices. 
+A channel line marks the area of bulls7 maximum power in an uptrend and 
+bears7 maximum power in a downtrend. The wider the channel, the stronger 
+the trend. It pays to trade in the direction of the channel's slope, going long 
+in the lower quarter or half of a rising channel and selling short in the upper 
+quarter or half of a falling channel. Profits should be taken at the opposite 
+channel wall (see also Section 45). 
+94 CLASSICAL CHART ANALYSIS 
+A Preliminary Trendline 
+t 
+Normally, a trendline touches at least two points on a chart. There is a little- 
+known technique for drawing a preliminary trendline thro~igh only one point 
+(Figure 21-4). 
+When prices break their downtrend and rally above it, you can assume 
+that the downtrend has ended and a new uptrend may begin. Connect the two 
+latest peaks - this is the channel line of the new uptrend. Draw a line parallel + 388 
+:: "" 
+gIII'l11 
+I/,,{ 
+I, 
+ 111 t\ ,J 
+::Iu\& 
+1' 
+$'y .. 278 
+Jun 
+Figure 21-4. Trendline Channels and Preliminary Trendlines 
+The downtrendline 1, drawn across rally peaks, identifies a bear market 
+in corn. A channel line 2 is drawn across the lows, parallel to the trend- 
+line. The channel line helps track the maximum power of bears in a 
+downtrend. The best shorting opportunities are in the upper half of a 
+falling channel, while the best buying opportunities are in the lower half 
+of a rising channel. 
+When prices break out above their downtrendline, channels can help 
+you draw a preliminary uptrendline. First, draw a new channel line 3 to 
+connect the last two rally tops. Then draw line 4 parallel to it, touching 
+the latest bottom. This is the new preliminary uptrendline. 
+At the right edge of the chart, corn is trending higher. It is expen- 
+sive-near its upper channel line. If you want to go long, place an order 
+to buy in the vicinity of the new uptrendline 4. 
+22. GAPS 95 
+to it through the latest low. This preliminary uptrendline, drawn parallel to a 
+channel line, tells you where to expect the next bottom. It often points to 
+excellent buying opportunities. This procedure tends to work better at bot- 
+toms than at the tops. 
+More on Trendlines 
+When prices break their uptrend, measure the vertical distance from the 
+trendline to the latest top and project it down from the breaking point. If the 
+crowd can become optimistic enough to swing prices so many dollars above 
+the trendline, then it is likely to become equally pessimistic and swing prices 
+the same distance down from the trendline. Reverse this procedure in down- 
+trends. This method gives you the minimum target for a new move, which is 
+often exceeded. 
+Trendlines can also be applied to volume and to indicators. The slope of 
+a trendline of volume shows whether more or fewer people are becoming 
+involved in the market. A rising trendline of volume confirms the current 
+price trend. A falling trendline of volume shows that the market crowd is 
+refusing to follow the current price trend. Among technical indicators, the 
+Relative Strength Index (see Section 31) is especially well suited for trend- 
+line analysis. It often breaks its trendlines in advance of prices, providing an 
+early warning of a trend change. 

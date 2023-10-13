@@ -1,0 +1,233 @@
+18. CHARTING 
+Chartists study market action, trying to identify recurrent price patterns. 
+Their goal is to profit from trading when patterns recur. Most chartists work 
+with bar graphs showing high, low, and closing prices and volume. Some 
+also watch opening prices and open interest. Point -and-figure chartists track 
+only price changes and ignore time, volume, and open interest. 
+Classical charting requires only a pencil and paper. It appeals to visually 
+oriented people. Those who plot data by hand often develop a physical feel 
+for prices. Computers speed charting at a cost of losing some of that feel. 
+The biggest problem in charting is wishful thinking. Traders often con- 
+vince themselves that a pattern is bullish or bearish depending on whether 
+they want to buy or to sell. 
+Early in this century Herman Rorschach, a Swiss psychiatrist, designed a 
+test for exploring a person's mind. He dropped ink on 10 sheets of paper and 
+folded each in half, creating a symmetrical inkblot. Most people who peer at 
+these sheets describe what they see: parts of the anatomy, animals, buildings, 
+and so on. In reality, there are only inkblots! Each person sees what's on his 
+mind. Most traders use charts as a giant Rorschach test. They project their 
+hopes, fears, and fantasies onto the charts. 
+Brief History 
+The first chartists in the United States appeared at the turn of the century. 
+They included Charles Dow, the author of a famous stock market theory, and 
+70 CLASSICAL CHART ANALYSIS 
+William Hamilton, who succeeded Dow as the editor of the Wall Street 
+Journal. Dow's famous maxim was "The averages discount everything. " He 
+meant that changes in the Dow Jones Industrial and Rail Averages reflected 
+all knowledge and hopes about the economy and the stock market. 
+Dow never wrote a book, only the Wall Street Journal editorials. 
+Hamilton took over the job after Dow died and struck a blow for charting 
+when he wrote "The Turn of the Tide," an editorial following the 1929 crash. 
+Hamilton laid out the principles of Dow theory in his book, The Stock 
+Market Barometer. Robert Rhea, a newsletter publisher, brought the theory 
+to its pinnacle in his 1932 book, The Dow Theory. 
+The decade of the 1930s was the Golden Age of charting. Many innovators 
+found themselves with time on their hands after the crash of 1929. Schabaker, 
+Rhea, Elliott, Wyckoff, Gann, and others published their research during that 
+decade. Their work went in two distinct directions. Some, such as Wyckoff 
+and Schabaker, saw charts as a graphic record of supply and demand in the 
+markets. Others, such as Elliott and Gann, searched for a perfect order in the 
+markets- a fascinating but futile undertaking (see Section 6). 
+In 1948, Edwards (who was a son-in-law of Schabaker) and Magee pub- 
+lished Technical Analysis of Stock Trends. They popularized such concepts 
+as triangles, rectangles, head -and-shoulders, and other chart formations, as 
+well as support and resistance and trendlines. Other chartists have applied 
+these concepts to commodities. 
+Markets have changed a great deal since the days of Edwards and Magee. 
+In the 1940s, daily volume of an active stock on the New York Stock 
+Exchange was only several hundred shares, while in the 1990s it often 
+exceeds a million. The balance of power in the stock market has shifted in 
+favor of bulls. Early chartists wrote that stock market tops were sharp and 
+fast, while bottoms took a long time to develop. That was true in their defla - 
+tionary era, but the opposite has been true since the 1950s. Now bottoms 
+tend to form quickly while tops tend to take longer. 
+The Meaning of a Bar Chart 
+Chart patterns reflect the tides of greed and fear among traders. This book 
+focuses on daily charts, but you can apply many of its principles to other 
+data. The rules for reading weekly, daily, hourly, or intraday charts are very 
+similar. 
+Each price is a momentary consensus of value of all market participants 
+18. CHARTING 71 
+expressed in action. Each price bar provides several pieces of information 
+about the balance of power between bulls and bears (Figure 18-1). 
+The opening price of a daily or a weekly bar usually reflects the ama- 
+teurs' opinion of value. They read morning papers, find out what happened 
+the day before, and call their brokers with orders before going to work. 
+Amateurs are especially active early in the day and early in the week. 
+Traders who researched the relationship between opening and closing prices 
+for several decades found that opening prices most often occur near the high or 
+the low of the daily bars. Buying or selling by amateurs early in the day creates 
+an emotional extreme from which prices recoil later in the day. 
+In bull markets, prices often make their low for the week on Monday or , 
+s&p500 
+1 
+I , I ' 
+'1 
+11' 
+I .. 
+IItII 'I 
+nu! 
+Figure 18-1. The Meaning of a Bar Chart 
+Opening prices are set by amateurs, whose orders accumulate overnight 
+and hit the market in the morning. Closing prices are largely set by mar- 
+ket professionals, who trade throughout the day. Note how often open- 
+ing and closing prices are at opposite ends of a bar. 
+The high of each bar marks the maximum power of bulls during that 
+bar. The low of each bar marks the maximum power of bears during that 
+bar. Slippage tends to be less when you enter or exit positions during 
+short bars. .L 
+.. 
+.. 
+.. 
+.. 
+.. 
+7 Professionals (dose) 
+Max power of bean (low) 399.00 
+396,. 
+393.. 
+398,W 
+381,W 
+384,88 
+381,88 
+318.88 
+315,W 
+372188 , 
+T 
+72 CLASSICAL CHART ANALYSIS 
+Tuesday on profit taking by amateurs, then rally to a new high on Thursday 
+or Friday. In bear markets, the high for the week is often set on Monday or 
+Tuesday, with a new low toward the end of the week, on Thursday or Friday. 
+The closing prices of daily and weekly bars tend to reflect the actions of 
+professional traders. They watch the markets throughout the day, respond to 
+changes, and become especially active near the close. Many of them take 
+profits at that time to avoid carrying trades overnight. 
+Professionals as a group usually trade against the amateurs. They tend to 
+buy lower openings, sell short higher openings, and unwind their positions as 
+the day goes on. Traders need to pay attention to the relationship between 
+opening and closing prices. If prices closed higher than they opened, then 
+market professionals were probably more bullish than amateurs. If prices 
+closed lower than they opened, then market professionals were probably 
+more bearish than amateurs. It pays to trade with the professionals and 
+against the amateurs. 
+The high of each bar represents the maximum power of bulls during that 
+bar. Bulls make money when prices go up. Their buying pushes prices 
+higher, and every uptick adds to their profits. Finally, bulls reach a point 
+where they cannot lift prices - not even by one more tick. The high of a daily 
+bar represents the maximum power of bulls during the day, and the high of a 
+weekly bar marks the maximum power of bulls during the week; the high of 
+a 5-minute bar reflects the maximum power of bulls during that 5-minute 
+period. The highest point of a bar represents the maximum power of bulls 
+during that bar. 
+The low of each bar represents the maximum power of bears during that 
+bar. Bears make money when prices go down. They keep selling short, their 
+selling pushes prices lower, and every downtick adds to their profits. At 
+some point they run out of either capital or enthusiasm, and prices stop 
+falling. The low of each bar shows the maximum power of bears during that 
+bar. The low of a daily bar marks the maximum power of bears during that 
+day, and the low of a weekly bar identifies the maximum power of bears dur - 
+ing that week. 
+The closing tick of each bar reveals the outcome of a battle between 
+bulls and bears during that bar. If prices close near the high of the daily bar, 
+it shows that bulls won the day's battle. If prices close near the low of the 
+day, it shows that bears won the day. Closing prices on daily charts of the 
+futures markets are especially important. The amount of money in your 
+account depends on them because your account equity is "marked to market" 
+each night. 
+The distance between the high and the low of any bar reveals the inten- 
+18. CHARTING 73 
+sity of conflict between bulls and bears. An average bar marks a relatively 
+cool market. A bar that is only half as long as average reveals a sleepy, disin- 
+terested market. A bar that is two times taller than average shows a boiling 
+market where bulls and bears battle all over the field. 
+Slippage (see Section 3) is usually lower in quiet markets. It pays to enter 
+your trades during short or normal bars. Tall bars are good for taking profits. 
+Trying to put on a position when the market is running is like jumping on a 
+moving train. It is better to wait for the next one. 
+Japanese Candlesticks 
+Japanese rice traders began using candlestick charts some two centuries 
+before the first chartists appeared in America. Instead of bars, these charts 
+have rows of candles with wicks at both ends. The body of each candle rep 
+resents the distance between the opening and closing prices. If the closing 
+price is higher than the opening, the body is white. If the closing price is 
+lower, the body is black. 
+The tip of the upper wick represents the high of the day, and the bottom of 
+the lower wick represents the low of the day. The Japanese consider highs and 
+lows relatively unimportant, according to Steve Nison, author of Japanese 
+Candlestick Charting Techniques. They focus on the relationship between 
+opening and closing prices and on patterns that include several candles. 
+The main advantage of a candlestick chart is its focus on the struggle 
+between amateurs who control openings and professionals who control clos - 
+ings. Unfortunately, most candlestick chartists fail to use many tools of 
+Westem analysts. They ignore volume and have no trendlines or technical 
+indicators. These gaps are being filled by modem American analysts such as 
+Greg Morris, whose Candlepower software combines Western technical 
+indicators with classical candlestick patterns. 
+Market Profile 
+This charting technique for tracking accumulation and distribution during 
+each trading session was developed by J. Peter Steidlmayer. Market Profile 
+requires access to real-time data-a constant flow of quotes throughout the 
+day. It assigns one letter of the alphabet to each half-hour of trading. Each 
+price level reached during that half-hour is marked with its own letter. 
+As prices change, more and more letters fill the screen, creating a bell- 
+74 CLASSICAL CHART ANALYSIS 
+shaped curve. When prices erupt in a trend, Market Profile reflects that by 
+becoming elongated. Market Profile is sometimes combined with Liquidity 
+Data Bank. It tracks intraday volume of trading by several groups-floor 
+traders, hedgers, and off -the-floor traders. 
+Efficient Markets, Random Walk, and Nature's Law 
+Efficient Market tbeory is an academic notion that nobody can outperform 
+the market because any price at any given moment incorporates all available 
+information. Warren Buffet, one of the most successful investors of our cen- 
+tury, commented: "I think it's fascinating how the ruling orthodoxy can 
+cause a lot of people to think the earth is flat. Investing in a market where 
+people believe in efficiency is like playing bridge with someone who's been 
+told it doesn't do any good to look at the cards." 
+The logical flaw of Efficient Market theory is that it equates knowledge 
+with action. People may have knowledge, but the emotional pull of the 
+crowd often leads them to trade irrationally. A good analyst can detect repet - 
+itive patterns of crowd behavior on his charts and exploit them. 
+Random Walk theorists claim that market prices change at random. Of 
+course, there is a fair amount of randomness or "noise" in the markets, just 
+as there is randomness in any other crowd milling around. An intelligent 
+observer can identify repetitive behavior patterns of a crowd and make sensi- 
+ble bets on their continuation or reversal. 
+People have memories, 
+ they remember past prices, and their memories 
+influence their buying and selling decisions. Memories help create support 
+under the market and resistance above it. Random Walkers deny that memo - 
+ries of the past influence our behavior in the present. 
+As Milton Friedman has pointed out, prices carry information about the 
+availability of supply and the intensity of demand. Market participants use 
+that information to make their buying and selling decisions. For example, 
+consumers buy more merchandise when it is on sale and less when prices are 
+high. Financial traders are just as capable of logical behavior as homemakers 
+in a supermarket. When prices are low, bargain hunters step in. A shortage 
+can lead to a buying panic, but high prices choke off demand. 
+Nature's Law is the rallying cry of a clutch of mystics who oppose 
+Random Walkers in the financial markets. Mystics claim that there is a per- 
+fect order in the markets, which they say move like clockwork in response to 
+immutable natural laws. R. N. Elliott even titled his last book Nature's Law. 
+19. SUPPORT AND RESISTANCE 75 
+The "perfect order " crowd gravitates to astrology and looks for links 
+between prices and the movements of the planets. Most mystics try to hide 
+their astrological bent, but it is easy to draw them out of a shell. Next time 
+someone talks to you about natural order in the markets, ask him about 
+astrology. He will probably jump at the chance to come out of the closet and 
+talk about the stars. 
+Those who believe in perfect order in the markets accept that tops and 
+bottoms can be predicted far into the future. Amateurs love forecasts, and 
+mysticism provides a great marketing gimmick. It helps sell courses, trading 
+systems, and newsletters. 
+Mystics, Random Walk academics, and Efficient Market theorists have 
+one trait in common. They are equally divorced from the reality of the mar- 
+kets. Extremists argue with one another but they think alike. 

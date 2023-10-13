@@ -1,0 +1,230 @@
+36. TIME 
+Most people conduct their lives as if they intend to live forever-with no 
+review of the past, no real planning for the future, and minimal learning from 
+past mistakes. Freud showed that the unconscious mind does not have a 
+notion of time. Our deep-seated wishes remain largely unchanged through - 
+out life. 
+When people join crowds, their behavior becomes even more primitive 
+and impulsive than when they are alone. Crowds pay no attention to time 
+even though they are affected by its passage. Individuals are ruled by the cal- 
+endar and the clock, but crowds have no notion of time. Crowds act out their 
+emotions as if they had all the time in the world. 
+Most traders focus only on changes in prices and pay little attention to 
+time. This is just another sign of being caught up in mass mentality. 
+The awareness of time is a sign of civilization. A thinking person is aware 
+of time, while someone who is acting impulsively is not. A market analyst 
+who pays attention to time is aware of a dimension hidden from the market 
+crowd. 
+Cycles 
+Long-tenn price cycles are a fact of economic life. For example, the U.S. 
+stock market tends to run in four-year cycles. They exist because the ruling 
+party inflates the economy going into the presidential election once every 
+four years. The party that wins the election deflates the economy when vot - 
+ers cannot take revenge at the polls. Flooding the economy with liquidity 
+lifts the stock market, and draining liquidity pushes it down. This is why the 
+2 years before a presidential election tend to be bullish, and the first 12 to 18 
+months following an election tend to be bearish. 
+Major cycles in agricultural commodities are due to fundamental produc - 
+tion factors, coupled with the mass psychology of producers. For example, 
+when livestock prices rise, farmers breed more animals. When those animals 
+reach the market, prices fall and producers cut back. When the supply is 
+absorbed, scarcity pushes prices up, breeders go to work again, and the 
+188 THE NEGLECTED ESSENTIALS 
+bullbear cycle repeats. This cycle is shorter in hogs than in cattle because 
+pigs breed faster than cows. 
+Long-term cycles can help traders identify market tides. Instead, most 
+traders get themselves in trouble by trying to use short -term cycles for preci- 
+sion timing and predicting minor turning points. 
+Price peaks and valleys on the charts often seem to follow in an orderly 
+manner. Traders reach for a pencil and a ruler, measure distances between 
+neighboring peaks, and project them into the future to forecast the next top. 
+Then they measure distances between recent bottoms and extend them into 
+the future to forecast the next low. 
+Cycles put bread and butter on the tables of several experts who sell ser- 
+vices forecasting highs and lows. Few of them realize that what appears like 
+a cycle on the charts is often a figment of the imagination. If you analyze 
+price data using a mathematically rigorous program such as John Ehlers' 
+MESA (Maximum Entropy Spectral Analysis), you will see that approxi - 
+mately 80 percent of what appears like cycles is simply market noise. A 
+human mind needs to find order in chaos- and an illusion of order is better 
+than no order for most people. 
+If you look at any river from the air, it appears to have cycles, swinging 
+right and left. Every river meanders in its valley because water flows faster in 
+its middle than near the shores, creating turbulences that force the river to turn. 
+Looking for market cycles with a ruler and a pencil is like searching for 
+water with a divining rod. Profits from an occasional success are erased by 
+many losses due to unsound methods. If you are serious about trading with 
+cycles, you need a mathematical method for finding them, such as MESA or 
+Fourier analysis. 
+Fourier analysis searches for cycles in very large data samples, but MESA 
+takes a different tack. It searches for evidence of orderly cyclical movement 
+in a relatively short data window (Figure 36-1). Unlike other packages, 
+which give nonstop trading signals, MESA tells traders that no valid cycles 
+are present about 80 percent of the time. It aims to recognize cycles as they 
+emerge from market noise and tells you when a cycle begins to fade. 
+Indicator Seasons 
+A farmer sows in spring, harvests in late summer, and uses the fall to get 
+ready for winter. There is a time to sow and a time to reap, a time to bet on a 
+warm trend and a time to get ready for a cold spell. The concept of seasons 
+36. TIME 189 
+can be applied to the financial markets. A trader can use a farmer's 
+approach. He should look to buy in spring, sell in summer, go short in the 
+fall, and cover in winter. 
+Martin Pring developed the model of seasons for prices, but this concept 
+works even better with technical indicators. Indicator seasons show you 
+where you are in the market cycle. This simple but effective concept helps 
+you buy when prices are low and sell short when they are high. It tells you 275 
+I! 
+SPECTRLrn Corn ji 
+...... ,: 
+ii 10 28 30 43 58, I 
+22-1 
+$I CYCLE LENGTH Transition to a 
+i 
+ l!l: cyclical market 
+219 j 
+ ? i 
+211 ' 
+DATE 
+= 911181 
+..._ 
+OpsN 
+:: 
+255 
+13v.'-,b*--'.C!, ............ 
+ .,.:... .T' .,: . .. 
+i 
+* 
+50 .................... 
+ ./ 40 
+HIM :: 
+z8.53 ... >. . 
+., . . /. . ?>. .., ... 
+: ........ -. .i 38 
+LOU :: 
+255.8@ ...... j. .... 
+j';; j'\ 
+.,....,.- ....................... '-- . ./ 20 
+CLOSE:: 
+?tJ 
+,SR ..... .\....-I\. 
+ ? ............................. .j 
+10 
+1 R 
+Figure 36-1. Price Cycles-Maximum Entropy Spectral Analysis 
+(MESA) 
+MESA (a method and a software package) shows that cycles are prone to 
+shift and disappear. The narrow window at the bottom of the chart keeps 
+track of cyclic content. When it is near its upper edge it shows that the 
+market is chaotic, and when it nears its lower edge it shows that the mar - 
+ket is cycling. A vertical arrow marks a transition from a chaotic to a 
+cyclical market. 
+The square window in the upper left corner shows cyclic content for 
+any date selected by the analyst. It currently shows that a 13-day cycle is 
+rising above the market noise. The jagged line at the right edge of the 
+chart projects the current cycle several days into the future. 
+190 THE NEGLECTED ESSENTIALS 
+when an indicator signal is likely to be strong or weak. It helps you stand 
+apart from the market crowd. 
+The season of any indicator is defined by two factors: its slope and its 
+position above or below the centerline. For example, we can apply the con - 
+cept of indicator seasons to MACD -Histogram (see Section 26). We define 
+the slope of MACD-Histogram as the relationship between two neighboring 
+bars. When MACD -Histogram rises from below its centerline, it is spring; 
+when it rises above its centerline, it is summer; when it falls from above its 
+centerline, it is autumn; and when it falls below its centerline, it is winter. 
+Spring is the best season for going long, and autumn is the best season for 
+selling short (Figure 36-2). 
+Indicator Slope Position Relative to Centerline Season Action 
+Rising Below Spring Go long 
+Rising Above Summer Start selling 
+Falling Above Fall Go short 
+Falling Below Winter Start covering 
+When MACD -Histogram is below its centerline but its slope is rising, it is 
+spring in the market. The weather is cool but turning warmer. Most traders 
+expect the winter to return and are afraid to buy. Emotionally, it is hard to 
+buy because the memories of a downtrend are still fresh. In fact, spring is the 
+best time for buying, with the highest profit potential. Risk is low because a 
+protective stop can be placed slightly below the market. 
+When MACD rises above its centerline, it is summer in the market - and 
+most traders recognize the uptrend. It is emotionally easy to buy in summer 
+because bulls have plenty of company. In fact, profit potential in summer is 
+lower than in spring and risks are higher because stops have to be farther 
+away from the market. 
+When MACD -Histogram is above its centerline but its slope turns down, 
+it is autumn in the market. Few traders recognize the change and they keep 
+buying, expecting summer to return. Emotionally, it is hard to sell short in 
+autumn - it requires you to stand apart from the crowd, which is still bullish. 
+In fact, autumn is the best time for selling short. The profit potential is high, 
+while risks can be limited by placing a stop above the recent highs or using 
+options. 
+When MACD -Histogram falls below its centerline, it is winter in the mar- 
+ket. By then, most traders recognize the downtrend. It is emotionally easy to 
+sell short in winter, joining many vocal bears. In fact, the riskheward ratio is 
+rapidly shifting against bears. Potential rewards are getting smaller and risks 
+are high because stops have to be placed relatively far away from prices. 
+36. TIME 191 
+.. 26182 
+Figure 36-2. Indicator Seasons 
+The concept of seasons can be applied to almost any indicator, even 
+though this example focuses on the weekly MACD-Histogram. It helps 
+you trade in gear with the markets. 
+Autumn-the indicator is above its centerline but falling. This is the 
+best season for establishing short positions. 
+Winter-the indicator drops below its centerline. Use weakness to take 
+profits on short positions. 
+Spring-the indicator turns up from below its centerline. It is the best 
+time to establish long positions. Notice "a cold spell " in spring 
+when prices fell to a new low and MACD-Histogram ticked down 
+temporarily. Do not sell short when MACD-Histogram turns down 
+from below its centerline. Do not buy when it turns up from above 
+its centerline. A bullish divergence when prices fall to a new low 
+while the indicator makes a more shallow bottom gives a powerful 
+buy signal. 
+Summer-the indicator rises above its centerline. When the weather 
+gets hot, use strength to take profits on long positions. 
+Just as a farmer pays attention to the vagaries of weather, a trader needs to 
+pay attention to the vagaries of the markets. An autumn on the farm can be 
+interrupted by an Indian summer, and a market can stage a strong rally in 
+192 THE NEGLECTED ESSENTIALS 
+autumn. A sudden freeze can hit the fields in spring, and the market can drop 
+early in a bull move. A trader needs to use his judgment and apply several 
+indicators and techniques to avoid getting whipsawed (see Section 43). 
+The concept of indicator seasons focuses a trader's attention on the pas - 
+sage of time in the market. It helps you plan for the season ahead instead of 
+jumping in response to other people's actions. 
+Retracements 
+Many traders watch price retracements. For example, if a market rallies 120 
+points, traders try to add to long positions when the market retraces 50 per- 
+cent of the preceding move and declines 60 points from the top. 
+Many floor traders look for a trend to reverse after it retraces 61.8 percent 
+of the previous move. This number is based on the Fibonacci number series. 
+This idea of measuring retracements can also be applied to time. It pays to 
+measure how long each rally and decline have lasted. For example, rallies in 
+a bull market are often interrupted by declines that last approximately half as 
+long as the preceding rallies. If you discover that rallies tend to last 8 days 
+and declines 5 days, that knowledge encourages you to look for a buying 
+opportunity 4 days into a decline. 
+The Factor of Five 
+Analysts often feel confused when they look at charts in different timeframes 
+and see that the market is going in several directions at once. The trend may 
+be up on the daily charts but down on the weeklies, and vice versa. Which of 
+these trends will you follow? This becomes even more complex if you look 
+at intraday charts. Most traders pick one timeframe and close their eyes to 
+others - until a sudden move outside of "their" timeframe hits them. 
+The factor of 5 links all timeframes. If you start with monthly charts and 
+proceed to the weeklies, you will notice that there are 4.5 weeks to a month. 
+As you switch to daily charts, you will see 5 trading days to a week. As your 
+timeframe narrows, you will look at hourly charts- and there are approxi - 
+mately 5-6 hours to a trading day. Day -traders can proceed even further and 
+look at 10 -minute charts, followed by 2-minute charts. All are related by the 
+factor of 5. 
+36. TIME 193 
+The proper way to analyze any market is to analyze it in at least two time- 
+frames. They should be related by the factor of 5. When you analyze the 
+market in two timeframes, the shorter of them has to be five times shorter 
+than the longer one. If you want to analyze daily charts, you must first exam - 
+ine weekly charts, and if you want to day-trade using 10 -minute charts, you 
+first need to analyze hourly charts. This is one of the key principles of the 
+Triple Screen trading system (see Section 43). 
+Stock Market Indicators 

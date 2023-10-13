@@ -1,0 +1,108 @@
+44. PARABOLIC TRADING SYSTEM 
+The Parabolic trading system was described in 1976 by J. Welles Wilder, Jr. 
+It was named after the pattern of its stops during runaway moves, which 
+resembled a parabola. The Parabolic system is now included in many soft - 
+ware packages. 
+Parabolic aims to catch trends and to reverse positions when trends 
+reverse. Its unique feature is that it responds to the passage of time as well 
+as to changing prices. Most traders focus on prices but ignore time (see 
+Section 36). 
+How to Construct Parabolic 
+Parabolic is a reversal system, designed to keep a trader in the market all the 
+time. When Parabolic stops you out of a long position, it tells you to go short 
+at the same price. If it stops you out of a short position, it tells you to go long 
+at the same price and time. This method worked well during the inflationary 
+markets of the 1970s, but has led to many whipsaws in later years. Now 
+Parabolic should be used selectively, only when markets are trending. 
+Parabolic is based on a good old rule - move your stops only in the direc- 
+tion of the trade and never against it. If you are long, you may raise your 
+stops but never lower them. If you are short, you may only lower your stops. 
+Parabolic stops are set daily, using a formula: 
+where Stoptday = the current stop. 
+Stoptomo, = the stop for the next trading day. 
+EPtrade = the extreme point reached by the market in the 
+current trade. If a trader is long, EP is the highest 
+high reached since the day he bought. If a trader is 
+short, EP is the lowest low reached since the 
+day he went short. 
+AF = the acceleration factor. This unique tool deter- 
+mines how fast to move a stop in the direction of a 
+trend. AF depends on the number of new highs 
+since the entry into a long trade or the number of 
+new lows since the entry into a short trade. 
+On the first day in a trade, Acceleration Factor equals 0.02. This means 
+that the stop is moved by 2 percent of the distance between the extreme point 
+44. PARABOLIC TRADING SYSTEM 245 
+and the original stop. AF increases by 0.02 each day the rally reaches a new 
+high or a decline reaches a new low, up to the maximum of 0.20. 
+If the market reaches 3 higher highs during a long trade, AF equals 0.08 
+[0.02 + (0.02 3)], and if the market reaches 9 new highs, AF rises to its 
+maximum of 0.20, or 0.02 + (0.02 9). In the latter case, the daily stop gets 
+moved by 20 percent of the distance between the extreme point of the trade 
+and the latest stop. 
+In the beginning of a trade, Acceleration Factor is small and stops move 
+slowly. As the market reaches new highs or new lows, AF increases and 
+stops move fast. If the market does not reach new highs or lows, AF keeps 
+moving stops in the direction of the trade. By doing so, Parabolic forces 
+traders to get out of trades that go nowhere. 
+Many traders change the Acceleration Factor. They adjust the size of the 
+basic 0.02 step and the 0.20 maximum size of AF. Some increase them to 
+make the system more sensitive, others decrease them to make the system 
+react slower. The size of a step often varies from 0.015 to 0.025 and the 
+maximum size of AF from 0.18 to 0.23. 
+Trading Psychology 
+Losers go broke by hanging onto losing positions and hoping for a reversal. 
+The Parabolic system protects traders from indecision and imposes an iron 
+discipline on them. It sets a stop the moment you enter a trade and tells you 
+to move it in the direction of the trade. 
+If you go long or short but prices remain flat, it gives you a message that 
+your timing was wrong. You would not have bought or shorted unless you 
+expected prices to move right after you put on a trade! Parabolic does not let 
+you hang onto a trade that goes nowhere. It moves stops in the direction of 
+the trade, saying in effect "Put up or shut up." 
+The Parabolic system is extremely useful during runaway trends. When 
+prices soar or crash without a pullback, it is hard to place stops using normal 
+chart patterns or indicators. Parabolic is the best tool for placing stops under 
+those conditions. 
+Trading Rules 
+When you begin using Parabolic in any given market, go back several weeks 
+to calculate its stops. Adjust Parabolic stops daily, with one exception: If it 
+tells you to move the stop into the previous day's range, don't do it. Stops 
+should be kept outside of the previous day's range. 
+246 TRADING SYSTEMS 
+Step=0.02 AF=0.20 
+Figure 44-1. Parabolic System 
+Parabolic works well when the markets are moving, but not when the 
+markets are flat. If you get whipsawed twice in a row, it signals a flat 
+market. Stop using Parabolic, but continue to track it on paper until you 
+get two good signals. 
+Parabolic shines in fast-moving markets. Here it took most of the 
+profit out of a 30+ point run in IBM and its subsequent decline, with a 
+single whipsaw in April. Two whipsaws in a row in May gave a signal to 
+stop using Parabolic. 
+The Parabolic system works well in trending markets but leads to whip 
+saws in trendless markets. It can generate spectacular profits during price 
+trends but chop up an account in a trading range. Do not use it as an auto- 
+matic trading method. 
+The original Parabolic was a true reversal system. When a trader was long 
+one contract, it told him to place an order to sell two contracts if his stop was 
+hit. Then he sold his long position and automatically went short. When a 
+trader was short one contract, Parabolic told him to place an order to buy two 
+if his stop was hit. Then he covered his short position and went long. 
+A trader is better off entering the market using some other trading 
+method, such as the Triple Screen trading system, and then switching to 
+45. CHANNEL TRADING SYSTEMS 247 
+Parabolic only if he finds himself riding a dynamic uptrend or a downtrend 
+(Figure 44-1). 
+1. When you find yourself in a strong uptrend, go over the past several 
+weeks of data and apply the Parabolic system. Having updated 
+Parabolic to the current day, begin calculating stops daily and use 
+them to protect profits on your long position. 
+2. When you find yourself short in a fast downtrend, apply Parabolic to 
+the past several weeks of data and update it to the present day. From 
+that day on, calculate its stops daily to protect profits on your short 
+position. 
+The Parabolic system ties together price and time and moves stops in the 
+direction of the trade. The faster the trend, the faster Parabolic moves its 
+stops. Parabolic is an excellent tool for getting the most out of a strong trend 
+that was entered using any method. 

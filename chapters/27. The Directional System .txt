@@ -1,0 +1,246 @@
+27. THE DIRECTIONAL SYSTEM 
+The Directional system is a trend-following method. It was developed by J. 
+Welles Wilder, Jr., in the mid-1970s and modified by several analysts. The 
+Directional system identifies trends and shows when a trend is moving fast 
+enough to make it worth following. It helps traders take chunks of profit out 
+of the middle of important trends. 
+How to Construct the Directional System 
+Directional Movement is defined as the portion of today's range that is out- 
+side of the previous day's range. The Directional system checks whether 
+136 COMPUTERIZED TECHNICAL ANALYSIS 
+Japanese Yen 
+Figure 27-1. Directional System Worksheet 
++Dl1 3 and 
+-Dl1 
+3 are based on positive and negative directional movements 
+and the true ranges of the past 13 days. DX is derived from 
++Dl1 3 and 
+-Dl1 3, and ADX is made by smoothing DX. See formulas in the chapter. Date : ............. 
+H!~~..~~~~LP.W~~~~~~F:!?.SS~ 711 : 72.24 
+; 71.87 ' 71 92 .................... 
+ >----------;-.--:---- 712 : 71.83 
+i 71.63 : 71.69 
+713 
+i 71.65 
+: 71.33 
+i 71.36 
+1 27 
+1 27 
+715 72-71 83 ......... ;'..... . 
+..---; 
+----: ..-. 
+;--??..!?sss\--.BJ--- 718 7194 ' 7178 .................... 7190 30 .......... 
+ 8 ........... .... 
++ 719 
+: 7202 ' 7177 
+ .....9.............. 7179 30 ......... J ..... 
+: .... ; .... :- ... J 7/10 j 71.95 : 71.87 
+i 71.90 29 
+7/11 
+i 72.13 
+i 71.82 
+i 71.85 
+j 30 1 20 
+1 20 
+1 18 
+7/12 
+: 73.20 
+: 71 94 ' 73 11 .... 
+ .....--............-; 
+ -..... 
+--.--: 
+----: 7/15 
+: 72.94 : 72.65 
+: 72.80 
+ ----------.-----------------.--.-.--.---- 7/16 : 72.75 
+: 72 55 ' 72 58 .................... 
+ J-----.--.--:----:---- 7/17 
+' 72 91 ' 72 62 72 71 -... .......... ; .... : .... 
+; ...... 
+--.--; 
+----: 7/18 : 73.07 
+i 72.29 : 72.42 
+today's range extends above or below the previous day's range and averages 
+that data over a period of time. These complex calculations (see worksheet, 
+Figure 27-1) are best performed on a computer. The Directional system is 
+included in most software programs for technical analysis. 
+27. THE DIRECTIONAL SYSTEM 137 
+1. Identify "Directional Movement " (DM) by comparing today's high- 
+to-low range with yesterday's high -to-low range. Directional 
+Movement is the largest part of today's range outside of yesterday's 
+range. There are four types of DM (Figure 27 -2). DM is always a posi - 
+tive number (+DM and -DM refer simply to movement above or 
+below yesterday's range). 
+2. Identify the "True Range" (TR) of the market you analyze. It is 
+always a positive number, the largest of three: 
+A. The distance from today's high to today's low 
+B. The distance from today's high to yesterday's close 
+C. The distance from today's low to yesterday's close 
+3. Calculate daily Directional Indicators (+DI and -DI). They allow 
+you to compare different markets by expressing their directional 
+movement as a percentage of each market's true range. Each DI is a 
+positive number: +DI equals zero on a day that has no directional 
+movement up; -DI equals zero on a day that has no directional move - 
+ment down. 
+4. Calculate smoothed Directional Lines (+DI13 and -DI13). Smooth 
++DI and -DI are created with moving averages. Most software pack - 
+ages allow you to pick any period for smoothing, such as a 13-day 
+moving average. You get two indicator lines: smoothed Positive and 
+Negative Directional lines, +DI13 and 
+-DI13. Both numbers are posi - 
+tive. They are usually plotted in different colors, or as a solid and a 
+dashed line. 
+The relationship between Positive and Negative lines identifies trends. 
+When +DI13 is on top, it shows that the trend is up, and when -DI13 
+is on top, it shows that the trend is down. The crossovers of +DI13 and 
+-DII3 give buy and sell signals. 
+5. Calculate the Average Directional Indicator (ADX). This unique 
+component of Directional system shows when a trend is worth follow - 
+ing. ADX measures the spread between Directional Lines +D113 and 
+-DI13. It is calculated in two steps: 
+138 COMPUTERIZED TECHNICAL ANALYSIS 
+C D 
+- DIRECTIONAL MOVEMENT 
+0 +DM 
+A 
+f 
+B1l-l 
+Fo 
+r 
+L 
+- DM 
+- 
+Figure 27-2. Directional Movement 
+Directional Movement is the largest part of today's range that is outside of 
+yesterday's range. 
+A. If today's range extends above yesterday's range, Directional 
+Movement is positive (+DM). 
+B. If today's range extends below yesterday's range, Directional 
+Movement is negative (-DM). 
+C. If today's range is inside of yesterday's range or extends above and 
+below it by equal amounts, there is no Directional Movement (DM = 
+0). If today's range extends both above and below yesterday's range, 
+DM is positive or negative, depending on which part of the "outside 
+range" is larger. 
+D. On a limit up day, +DM equals the distance from today's close to yes- 
+terday's high. On a limit down day, -DM equals the distance from 
+today's close to yesterday's low. 
+A. Calculate the daily Directional Indicator DX: 
+27. THE DIRECTIONAL SYSTEM 139 
+For example, +DI13 = 34; -DI13 = 18. Then, 
+34- 18 16 
+DX = 100 = 100 = 30.77, rounded off = 31 
+34 + 18 52 
+B. Calculate the Average Directional Indicator ADX by smoothing 
+DX with a moving average, such as a 13-day EMA. 
+When a trend proceeds in a healthy manner, the spread between two 
+smoothed Directional lines increases and ADX rises. ADX declines when a 
+trend reverses or when a market enters a trading range. It pays to use a trend- 
+following method when ADX rises and not when ADX declines. 
+Crowd Behavior 
+The Directional system tracks changes in mass bullishness and bearishness 
+by measuring the capacity of bulls and bears to move prices outside of the 
+previous day's range. If today's high is above yesterday's high, it shows that 
+the market crowd is becoming more bullish. If today's low is below yester - 
+day's low, it shows that the market crowd is becoming more bearish. 
+The relative position of Directional lines identifies trends. When the 
+Positive Directional line is above the Negative Directional line, it shows that 
+bullish traders dominate the market. When the Negative Directional line 
+rises above the Positive Directional line, it shows that bearish traders are 
+stronger. It pays to trade in the direction of the upper Directional line. 
+The Average Directional Indicator ADX rises when the spread between 
+Directional lines increases. This shows that market leaders are becoming 
+stronger, losers are getting weaker, and the trend is likely to continue. When 
+the ADX rises, it pays to trade in the direction of the upper Directional line, 
+using a trend -following method. 
+ADX declines when the spread between 
+ +DI13 and 
+-DI13 narrows down. 
+This shows that the dominant market group is losing its strength, while the 
+underdogs are gaining. Then the market is in turmoil, and it is better not to 
+use trend-following methods. 
+Trading Rules 
+1. Trade only from the long side when 
+ +DI13 is above -DI13. Trade only 
+from the short side when -Dll3 is above 
++DII3. The best time to be 
+long is when both 
+ +DI13 and ADX are above -DI13 and ADX rises. 
+This shows that the uptrend is getting stronger. Go long and place a 
+140 COMPUTERIZED TECHNICAL ANALYSIS 
+protective stop below the latest minor low. The best time to be short is 
+when -DI13 and ADX are above +Dll3 and ADX rises. This shows 
+that bears are becoming stronger. Go short and place a protective stop 
+above the latest minor high. 
+- 
+2. When ADX declines, it shows that the market is becoming less direc- , I 
+Japanese Yen . 76,91 
+" .. 75,56 
+/I+,,',' 
+ll"ft~ 
+,~+,'" 
+1tt1t1811 
+ ,10,,1\) 
+*' 
+,1+l~l I .. 74,15 
+.. 72,74 
+.. 71,33 
+Directional System 68 
+47 
+21 
+T 8 
+Odt 
+Figure 27-3. Signals of the Directional System 
+Directional lines identify trends. When +Dl is on top, the trend is up, 
+and it pays to trade the market from the long side. When 
+-Dl is on top, it 
+shows that the trend is down and it pays to trade the market from the 
+short side. The best time to use a trend-following method is when ADX is 
+rising and is above the lower Directional line. Those are two signs of 
+dynamic trends. 
+The Directional system gives its best signals after ADX spends several 
+weeks below both Directional lines. That happens in quiet, dull markets. 
+Once ADX "wakes up" and rises by four steps (for example, from 10 to 
+14), it gives a strong signal to trade in the direction of the upper 
+Directional line. It often flashes this signal at the beginning of major mar - 
+ket moves. On this chart, ADX rallied from 9 to 13 in September, just 
+prior to a dynamic rally in the Japanese Yen. Since the +Dl was on top 
+when the signal occurred, it signalled to go long. 
+27. THE DIRECTIONAL SYSTEM 141 
+tional. There are usually many whipsaws, just as there are turbulences 
+in the water during the change of tide. When ADX points down, it is 
+better not to use a trend-following method. 
+3. When ADX falls below both Directional lines, it identifies a flat, 
+sleepy market. Do not use a trend -following system but start getting 
+ready, because major trends emerge from such lulls. 
+4. The single best signal of the Directional system comes after ADX falls 
+below both Directional lines. The longer it stays there, the stronger the 
+base for the next move. When ADX rallies from below both Directional 
+lines, it shows that the market is waking up from a lull. When ADX 
+rises by four steps (i.e., from 9 to 13) from its lowest point below both 
+Directional lines, it "rings a bell" on a new trend. It shows that a new 
+bull market or bear market is being born (Figure 27-3). Buy if +DI13 is 
+on top and place a stop below the latest minor low. Sell short if 
+-DII3 is 
+on top and place a stop above the latest minor high. 
+For example, if ADX rises from 8 to 12 while both lines are above 12 
+and +DIZ3 is on top, it indicates that a new uptrend is beginning. If 
+ADX rises from 9 to 13 while both lines are above 13 and 
+-DI13 is on 
+top, it shows that a new downtrend is starting. 
+The Directional System is unique in telling you when a major new trend is 
+likely to begin. It rings a bell once or twice a year in any given market. It 
+signals when a new baby bull or baby bear is being born. Monetary risk is 
+usually low at that time, due to low volatility while the trend is still young. 
+5. When ADX rallies above both Directional lines, it identifies an over - 
+heated market. When ADX turns down from above both Directional 
+lines, it shows that the major trend has stumbled. It is a good time to 
+take profits. If you trade multiple contracts, you definitely want to take 
+partial profits. 
+Market indicators give hard signals and soft signals. For example, a viola - 
+tion of a price low or a change in direction of a moving average are hard sig - 
+nals. A downturn of ADX is a soft signal. Once you see ADX turn down, 
+you ought to be very, very careful about adding to positions. You should start 
+taking profits, reducing positions, and looking to get out of your position 
+rather than adding to it. 
+142 COMPUTERIZED TECHNICAL ANALYSIS 

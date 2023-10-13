@@ -1,0 +1,239 @@
+26. MOVING AVERAGE CONVERGENCE-DIVERGENCE (MACD) AND MACD-HISTOGRAM 
+Moving averages identify trends by filtering out daily price ripples. A more 
+advanced indicator was constructed by Gerald Appel, an analyst and money 
+128 COMPUTERIZED TECHNICAL ANALYSIS 
+manager in New York. Moving Average Convergence -Divergence, or 
+MACD for short, consists not of one, but three exponential moving averages. 
+It appears on the charts as two lines whose crossovers give trading signals. 
+How to Create MACD 
+The original MACD indicator consists of two lines: a solid line (called the 
+MACD line) and a dashed line (called the Signal line). The MACD line is 
+made up of two exponential moving averages (EMAs). It responds to 
+changes in prices relatively quickly. The Signal line is made up of the 
+MACD line smoothed with another EMA. It responds to changes in prices 
+more slowly. 
+Buy and sell signals are given when the fast MACD line crosses above or 
+below the slow Signal line. The MACD indicator is included in most pro- 
+grams for technical analysis. Few traders calculate it by hand-a computer 
+does the job faster and more accurately. 
+To create MACD: 
+1. Calculate a 12-day EMA of closing prices. 
+2. Calculate a 26-day EMA of closing prices. 
+3. Subtract the 26 -day EMA from the 12 -day EMA, and plot their differ - 
+ence as a solid line. This is the fast MACD line. 
+4. Calculate a 9-day EMA of the fast line, and plot the result as a dashed 
+line. This is the slow Signal line (see the worksheet, Figure 26-1). 
+Market Psychology 
+Each price reflects the consensus of value among the mass of market partici - 
+pants at the moment of the trade. A moving average represents an average 
+consensus of value in a selected period - a composite photo of mass consen - 
+sus. A long moving average tracks long -term consensus, and a short moving 
+average tracks short -term consensus. 
+Crossovers of the MACD and Signal lines identify shifts in the balance of 
+power of bulls and bears. The fast MACD line reflects mass consensus over 
+a shorter period. The slow Signal line reflects mass consensus over a longer 
+period. When the fast MACD line rises above the slow Signal line, it shows 
+26. MOVING AVERAGE CONVERGENCE -DIVERGENCE 129 
+Crude Oil 
+DAY 
+1 CLOSE 
+i 12-EMA i 26-EMA 
+i MACD 
+i SIGNAL MACD-HIST 
+1 I 20.70 i 20.39 1 20.46 
+i 4.07 i -0.16 i 0.09 
+- 
+.....a .... 
+9 1 21.23 
+ 1 20.95 
+i 20.76 i 0.19 
+i 0.07 
+i 0.12 
+Figure 26-1, MACD and MACD-Histogram Worksheet 
+To obtain MACD lines and an MACD-Histogram take these steps: 
+1. Calculate the 12 -day and 26-day exponential moving averages of 
+closing prices. 
+2. Subtract the 26-day EMA from the 12-day EMA to obtain the fast 
+MACD line. 
+3. Calculate a 
+%day EMA of the. fast MACD line to obtain the slow 
+Signal line. Plot both lines to obtain the classic MACD indicator. 
+4. Subtract the Signal line from the MACD line to obtain an MACD- 
+Histogram. 
+that bulls dominate the market, and it is better to trade from the long side. 
+When the fast line falls below the slow line, it shows that bears dominate the 
+market and it pays to trade from the short side. 
+Trading Rules 
+Crossovers between the MACD and Signal lines identify changing market 
+tides. Trading in the direction of a crossover means going with the flow of 
+the market. This system generates fewer trades and whipsaws than a 
+mechanical system based on a single moving average. 
+1. When the fast MACD line crosses above the slow Signal line, it gives 
+a buy signal. Go long, and place a protective stop below the latest 
+minor low. 
+130 COMPUTERIZED TECHNICAL ANALYSIS 
+Jiul 
+Figure 26-2. MACD Lines 
+When the fast MACD line crosses above the slow Signal line, it 
+gives a buy signal. Sell signals are given when the fast line crosses 
+below the slow line. These rules help catch all the major trends 
+and generate fewer whipsaws than crossovers of prices and a sin - 
+gle moving average. 
+2. When the fast line crosses below the slow line, it gives a sell signal. 
+Go short, and place a protective stop above the latest minor high 
+(Figure 26 -2). 
+More on MACD 
+Many traders try to optimize MACD by using other moving averages than 
+the standard 12 -, 26-, and 9-bar EMAs; 5-34-7 is another popular choice. 
+Some traders try to link MACD to market cycles. The trouble is cycles are 
+not present in the markets most of the time (see Section 36). If you use 
+cycles, the first EMA should be one quarter the length of the dominant cycle 
+and the second EMA half the cycle length. The third EMA is a smoothing 
+device whose length does not have to be tied to a cycle. Beware of optimiz- 
+26. MOVING AVERAGE CONVERGENCE -DIVERGENCE 131 
+ing MACD too often. If you fiddle with MACD long enough, you can make 
+it give you any signal you want using the same data. 
+A "quick-and-dirty" way to plot MACD is used by traders whose soft - 
+ware does not include this indicator. Some packages allow you to draw only 
+two EMAs. In that case, you can use crossovers between two EMAs, such as 
+11-day and 26-day EMAs as a proxy for MACD and Signal lines. 
+MACD-Histogram offers a deeper insight into the balance of power between 
+bulls and bears than the original MACD. It shows not only whether bulls or 
+bears are in control but also whether they are growing stronger or weaker. It 
+is one of the best tools available to a market technician. 
+MACD-Histogram = MACD line - Signal line 
+MACD-Histogram measures the difference between the MACD line and 
+the Signal line (see worksheet, Figure 26-1). It plots that difference as a his- 
+togram - a series of vertical bars. That distance may appear puny, but a corn- 
+puter rescales it to fill the screen. 
+If the fast line is above the slow line, MACD -Histogram is positive and 
+plotted above the zero line. If the fast line is below the slow line, MACD - 
+Histogram is negative and plotted below the zero line. When the two lines 
+touch, MACD -Histogram equals zero. 
+When the spread between the MACD and Signal lines increases, MACD - 
+Histogram becomes taller or deeper, depending on its direction. When the 
+two lines draw closer, MACD -Histogram becomes shorter. 
+The slope of MACD-Histogram is defined by the relationship between 
+any two neighboring bars. If the last bar is higher (like the height of letters 
+m-M), the slope of MACD-Histogram is up. If the last bar is lower (like the 
+depth of letters P-p), then the slope of MACD-Histogram is down. 
+Market Psychology 
+MACD-Histogram shows the difference between long -term and short -term 
+consensus of value. The fast MACD line reflects market consensus over a 
+shorter period. The slow Signal line reflects market consensus over a longer 
+period. MACD -Histogram tracks the difference between these two lines. 
+132 COMPUTERIZED TECHNICAL ANALYSIS 
+The slope of MACD-Histogram identifies the dominant market group. A 
+rising MACD -Histogram shows that bulls are becoming stronger. A falling 
+MACD-Histogram shows that bears are becoming stronger. 
+When the fast MACD line rallies faster than the slow Signal line, MACD - 
+Histogram rises. It shows that bulls are becoming stronger than they have 
+been - it is a good time to trade from the long side. When the fast MACD 
+line drops faster than the slow line, MACD -Histogram falls. It shows that 
+bears are becoming stronger - it is a good time to trade from the short side. 
+When the slope of MACD-Histogram moves in the same direction as 
+prices, the trend is safe. When the slope of MACD-Histogram moves in a 
+direction opposite to that of prices, the health of the trend is questioned. It is 
+best to trade in the direction of the slope of MACD -Histogram because it 
+shows whether bulls or bears dominate the market. 
+The slope of MACD-Histogram is more important than its position above 
+or below the centerline. The best sell signals are given when MACD- 
+Histogram is above its centerline but its slope turns down, showing that bulls 
+have become exhausted. The best buy signals occur when MACD -Histogram 
+is below its centerline but its slope turns up, showing that bears have become 
+exhausted. 
+Trading Rules 
+MACD-Histogram gives two types of trading signals. One is common and 
+occurs at every price bar. The other is rare and occurs only a few times a 
+year in any market - but it is extremely strong. 
+The common signal is given by the slope of MACD-Histogram (Figure 
+26-3). When the current bar is higher than the preceding bar, the slope is up. 
+It shows that bulls are in control and it is time to buy. When the current bar is 
+lower than the preceding bar, the slope is down. It shows that bears are in 
+control and it is time to be short. When prices go one way but MACD- 
+Histogram moves the other way, it shows that the dominant crowd is losing 
+its enthusiasm and the trend is weaker than it appears. 
+1. Buy when MACD-Histogram stops falling and ticks up. Place a pro- 
+tective stop below the latest minor low. 
+2. Sell short when MACD-Histogram stops rising and ticks down. Place 
+a protective stop above the latest minor high. 
+MACD-Histogram ticks up and down on the daily charts so often that is 
+26. MOVING AVERAGE CONVERGENCE -DIVERGENCE 133 
+Figure 26-3. MACD-Histogram Divergences 
+MACD-Histogram confirms trends when it reaches new highs or lows 
+together with prices. The new lows in MACD-Histogram at points A and 
+F confirm downtrends. New lows in the indicator tell traders that the 
+downtrend is likely to retest or exceed bottoms A and F. New highs C 
+and D in MACD-Histogram confirm uptrends. They show that the 
+uptrend is likely to retest or exceed peaks C and D. 
+Divergences between MACD-Histogram and prices identify major 
+turning points. These signals rarely occur, but when .they do, they often 
+let you catch major reversals and the beginnings of new trends. The 
+bullish divergence A-B flags a major buying opportunity. Prices are at a 
+new low, but the indicator is tracing a higher bottom. It shows that bears 
+are exhausted and bulls are ready to gain the upper hand. 
+The bearish divergence D-E identifies a major selling opportunity. At 
+the right edge of the chart, there is a bullish divergence, F-G. The best 
+time to buy is when MACD -Histogram ticks up from its second bottom, 
+G. Once you go long, place a protective stop below the price bottom G. 
+Move the stop up as the trend progresses. 
+not practical to buy and sell every time it turns. The changes of slope of 
+MACD-Histograms are much more meaningful on the weekly charts, which 
+is why it is included in the Triple Screen trading system (see Section 43). 
+134 COMPUTERIZED TECHNICAL ANALYSIS 
+When to Expect a New Peak or Valley 
+MACD-Histogram works like headlights on a car - it gives traders a glimpse 
+of the road ahead. New highs and lows in this indicator are usually followed 
+by new high or low prices. 
+A record peak for the past three months in daily MACD -Histogram shows 
+that bulls are very strong and prices are likely to rise even higher. A record 
+new low for MACD -Histogram for the past three months shows that lower 
+prices are likely ahead. 
+When MACD -Histogram reaches a new high during a rally, the uptrend is 
+healthy and you can expect the next rally to retest or exceed its previous 
+peak. If MACD-Histogram falls to a new low during a downtrend, it shows 
+that bears are strong and prices are likely to retest or exceed their latest low. 
+The Strongest Signal in Technical Analysis 
+Divergences between MACD -Histogram and prices occur only a few times a 
+year in any given market, but they give some of the most powerful messages 
+in technical analysis. These divergences identify major turning points and 
+give "extra-strength" buy or sell signals. They do not occur at every impor - 
+tant top and bottom, but when you see one, you know that a major reversal is 
+probably at hand. 
+When prices rally to a new high, but MACD -Histogram traces a lower 
+top, it creates a bearish divergence (Figure 26-3). A lower top in MACD- 
+Histogram shows that bulls are internally weak even though prices are 
+higher. When bulls are running out of steam, bears are ready to grab control. 
+Bearish divergences between MACD -Histogram and prices identify weak- 
+ness at market tops. They give sell signals when most traders feel excited 
+about a breakout to a new high! 
+3. Sell short when MACD -Histogram ticks down from its second, lower 
+top, while prices are at a new high. Place a protective stop above the 
+latest high. 
+As long as prices keep falling to new lows and MACD -Histogram keeps 
+going lower, it confirms the downtrend. If prices fall to a new low but 
+MACD-Histogram traces a more shallow low, it creates a bullish divergence. 
+It shows that prices are falling out of inertia, bears are weaker than they 
+seem, and bulls are ready to gain control. Bullish divergences between 
+27. THE DIRECTIONAL SYSTEM 135 
+MACD-Histogram and prices identify strength at market bottoms. They give 
+buy signals when most traders feel fearful about a breakdown to a new low! 
+4. Buy when MACD -Histogram ticks up from its second, more shallow 
+bottom while prices are at a new low. Place a protective stop below the 
+latest low. 
+If a bullish divergence between MACD -Histogram and price is aborted 
+and prices fall to a new low, you will be stopped out. Continue to watch 
+MACD-Histogram. If it traces a more shallow third bottom while prices 
+decline to a new low, you are dealing with a "triple bullish divergence9'-an 
+especially strong buy signal. Buy again as soon as MACD-Histogram ticks 
+up from its shallow third bottom. The reverse applies to shorting triple bear - 
+ish divergences. 
+More on MACD-Histogram 
+MACD-Histogram works in any timeframe: weekly, daily, and intraday. The 
+signals of weekly MACD-Histogram lead to greater price moves than the 
+daily or intraday indicators. This principle applies to all indicators - signals 
+in longer timeframes lead to greater price moves. 
+When you use MACD and MACD -Histogram on the weekly charts, you 
+do not have to wait until Friday to get your signals. A major trend can 
+change in the middle of the week - the market does not watch the calendar. 
+Because of this, weekly studies have to be performed each day. 

@@ -1,0 +1,214 @@
+33. VOLUME-BASED INDICATORS 
+Traders can use several technical indicators to help them analyze volume. 
+Some traders track a 5-day exponential moving average of volume. Its slope 
+identifies the trend of volume (see Sections 25 and 32). Others use On- 
+Balance Volume and 
+Accumulation/Distribution. 
+On-Balance Volume 
+On-Balance Volume (OBV) is an indicator designed by Joseph Granville and 
+described in his book, New Strategy of Daily Stock Market Timing. Granville 
+used OBV as a leading indicator of the stock market, but other analysts have 
+applied it to the futures markets. 
+OBV is a running total of volume. It rises or falls each day, depending on 
+whether prices close higher or lower than on the previous day. When a stock 
+closes higher, it shows that bulls won the day's battle; its volume on that day 
+is added to OBV. When a stock closes lower, it shows that bears won the 
+day, and that day's volume is subtracted from OBV. If prices close 
+unchanged, OBV stays unchanged. 
+On-Balance Volume often rises or falls before prices - it acts as a leading 
+indicator. As Granville put it, "Volume is the steam that makes the choo- 
+choo go." 
+33. VOLUME-BASED INDICATORS 173 
+Crowd Psychology 
+Prices represent the consensus of value, while volume represents the emo - 
+tions of market participants. It reflects the intensity of traders' financial and 
+emotional commitments, as well as pain among losers (see Section 32). 
+OBV is a running total of volume. It tracks changes in traders' involvement 
+in the market and the intensity of their pain. 
+A new high in OBV shows that bulls are powerful, bears are hurting, and 
+prices are likely to rise. A new low in OBV shows that bears are powerful, 
+bulls are hurting, and prices are likely to fall. When the pattern of OBV devi- 
+ates from the pattern of prices, it shows that mass emotions are not in gear 
+with mass consensus. A crowd is more likely to follow its heart than its 
+mind. This is why changes in volume often precede changes in prices. 
+Trading Signals 
+The patterns of OBV tops and bottoms are more important than the absolute 
+levels of this indicator. Those levels depend on when you start to calculate 
+On-Balance Volume. When OBV rises or falls together with prices, the trend 
+is confirmed. If prices reach a new high and OBV reaches a new high, the 
+uptrend is likely to continue. If prices reach a new low and OBV falls to a 
+new low, the downtrend is likely to continue. It is safer to trade in the direc- 
+tion of a trend that is confirmed by OBV (Figure 33 -1). 
+1. When OBV reaches a new high, it confirms the power of bulls, indi - 
+cates that prices are likely to rise even higher, and gives a buy signal. 
+When OBV reaches a new low, it confirms the power of bears, calls 
+for lower prices ahead, and gives a signal to sell short. 
+2. OBV gives its strongest buy and sell signals when it diverges from ---- 
+ -\_ 
+ __ 
+ - pr- If prices rally, sell off, and then rise to a new 
+TiTgli,%ut OBV I 
+- - 
+ - 
+rallies to a lower high, it creates a bearish divergence and gives a 
+strong sell signal. If prices decline, rebound, and then fall to a new 
+low, but OBV falls to a more shallow bottom, it traces a bullish diver - 
+gence and gives a strong buy signal. Long -term divergences are more 
+important than short -term divergences. Divergences that develop over 
+the course of several weeks give stronger signals than those that last 
+only a few days. 
+174 THE NEGLECTED ESSENTIALS 
+73 
+65 
+56 
+48 
+48 
+658581 
+534736 
+419964 
+281193 
+163421 
+Figure 33-1. On-Balance Volume 
+When OBV moves in gear with a trading vehicle, it confirms its trend. 
+The uptrend A of OBV confirms the stock rally. Its break in March gives 
+a sell signal. There are two shorting signals at the top. The first, in early 
+April, is given by a bearish divergence between OBV and price. Two 
+weeks later, OBV breaks its support B, giving another signal to sell short. 
+The downtrendline C of OBV confirms the slide of Apple 
+Computer-hold shorts. An upside breakout in July gives a signal to cover 
+shorts. 
+3. When prices are in a trading range and OBV breaks out to a new high, 
+it gives a buy signal. When prices are in a trading range and OBV 
+breaks down and falls to a new low, it gives a signal to sell short. 
+More on OBV 
+One of the reasons for Granville's success in his heyday (see Section 6) was 
+that he combined OBV with two other indicators - the Net Field Trend 
+indicator and the Climax indicator. Granville calculated OBV for each 
+stock in the Dow Jones Industrial Average and rated its OBV pattern as ris- 
+ing, falling, or neutral. He called that a Net Field Trend of a stock: It could 
+33. VOLUME-BASED INDICATORS 175 
+be 
++I, -1, or 0. Climax indicator was a sum of the Net Field Trends of all 30 
+Dow stocks. 
+When the stock market rallied and the Climax indicator reached a new 
+high, it confirmed strength and gave a buy signal. If the stock market rallied 
+but the Climax indicator made a lower top, it gave a sell signal. 
+You can view the Dow Jones Industrial Average as a team of 30 horses 
+pulling the market wagon. The Climax indicator shows how many horses are 
+pulling uphill, downhill, or standing still. If 24 out of 30 horses pull up, 1 
+down and 5 are resting, then the market wagon is likely to move up. If 9 
+horses pull up, 7 pull down, and 14 are resting, then the wagon is ready to 
+roll downhill. 
+OBV, the Net Field Trend indicator, and the Climax indicator can be eas- 
+ily programmed on a computer. It would be worthwhile to apply them to a 
+database which includes all stocks of the S&P 500 index. That may produce 
+good signals for trading S&P 500 futures or options. 
+This indicator was developed by Larry Williams and described in his 1972 
+book, How I Made a Million Dollars. It was designed as a leading indicator 
+for stocks, but several analysts have applied it to futures. The unique feature 
+of 
+Accumulation/Distribution (AD) is that it tracks the relationship between 
+opening and closing prices, along with volume. 
+If prices close higher than they opened, then bulls won the day and AD is .-- - - gosit~ve. If prices close lower than they opened, then the bears won and 
+AD 
+is negative. If pricks close where they opened, then nobody won and A/D is 
+zero. A' running total of each day's AID creates a cumulative 
+Accumulation/Distribution indicator. 
+A/D credits bulls or bears with only a fraction of each day's volume. That 
+fraction depends on the day's range and the distance from opening to closing 
+price. 
+Thegreater the spread be&een opening and closing 
+*relative-f_o. 
+- -- 
+daily rakge, the greater 
+ thzhange in 
+~ccumulation/~~ution. 
+Close - Open 
+A/D= Volume High - Low 
+For example, if the distance from today's high to low is 5 points but the dis - 
+tance from the open to the close is 2 points, then only 2/5 of today's volume 
+176 THE NEGLECTED ESSENTIALS 
+is credited to the winning camp. The pattern of A/D highs and lows is  more^ 
+important than its absolute level, which depends on the starting date. 
+When the market rises, most people focus 
+.on new highs. But if prices 
+open higher and close lower, then A/D, which tracks their relationship, turns 
+down. It warns that the uptrend is weaker than it appears. If A/D ticks up 
+while prices are down, it shows that bulls are gaining strength. 
+Crowd Behavior 
+Opening and closing prices are among the most important prices of the day. 
+The opening price reflects all the pressures that have gathered while the mar- 
+ket was closed. Openings are often dominated by amateurs who read their 
+newspapers in the evening and trade in the morning. 
+Professional traders are active throughout the day. They often trade 
+against the amateurs. As the day goes on, waves of buying and selling by 
+amateurs and slow-moving institutions gradually subside. Professionals usu - 
+ally dominate the markets at closing time. Closing prices are especially 
+important because the settlement of trading accounts depends on them. 
+AD tracks the outcomes of daily battles between amateurs and profes- 
+sionals. It ticks up when prices close higher than they opened - when profes - 
+sionals are more bullish than amateurs. It ticks down when prices close 
+lower than they opened- when professionals are more bearish than ama- 
+teurs. It pays to bet with the professionals and against the amateurs. 
+Trading Rules 
+When the market opens low and closes high, it moves from weakness to 
+strength. AID then rises and shows that market professionals are more 
+bullish than amateurs. This means that the market is likely to move higher 
+the following day. When A/D falls, it shows that market professionals are 
+more bearish than amateurs. When the market moves from strength to weak - 
+ness, it is likely to reach a lower low the following day. 
+The best trading signals are given by divergences between 
+ AD and 
+prices. 
+1. If prices rally to a new high but AID reaches a lower peak, it gives a 
+signal to sell short. This bearish divergence shows that market profes - 
+sionals are selling into the rally (Figure 33-2). 
+33. VOLUME-BASED INDICATORS 177 
+62,250 
+Apple Computer .. 52,750 
+lb,J 
+fill 
+t,f~lb,,t~lh' 
+11*1 .. 43,258 
+" 
+b~ll~bv,t~ 
+ lb~t~,,,, 
+ tblt 
+futll,if~~llfltfl .. 33,750 
+'t'l~l~ll~~l,l~~,,t 
+ ~~~~III~~I) . 24,250 
+Accurnulation/Distribution 18462 
+10355 
+18248 
+10140 
+10033 
+Figure 33-2. 
+Accurnulation/Distribution 
+Accurnulation/Distribution gives it 
+56ng&Q&c diverges 
+tf&-.~~sh 
+ divergeGes abuy at the 
+~ctob%o<l tc tom. ~ouFmonths later and $30 higher, a bearish divergence gives a sell 
+signal. Take profits on long positions and go short. 
+2. A bullish divergence occurs when prices fall to a new low but 
+ AD 
+stops at a higher low than during its previous decline. It shows that 
+market professionals are using the decline for buying, and a rally is 
+coming. 
+More on 
+Accumulation/Distribution 
+When you go long or short, following a divergence between A/D and price, 
+remember that even market professionals can go wrong. Use stops and pro- 
+tect yourself by following the Hound of the Baskemilles rule (see Section 
+23). 
+Volume Accumulator, designed by Marc Chaikin, is an indicator very 
+similar to 
+AD. Volume Accumulator uses a mean price for the day instead of 
+the opening price. It is especially useful for those analysts who do not have 
+178 THE NEGLECTED ESSENTIALS 
+access to opening prices. Its trading signals and rules are similar to 
+Accumulation/Distribution. 
+There are important parallels between 
+ ADand Japanese Candlestick 
+charts. Both focus on the differences between opening and closing prices. 
+AD goes further than candlesticks by taking volume into account. 

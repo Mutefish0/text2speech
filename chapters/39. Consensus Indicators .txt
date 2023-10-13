@@ -1,0 +1,215 @@
+39. CONSENSUS INDICATORS 
+Many private traders keep their market opinions to themselves, but financial 
+journalists and market letter writers spew them forth like open fire hydrants. 
+Some writers are very bright, but both groups as a whole have poor trading 
+records. 
+Financial journalists and letter writers overstay important trends and miss 
+major turning points. When these groups become bullish or bearish, it pays 
+to trade against them. The behavior of groups is more primitive than individ- 
+ual behavior. 
+Consensus indicators, also known as contrary opinion indicators, are not 
+as exact as trend-following indicators or oscillators. They simply draw your 
+attention to the fact that a trend is ready to reverse. When you get that mes- 
+sage, use technical indicators for more precise timing. 
+As long as the market crowd remains in conflict, the trend can continue. 
+When the crowd reaches a strong consensus, the trend is ready to reverse. 
+When the crowd becomes highly bullish, it pays to get ready to sell. When 
+the crowd becomes strongly bearish, it pays to get ready to buy. 
+The foundations of the contrary opinion theory were laid by Charles 
+Mackay, a Scottish barrister. He described in his book, Extraordinary 
+Popular Delusions and the Madness of Crowds, crowd behavior during the 
+Dutch Tulip Mania and the South Seas Bubble in England. Humphrey B. 
+Neil1 applied the theory of contrary opinion to stocks and other financial 
+210 PSYCHOLOGICAL INDICATORS 
+markets. He explained in his book, The Art of Contrary Thinking, why the 
+majority must be wrong at the market's major turning points. Prices are 
+established by crowds, and by the time the majority turns bullish, there are 
+not enough new buyers left to support a bull market. 
+Abraham W. Cohen, a New York lawyer, came up with the idea of polling 
+market advisors and using their responses as a proxy for the entire body of 
+traders. Cohen was a skeptical man who spent many years on Wall Street and 
+saw that the advisors as a group performed no better than the market crowd. 
+In 1963, he established a service called Investors Intelligence for tracking 
+market letter writers. When the majority of them became bearish, Cohen 
+identified a buying opportunity. Selling opportunities were marked by strong 
+bullishness among letter writers. James H. Sibbet applied this theory to com - 
+modities. In 1964, he set up an advisory service called Market Vane. He 
+studied the opinions of advisors and also weighed them in proportion to the 
+numbers of their subscribers. 
+Tracking Advisory Opinion 
+Some letter writers are very smart, but taken as a group they are no better 
+than average traders. They become very bullish at major tops and very bear- 
+ish at major bottoms. Their consensus is similar to that of the trading crowd. 
+Most letter writers follow trends because they are afraid to appear foolish 
+and lose subscribers by missing a major move. The longer a trend continues, 
+the louder letter writers bay at it. The advisors are most bullish at market 
+tops and most bearish at market bottoms. When most letter writers become 
+strongly bullish or bearish, it is a good idea to trade against them. 
+Several rating services track the percentage of bulls and bears among 
+advisors. The main rating services are Investors Intelligence in the stock 
+market and Market Vane in the futures markets. Some advisors are very 
+skilled at doubletalk. The man who speaks from both sides of his mouth can 
+later claim that he was right regardless of the market's direction. Editors of 
+Investors Intelligence and Market Vane have plenty of experience pinning 
+down such lizards. As long as the same editor does the ratings, they remain 
+internally consistent. 
+Investors Intelligence 
+Investors Intelligence was founded by Abe Cohen in 1963. He died in 1983, 
+and his work is being continued by Michael Burke, the new editor and pub- 
+39. CONSENSUS INDICATORS 21 1 
+lisher. Investors Intelligence monitors about 130 stock market letters. It tabu- 
+lates the percentage of bulls, bears, and fence-sitters among letter writers. 
+The percentage of bears is especially important because it is emotionally 
+hard for stock market writers to be bearish. 
+When the percentage of bears among stock market letter writers rises 
+above 55, the market is near an important bottom. When the percentage of 
+bears falls below 15 and the percentage of bulls rises above 65, the stock 
+market is near an important top. 
+Market Vane 
+Market Vane rates about 70 newsletters covering 32 markets. It rates each 
+writer's degree of bullishness in each market on a 9-point scale. It multiplies 
+these ratings by an estimated number of subscribers to each service (most 
+advisors wildly inflate those numbers to appear more popular). A consensus 
+report on a scale from 0 (most bearish) to 100 (most bullish) is created by 
+adding the ratings of all advisors. When bullish consensus approaches 70 
+percent to 80 percent, it is time to look for a downside reversal, and when it 
+nears 20 percent to 30 percent, it is time to look to buy. 
+The reason for trading against the extremes in consensus is rooted in the 
+structure of the futures markets. The number of contracts bought long and 
+sold short is always equal. For example, if open interest in gold is 12,000 
+contracts, then 12,000 contracts are long and 12,000 contracts are short. 
+While the number of long and short contracts is always equal, the number 
+of individuals who hold them keeps changing. If the majority is bullish, then 
+the minority, those who are short, has more contracts per person than the 
+longs. If the majority is bearish, then the bullish minority has bigger posi - 
+tions per person. The following example illustrates what happens when the 
+consensus changes among 1000 traders who hold 12,000 contracts in one 
+market. 
+Open Bullish Number of Number of Contracts Contracts 
+Interest Consensus Bulls Bears per Bull per Bear 
+12,000 5 0 500 500 24 24 
+12,000 80 800 200 15 60 
+12,000 20 200 800 60 15 
+1. If bullish consensus equals 50 percent, then 50 percent of traders are 
+long and 50 percent are short. An average trader who is long holds as 
+many contracts as an average trader who is short. 
+21 2 PSYCHOLOGICAL INDICATORS 
+.. 78 
+D. Mark Weekly 
+Bullish Consensus 0 
+68 
+55 
+58 
+45 
+40 
+38 35 
+25 
+Figure 39-1. Bullish Consensus 
+The opinions of market advisors serve as a proxy for the opinions of the 
+entire market crowd. The best time to buy is when the crowd is bearish, 
+and the best time to go short is when the crowd is bullish. The levels of 
+bullishness at which to buy or sell short vary from market to market. 
+They need to be adjusted every few months. 
+This weekly chart shows a bull market in the D. Mark, steadily mov- 
+ing up between a trendline and a parallel channel line. Whenever 
+bullish consensus fell below 45 percent during this bull market, it gave a 
+buy signal. The lower the bullish consensus, the more explosive the sub- 
+sequent rally! 
+2. When bullish consensus reaches 80 percent, it shows that 80 percent 
+of traders are long and 20 percent are short. Since the sizes of total 
+long and total short positions are always equal, an average bear is 
+short four times as many contracts as are held long by an average bull. 
+This means that an average bear has four times more money than an 
+average bull. The big money is on the short side of the market. 
+3. When bullish consensus falls to 20 percent, it means that 20 percent of 
+39. CONSENSUS INDICATORS 21 3 
+traders are long and 80 percent are short. Since the numbers of long 
+and short contracts are always equal, an average bull holds four times 
+more contracts than are held by an average bear. It shows that big 
+money is on the long side of the market. 
+Big money did not grow big by being stupid. Big traders tend to be more 
+knowledgeable and successful than average - otherwise they stop being big 
+traders. When big money gravitates to one side of the market, think of trad- 
+ing in that direction. 
+To interpret bullish consensus in any market, obtain at least twelve 
+months of historical data on consensus and note the levels at which the mar- 
+ket has turned in the past (Figure 39 -1). Update these levels once every three 
+months. The next time the market consensus becomes highly bullish, look 
+for an opportunity to sell short using technical indicators. When the consen - 
+sus becomes very bearish, look for a buying opportunity. 
+Advisory opinion sometimes begins to change a week or two in advance 
+of major trend reversals. If bullish consensus ticks down from 78 to 76, or if 
+it rises from 25 to 27, it shows that the savviest advisors are abandoning 
+what looks like a winning trend. This means that the trend is ready to 
+reverse. 
+Signals from the Press 
+To understand any group of people, you must know what its members want 
+and what they fear. Financial journalists want to appear serious, intelligent, 
+and informed; they are afraid of appearing ignorant or flaky. It is normai for 
+financial journalists to straddle the fence and present several sides of every 
+issue. A journalist is safe as long as he writes something like "monetary pol- 
+icy is about to push the market up, unless unforeseen factors push it down. " 
+Internal contradiction is the normal state of affairs in financial journalism. 
+Many financial editors are even bigger cowards than their writers. They print 
+contradictory articles and call this "presenting a balanced picture." 
+For example, a recent issue of Business Week had an article headlined 
+"The Winds of Inflation Are Blowing a Little Harder " on page 19. The arti- 
+cle stated that the end of a war was likely to push oil prices up. Another arti- 
+cle on page 32 of the same issue was headlined "Why the Inflation Scare Is 
+Just That." It stated that the end of a war was going to push oil prices down. 
+Only a powerful and long -lasting trend can lure journalists and editors 
+214 PSYCHOLOGICAL INDICATORS 
+down from their fences. This happens when a wave of optimism or pes- 
+simism sweeps the market at the end of a major trend. When journalists 
+climb down from the fence and express strongly bullish or bearish views, the 
+trend is ripe for a reversal. 
+This is also the reason why the front covers of major business magazines 
+are good contrarian indicators. When Business Week puts a bull on its cover, 
+it is usually a good time to take profits on long positions in stocks, and when 
+a bear graces the front cover, a bottom cannot be too far away. 5 ads fur platinum on The Wall 
+Street Journal futures page 
+Platinum 
+1 
+4 
+h@ld"i 
+4l ' 
++ 
+I{ 
+l/l@",P,~ No ads for platinum on The Wall 
+!I,,/' Street Journal futures page 
+T 
+Signals from the Advertisers 
+A group of three or more ads touting the same "opportunity " on the same 
+page of a major newspaper often warns of a top (Figure 39-2). Only a well- llar 
+~PP JWI kl 
+Figure 39-2. Advertising as a Contrary Indicator 
+By the time several firms prepare ads for the same product and place 
+them in the same newspaper, the trend is ready to reverse. More than 
+three ads for the same market on the same page is a bearish warning. '- 
+.. 
+.. 
+:: 
+:: 
+:: 
+.. .. .. 
+.. 
+660 
+648 
+620 
+60E 
+580 
+568 
+540 
+528 
+588 
+488 
+40. COMMITMENT INDICATORS 21 5 
+established uptrend can break through the inertia of several brokerage 
+firms. By the time all of them recognize a trend, come up with trading rec - 
+ommendations, produce ads, and place them in a newspaper, that trend is 
+very old. 
+The ads on the commodities page of the Wall Street Journal appeal to the 
+bullish appetites of the least-informed traders. Those ads almost never rec- 
+omrnend'ielling; it is hard to get amateurs excited about going short. When 
+three or more ads on the same day day tout opportunities in the same market, 
+it is time to look at technical indicators for shorting signals. 

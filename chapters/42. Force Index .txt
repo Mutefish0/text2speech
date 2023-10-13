@@ -1,0 +1,278 @@
+42. FORCE INDEX 
+Force Index is an oscillator developed by this author. It measures the force of 
+bulls behind every rally and of bears behind every decline. 
+Force Index combines three essential pieces of market information- the 
+direction of price change, its extent, and trading volume. It provides a new, 
+practical way of using volume to make trading decisions. 
+Force Index can be used raw, but it works better if you smooth it with a 
+moving average. Force Index smoothed with a short MA helps pinpoint 
+entry and exit points. Force Index smoothed with a long MA reveals major 
+changes in the force of bulls and bears. 
+How to Construct Force lndex 
+The force of every move is defined by its direction, distance, and volume. If 
+prices close higher than the previous bar, the force is positive. If prices close 
+lower than the previous bar, the force is negative. The greater the change in 
+prices, the greater the force. The bigger the volume, the greater the force of 
+the move (see worksheet, Figure 42-1). 
+Force lndex = 
+Vol~rne,~~,~ 
+ (Closetoday - Closeyesterday) 
+Raw Force Index is plotted as a histogram, with a horizontal centerline at 
+228 NEW INDICATORS 
+Nikkei Dow 
+Figure 42-1. Force lndex Worksheet 
+Force lndex = 
+Volumetoday 
+ (CIo~etoday- 
+ Closeyesterday) 
+Short-term Force lndex is smoothed with a 2-day exponential moving 
+average. Intermediate -term Force lndex is smoothed with a 13-day expo- 
+nential moving average. You can use a programming trick to reduce very 
+large Force lndex numbers -simply divide Force lndex by the latest clos- 
+ing price. Date ............................... 
+10129 
+10130 
+1013 1 
+11/01 ............................. 
+-1-1102 
+1 1105 
+a zero level. If the market closes higher, Force Index is positive and is plot- 
+ted above the centerline. If the market closes lower, Force Index is negative 
+and plotted below the centerline. If the market closes unchanged, Force 
+Index equals zero. 
+The histogram of raw Force Index appears very jagged. This indicator 
+gives better trading signals after being smoothed with a moving average (see 
+Section 25). A Zday EMA of Force Index provides a minimal degree of 
+smoothing. It is useful for finding entry points into the markets. It pays to 
+buy when the Zday EMA is negative and sell when it is positive, as long as 
+you trade in the direction of the 13-day EMA of prices. 
+A 13-day EMA of Force Index tracks longer-term changes in the force of 
+bulls and bears. When it crosses above its centerline, it shows that bulls are ... F!!. 
+*:.$?ma...j.F!;.J.=:!?ma.: 
+I 
+25242 4495 i -391065 i ................................................................................................................................................... 
+25194 
+1 1372 
+ 1 -65856 
+1 -130807 
+i 
+*!?*9= ...... 
+4 ....... %!?'....... 
+i...=~~~~'=~.i...=l.~'~'~~.i ....................... 
+24195 
+ ! 2891 i. -289100 
+! -716102 
+! 
+243- 1448 
+--55120 
+ i -55287 
+i 
+11/06 23966 
+ 1 2796 
+i -1171524 
+ 1 -799445 
+ 1 ....... " ................. 
+11/07 . .-.- 
+11/08 ................................................ 
+1 1/09 
+11/13 .................. """ .. ...................... 
+..-- 
+?3_5_9!!~-d--~_6.Z5~--i-=!!~*5.ELL=1.4.oS~8_?.tttttttttttt. 
+22970 3167 i -167851 0 i -1588400 1 
+ 4 
+.......................+.......................+.......................*........................ 
+22932 
+ 1 2880 
+ i -109440 
+i -602426 
+ i 
+23974 2484 i 2588328 i 1524743 
+! 
+ ........................................................................................................................... 
+11/14 ] 23937 : 1827 
+i -67599; 463181: 
+11/15 23487 i 2212 i -995400 i -509206 1 .............................................. ., ....................... + 
+ * ....................... * ........................ 11/16 23172 i 2741 i -863415 i -745345 i -338231 ............................................... * ....................... * ....................... 
+ + ....................... +. ........................ 11/19 23519 
+ i 1931 
+i 670057 
+i 198256 
+ i -261590 
+11/20 1 23205 
+! 1405 
+i 441 170 
+j -228027 
+ i -256796' .................................. " 
+.......................................................................................................... 
+11/21 22816 
+ 1 2259 
+: -878751 
+i -661843 
+i -314660 
+11/22 
+ 1 23400 
+ i 2163 
+i 1263192 
+i 621514 
+ 1 -180921 
+42. FORCE INDEX 229 
+in control. When it turns negative, it shows that bears are in control. 
+Divergences between a 13 -day EMA of Force Index and prices identify 
+important turning points. 
+Trading Psychology 
+When the market closes higher, it shows that bulls won the day's battle, and 
+when it closes lower, it shows that bears carried the day. The distance 
+between today's and yesterday's closing prices reflects the margin of victory 
+by bulls or bears. The greater this distance, the more important the victory. 
+Volume reflects the degree of commitment by the mass of market partic - 
+ipants (see Section 32). Prices moving at high volume are like an 
+avalanche that gathers mass as it rolls. High-volume rallies and declines 
+have more inertia and are more likely to continue. Low volume, on the 
+other hand, shows that the supply of losers is running low and a trend is 
+nearing an end. 
+Prices reflect what market participants think, while volume reflects their 
+feelings. Force Index combines price and volume- it shows whether the 
+head and the heart of the market are in gear with each other. 
+When Force Index rallies to a new high, it shows that the force of bulls is 
+high and the uptrend is likely to continue. When Force Index falls to a new 
+low, it shows that the force of bears is big and the downtrend is likely to per- 
+sist. If the change in prices is not confirmed by volume, Force Index flattens 
+out and warns that a trend is about to reverse. It also flattens out and warns 
+that a trend reversal is near if high volume generates only a small price 
+move. 
+Trading Rules 
+Short-Term Force Index 
+A 2-day EMA of Force Index is a highly sensitive indicator of the short-term 
+force of bulls and bears. When it swings above its centerline, it shows that 
+bulls are stronger, and when it falls below its centerline, it shows that bears 
+are stronger. 
+A 2-day EMA of Force Index is so sensitive that it is best used to fine - 
+tune signals of other indicators. When a trend-following indicator identifies 
+230 NEW INDICATORS 
+JUI sep oct 26470 
+25180 
+23090 
+22599 
+21309 
+126,l 
+14,5 
+-97,0 
+-288,6 
+-320,l 
+Figure 42-2 Force Index-2-Day EMA 
+This sensitive short-term indicator pinpoints buying opportunities in 
+uptrends and shorting opportunities in downtrends. It helps traders buy 
+weakness and sell strength. When the trend, identified by the slope of 
+the 13-day EMA, is up and Force lndex declines below zero, it gives a 
+buy signal. When the trend is down and Force lndex rallies above zero, 
+it gives a signal to sell short. 
+The decision when to take profits depends on whether you are a 
+short-term or a long-term trader. If you are a short-term trader, sell longs 
+when Force lndex becomes positive or cover shorts when Force lndex 
+becomes negative. A long-term trader has to wait until the exponential 
+moving average changes its direction or until there is a divergence 
+between Force lndex and price (marked by slanted arrows on this chart). 
+When you are trading with the trend, you can add to your positions 
+(pyramid) whenever Force lndex gives additional signals in the direction 
+of the trend. 
+an uptrend, the declines of the 2-day EMA of Force Index spot the best buy- 
+ing points. When a trend-following tool identifies a downtrend, a Zday 
+EMA of Force Index pinpoints the best shorting areas (Figure 42-2). 
+42. FORCE INDEX 231 
+1. Buy when a 2-day EMA of Force Index turns negative during 
+uptrends. 
+No matter how fast and furious an uptrend, there are always pullbacks. If 
+you delay buying until the 2-day EMA of Force Index turns negative, you 
+will buy closer to a short-term bottom. 
+When a 2-day EMA of Force Index turns negative during an uptrend, 
+place a buy order above the high price of that day. If the uptrend resumes and 
+prices rally, you will be stopped in on the long side. If prices continue to 
+decline, your order will not be executed. Then lower your buy order to 
+within one tick of the high of the latest bar. Once your buy stop is triggered, 
+place a protective stop below the low of the trade day or the previous day, 
+whichever is lower. This tight stop is seldom touched in a strong uptrend, but 
+it gets you out early if the trend is weak. 
+2. Sell short when a 2-day EMA of Force Index turns positive in down- 
+trends. 
+When trend -following indicators identify a downtrend, wait until the 2-day 
+EMA of Force Index turns positive. It indicates a quick splash of bullish- 
+ness-a shorting opportunity. Place an order to sell short below the low of 
+the latest price bar. 
+If the 2-day EMA of Force Index continues to rally after you place your 
+sell order, raise it daily to within a tick of the latest bar's low. Once prices 
+slide and you go short, place a protective stop above the high of the latest 
+price bar or the previous bar, whichever is higher. Move your stop down to a 
+break-even level as early as possible. 
+A 2-day EMA of Force Index helps you decide when to pyramid your 
+positions. You can add to longs in uptrends each time Force Index turns neg- 
+ative and add to shorts in downtrends whenever Force Index turns positive. 
+Force Index even provides a glimpse into the future. When a 2-day EMA 
+of Force Index falls to its lowest low in a month, it shows that bears are 
+strong and prices are likely to fall even lower. When a 2-day EMA of Force 
+Index rallies to its highest level in a month, it shows that bulls are strong and 
+prices are likely to rise even higher. 
+A 2-day EMA of Force Index helps decide when to close out a position. A 
+short-term trader who buys when this indicator is negative should sell when 
+it turns positive. A short-term trader who goes short when this indicator is 
+positive should cover when it turns negative. A longer-term trader should get 
+232 NEW INDICATORS 
+out of his position only if a trend changes (as identified by the slope of a 13- 
+day EMA of price) or if there is a divergence between 2 -day EMA of Force 
+Index and the trend. 
+3. Bullish divergences between 2-day EMA of Force Index and price 
+give strong buy signals. A bullish divergence occurs when prices fall 
+to a new low while Force Index makes a more shallow bottom. 
+4. Bearish divergences between Zday EMA of Force Index and price 
+give strong sell signals. A bearish divergence occurs when prices rally 
+to a new high while Force Index traces a lower second top. 
+A 2-day EMA of Force Index fits well into the Triple Screen trading sys - 
+tem (see Section 43). Its ability to find short -term buying and selling points 
+is especially useful when it is combined with a longer -term trend -following 
+indicator. 
+Intermediate - Term Force Index 
+A 13-day EMA of Force Index identifies longer-term changes in the strength of 
+bulls and bears. Its position relative to its centerline shows which group is in 
+control. Its divergences from prices identify major turning points (Figure 42-3). 
+5. When a 13-day EMA of Force Index is above the centerline, bulls are in 
+control of the market, and when it is below the centerline, bears are in 
+control. When this indicator flutters near its centerline, it identifies a 
+trendless market - a warning not to use trend-following trading methods. 
+When a rally begins, prices often jump on heavy volume. When a 13 -day 
+EMA of Force Index reaches a new high, it confirms the uptrend. When the 
+uptrend ages, prices rise more slowly or volume becomes thinner. Then a 13- 
+day EMA of Force Index starts tracing lower tops and eventually drops 
+below its centerline. It signals that the back of the bull has been broken. 
+6. A new peak in the 13-day EMA of Force Index shows that a rally is 
+likely to continue. A bearish divergence between a 13 -day EMA of 
+Force Index and price gives a strong signal to sell short. If prices reach 
+a new high but this indicator traces a lower peak, it warns that bulls 
+are losing power and bears are ready to take control. 
+42. FORCE INDEX 233 
+Force lndex 13-day EMA 
+Figure 42-3 Force Index-1 3-Day EMA 
+Divergences between a 13-day EMA of Force lndex and prices identify 
+important turning points in the markets. A bullish divergence between a 
+13-day EMA of Force lndex and the Nikkei Dow in August pointed to a 
+buying opportunity. The Nikkei Dow retested its lows, but Force lndex 
+traced a much more shallow second bottom, giving a buy signal. 
+A spike low in Force Index, like the one seen in August, gives two 
+trading messages. In the long run, it usually marks the end of an impor- 
+tant decline. In the short run, it tells traders that the latest price bottom is 
+likely to be retested or exceeded. 
+The Nikkei Dow surged higher in October, but Force lndex kept trac - 
+ing lower tops. Its bearish divergence showed that bulls were growing 
+weak and prices neared a top. There was plenty of time to position short. 
+The spike low at the right edge of the chart indicates that the latest price 
+low is likely to be retested or exceeded. 
+7. A new low in 13-day EMA of Force Index shows that a downtrend is 
+likely to continue. If prices fall to a new low but this indicator traces a 
+more shallow low, it warns that bears are losing power. This bullish 
+divergence gives a strong buy signal. 
+234 NEW INDICATORS 
+When a downtrend begins, prices usually drop on heavy volume. When a 
+13-day EMA of Force Index falls to new lows, it confirms the decline. As 
+the downtrend grows old, prices fall more slowly or volume dries up. Then 
+the 13-day EMA of Force Index starts tracing more shallow bottoms and 
+finally rallies above its centerline. It shows that the back of the bear has been 
+broken. 
+Trading Systems 

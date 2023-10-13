@@ -1,0 +1,129 @@
+29. WILLIAMS %R 
+Williams %R (Wm%R) is a simple but effective oscillator described by 
+Larry Williams in 1973. It measures the capacity of bulls and bears to close 
+prices each day near the edge of the recent range. Wm%R confirms trends 
+and warns of their upcoming reversals. 
+Hr - C 
+Wm%R = 100 
+Hr 
+- Lr 
+152 COMPUTERIZED TECHNICAL ANALYSIS 
+where r = the time window selected by a trader, such as 7 days. 
+H,= the highest high of the selected period (i.e., a 7-day high). 
+L, = the lowest low of the selected period (i.e., a 7-day low). 
+C = the latest close. 
+Wm%R measures the placement of each closing price in relation to the 
+recent high -low range. It expresses the distance from the highest high to the 
+lowest low in its time window as 100 percent. It expresses the distance from 
+the latest closing price to the top of that window as a percentage of the range 
+in its window (see worksheet, Figure 29 -1). Williams %R is closely related 
+to Stochastic (see Section 30). 
+Wm%R is designed to fluctuate between 0 and 100 percent. It equals 0 
+(plotted at the top of the chart) when bulls reach the peak of their power and 
+close prices at the top of the range. It reaches 100 percent when bears are at 
+the peak of their power and close prices at the bottom of the recent range. 
+A rule of thumb with all oscillators -when in doubt,-make them shorter. 
+This is the opposite of trend-following indicators-when in doubt make 
+them longer. Oscillators with narrow windows help catch short -term rever - 
+sals. If you work with cycles, make Wm%R equal half the cycle length. A 7- 
+day window fits Wm%R fine. Wm%R works well with weekly charts-use 
+a 7-week window. 
+Horizontal reference lines for Wm%R are drawn at 10 percent and 90 per- 
+cent levels. When Wm%R closes above its upper reference line, it shows 
+that bulls are strong but the market is overbought. When Wm%R closes 
+below its lower reference line, it shows that bears are strong but the market 
+is oversold. 
+Crowd Psychology 
+Each price is a momentary consensus of value among all market participants. 
+The high of the recent range shows how high bulls can lift prices - it reflects 
+their maximum power. The low of the range reflects the maximum power of 
+bears during that period. Closing price is the most important consensus of 
+the day because the settlement of trading accounts depends on it. 
+Wm%R compares each closing price to the recent range. It shows whether 
+bulls can close the market near the top of the recent.range or bears can close 
+the -market at the bottom of the range. Wm%R measures the balance of 
+power between bulls and bears at closing time - the crucial money -counting 
+time in the market. 
+Bulls may push prices higher during the day, or bears may push them 
+29. WILLIAMS %R 153 
+Gold 
+Figure 29-1. Williams 
+ O/OR Worksheet 
+Wm%R expresses the distance from the latest closing price to the top of 
+the 7-day high-low range as a percentage of that range. Wm%R:7 is cal- 
+culated here using a -/-day time window. You may choose a longer or a 
+shorter window, depending on the trend you are trying to analyze. 
+lower. Wm%R shows which group is capable of closing the market in its 
+favor. If bulls cannot close the market near the top during a rally, they are 
+weaker than they seem. This is a shorting opportunity. If bears cannot close 
+the market near the lows during a decline, they are weaker than they appear. 
+This is a buying opportunity. 
+Trading Rules 
+Wm%R gives three types of trading signals. They are, in order of impor- 
+tance, bullish or bearish divergences, failure swings, and overbought -over- 
+sold readings (Figure 29-2). 
+154 COMPUTERIZED TECHNICAL ANALYSIS 
+.. 370,3 
+Figure 29-2. Seven-Day Williams %R (Wm%R:7) 
+When Wm%R rises above its upper reference line, it shows that the mar- 
+ket is overbought. When it falls below its lower reference line, it shows 
+that the market is oversold. The best buy and sell signals are given by 
+divergences (marked by arrows). A Class B bearish divergence in July 
+gave a sell signal. A Class A bullish divergence in September gave a 
+strong buy signal. 
+Failure swings (marked by the letter F) occur when Wm%R reverses 
+without reaching its reference line. This happens during reactions against 
+very strong trends -failure swings confirm those trends. A failure swing 
+during a downtrend in August gave a strong sell signal. A failure swing 
+during an uptrend in September gave a strong buy signal. 
+At the right edge of the chart, prices are surging. If Wm%R dips below 
+its lower reference line, use that as a buying opportunity. Do not sell 
+short unless a bearish divergence emerges. 
+Divergences 
+Divergences between prices and Wm%R rarely occur. They identify the best 
+trading opportunities. When Wm%R rises above its upper reference line, 
+falls, and then cannot rise above that line during the next rally, it creates a 
+bearish divergence. It shows that bulls are losing their power and the market 
+is likely to fall. A bullish divergence occurs when Wm%R falls below its 
+lower reference line, rallies, and then cannot decline below that line when 
+prices slide again. It shows that bears are losing power and a rally is in the 
+offing. 
+1. When you identify a bullish divergence, go long and place a protective 
+stop below the recent price low. 
+2. When you identify a bearish divergence, go short and place a protec - 
+tive stop above the recent price high. 
+Failure Swings 
+Crowds tend to swing from one extreme to the other. Wm%R seldom 
+reverses in the middle of its range. Failure swings occur when Wm%R fails 
+to rise above its upper reference line during a rally or fall below its lower 
+reference line during a decline. 
+3. When Wm%R stops rising in the middle of a rally and turns down 
+without reaching its upper reference line, it produces a failure swing. 
+This shows that bulls are especially weak and gives a sell signal. 
+4. When Wm%R stops falling in the middle of a decline and turns up 
+without reaching its lower reference line, that is a failure swing. It 
+shows that bears are very weak and gives a buy signal. 
+Overbought and Oversold 
+When prices close near the upper edge of their range, Wm%R reaches its top 
+and becomes overbought. When prices close near the bottom of their recent 
+range, Wm%R falls and becomes oversold. Neither bulls nor bears are all- 
+powerful. They seldom can close prices near the extreme of the recent range 
+for too many days in a row. 
+5. When Wm%R rises above its upper reference line, it marks a potential 
+market top and gives a sell signal. 
+6. When Wm%R falls below its lower reference line, it marks a potential 
+market bottom and gives a buy signal. 
+These overbought and oversold signals tend to work well during flat trad - 
+ing ranges. They become premature and dangerous when the market enters a 
+156 COMPUTERIZED TECHNICAL ANALYSIS 
+trend. Wm%R can stay near the top for a week or longer during a strong 
+rally: Its overbought readings can identify strength rather than a shorting 
+oppofiunity. Similarly, in a strong downtrend, Wm%R can stay oversold for 
+weeks, indicating weakness rather than a buying opportunity. 
+Overbought and oversold readings of Wm%R should be used for trading 
+only after you identify the major trend. Use long -term trend -following indi - 
+cators for that purpose (see Section 43). If a weekly chart shows a bull mar- 
+ket, take only buy signals from daily Wm%R, and do not go short when it 
+gives a sell signal. If a weekly chart indicates a bear market, sell short when - 
+ever daily Wm%R gives you a sell signal, but do not go long when it 
+becomes oversold. 

@@ -1,0 +1,1222 @@
+48. EXITING TRADES 
+Taking a loss can be emotionally hard, but taking a profit can be even harder. 
+You can take a small loss automatically if you have the discipline to set a 
+stop the moment you enter a trade. Taking a profit requires more thought. 
+When the market moves in your favor, you need to decide whether to stay 
+put, get out, or add to your position. 
+An amateur can tie his mind into a knot trying to decide what to do about 
+a profit. He multiplies the number of ticks by their dollar value and feels a 
+surge of greed: Let the trade run, make even more money. Then the market 
+ticks against him, and he is hit with a jolt of fear: Grab that profit now, 
+before it melts. A trader who acts on his emotions cannot make rational deci - 
+sions. 
+One of the worst mistakes of traders is counting money while they have 
+an open position. Counting money ties your mind into a knot. It interferes 
+with your ability to trade rationally. If you catch yourself counting paper 
+profits and thinking what you can buy with them -get rid of those thoughts! 
+If you cannot get rid of them, get rid of your position. 
+If a beginner cashes out too early, he kicks himself for leaving money on 
+the table. He decides to hang on the next time, overstays a trade, and loses 
+money. If a beginner misses a profit because of a reversal, he grabs the first 
+profit on the next trade and may well miss a major move. The market tugs on 
+the amateur's emotions and he jerks in response. 
+RISK MANAGEMENT 
+A trader who responds to his feelings instead of external reality is certain to 
+lose. He may grab a profit here and there but will eventually bust out, even if 
+his system gives him good trades. Greed and fear destroy traders by clouding 
+their minds. The only way to succeed in trading is to use your intellect. 
+Quality Before Money 
+The goal of a successful trader is to make the best trades. Money is secondary. 
+If this surprises you, think how good professionals in any field operate. Good 
+teachers, doctors, lawyers, farmers, and others make money - but they do not 
+count it while they work. If they do, the quality of their work suffers. 
+If you ask your doctor how much money he earned today, he won't be able 
+to answer (and if he can, you do not want him for a doctor). Ask your lawyer 
+how much money he made today. He may have a general idea that he put in 
+some billable hours, but not exactly how many dollars he made. If he counts 
+money while he works, you do not want him for a lawyer. A real pro devotes 
+all his energy to practicing his craft the best he can - not to counting money. 
+Counting money in a trade flashes a red light-a warning that you are 
+about to lose because your emotions are kicking in and they will override 
+your intellect. That is why it is a good idea to get out of a trade if you cannot 
+get money off your mind. 
+Concentrate on quality-on finding trades that make sense and having a 
+money management plan that puts you in control. Focus on finding good 
+entry points and avoid gambles. Then the money will follow almost as an 
+afterthought. You may count it later, well after a trade is over. 
+A good trader must focus on finding and completing good trades. A pro- 
+fessional always studies the markets, looks for opportunities, hones his 
+money management skills, and so on. If you ask him how much money he 
+made on the current trade, he will have only a general idea of being a little or 
+a lot ahead of the game, or a little behind (he can never be a lot behind 
+because of tight stops). Like other professionals, he focuses on practicing his 
+craft and polishing his skills. He does not count money in a trade. He knows 
+that he will make money, as long as he does what is right in the markets. 
+Indicator Signals 
+If you use indicators for finding trades, use them also to get you out of 
+trades. If your indicators are in gear with the market when it is time to buy or 
+go short, use them to decide when it is time to sell or to cover. 
+48. EXITING TRADES 
+A trader often becomes emotionally attached to a trade. Profits give peo- 
+ple a high, but even a loss can tingle the nerves, like a scary but exciting ride 
+on a roller coaster. When those indicator signals that flagged a trade disap - 
+pear, get out of the market fast, regardless of your feelings. 
+For example, you may go long because a 13-week EMA has ticked up on 
+the weekly charts while daily Stochastic fell into its buy zone. If you go 
+long, decide in advance whether you will sell when daily Stochastic rallies 
+and becomes overbought or when the 13-week EMA turns down. Write 
+down your plan and keep it where you can always see it. 
+You may go short because weekly MACD -Histogram ticked down and 
+daily Elder -ray gave a sell signal. Decide in advance whether you will cover 
+when daily Elder -ray gives a buy signal or when weekly MACD -Histogram 
+turns up. You need to decide in advance which signals you will take. There 
+will be many signals-and the best time to decide is before you enter a trade. 
+Profit Targets, Elliott, and Fibonacci 
+Some traders try to establish profit targets. They want to sell strength when 
+prices hit resistance or buy weakness when prices reach support. Elliott 
+Wave theory is the main method for trying to forecast reversal points. 
+R. N. Elliott wrote several articles about the stock market and a book, 
+Nature's Law. He believed that every movement in the stock market could 
+be broken into waves, smaller waves, and subwaves. Those waves 
+explained every turning point and occasionally allowed him to make correct 
+predictions. 
+Those analysts who sell advisory services based on Elliott's methods 
+always come up with so -called "alternate counts. " They explain everything 
+in hindsight but are not reliable in dealing with the future. 
+Fibonacci numbers and their ratios, especially 1.618, 2.618, and 4.236 
+express many relationships in nature. As Trudi Garland writes in her lucid 
+book Fascinating Fibonaccis, these numbers express the ratios between the 
+diameters of neighboring spirals in a seashell and in a galaxy, the number of 
+seeds in the adjacent rows of a sunflower, and so on. Elliott was the first to 
+point out that these relationships also apply to the financial markets. 
+I Tony Plummer describes in his book Forecasting Financial Markets how 
+he uses Fibonacci ratios to decide how far a breakout from a trading range is 
+I likely to carry. He measures the height of a trading range, trades in the direc- 
+1 tion of a breakout, and then looks for reversal targets by multiplying the 
+i height of the range by Fibonacci numbers. Experienced traders combine j 
+266 RISK MANAGEMENT 
+profit targets with other technical studies. They look for indicator signals at 
+the projected turning points. If indicators diverge from a trend that is 
+approaching a target, it reinforces the signal to .get out. Trading on targets 
+alone can be a tremendous ego boost, but the markets are too complex to be 
+handled with a few simple numbers. 
+Setting Stops 
+Serious traders place stops the moment they enter a trade. As time passes, 
+stops need to be adjusted to reduce the amount of money at risk and to pro- 
+tect a bigger chunk of profit. Stops should be moved only one way - in the 
+direction of the trade. We all like to hope that a trade will succeed-and a 
+stop is a piece of reality that prevents traders from hanging on to empty 
+hope. 
+When you are long, you may keep your stops in place or raise them but 
+never lower them. When you are short, you may keep your stops in place or 
+lower them but never raise them. Cutting extra slack to a losing trade is a 
+loser's game. If a trade is not working out, it shows that your analysis was 
+flawed or the market has changed. Then it is time to run fast. 
+Serious traders use stops the way sailors use ratchets- to take out the 
+slack in their sails. Losers who move stops away from the market vote in 
+favor of fantasy and against reality. 
+Learning to place stops is like learning to drive defensively. Most of us 
+learn the same techniques and we adjust them to fit our personal styles. The 
+following are the basic rules for placing stops. 
+1. Stop-Loss Order 
+Place your stop the moment you enter a trade. Trading without a stop is 
+like walking down Fifth Avenue in Manhattan without pants on. It can be 
+done, I have seen people do it, but it is not worth the trouble. A stop will 
+not protect you from a bad trading system; the best it can do is slow down 
+the damage. 
+A stop-loss order limits your risk even though it does not always work. 
+Sometimes prices gap through a stop. A stop is not a perfect tool but it is the 
+best defensive tool we have. 
+48. EXITING TRADES 267 
+Men you go long, place your stop below the latest minor support level. 
+When you go short, place a stop above the latest minor resistance (see 
+Section 20). The Parabolic system (see Section 44) moves the stops in the 
+direction of the trade, depending on the passage of time and changes in 
+prices. If you use the Triple Screen trading system (see Section 43), place 
+your stop after entering a trade at the extreme of the past two days' range. 
+Avoid all trades where a logical stop would expose more than 2 percent of 
+your equity. This limit includes slippage and commissions. 
+2. Break-Even Order 
+The first few days in a trade are the hardest. You have done your home - 
+work, found a trade, and placed an order. It has been filled, and you placed a 
+stop-loss order. There is not much else you can do-you are like a pilot 
+strapped into his seat for takeoff. The engines are blasting at full power, but 
+the speed is low, and there is no room to maneuver-just sit back and trust 
+your system. 
+As soon as prices start to move in your favor, move your stop to a break- 
+even level. When the takeoff is completed, your flight is at a safer stage. 
+Now you get to choose between keeping your money or gaining more, 
+instead of choosing between a loss and a gain. 
+As a rule, prices have to move away from your entry point by more than 
+the average daily range before you move your stop to a break-even level. It 
+takes judgment and experience to know when to do it. 
+When you move a stop to a break-even level, you increase the risk of a 
+whipsaw. Amateurs often kick themselves for "leaving money on the 
+table." Many amateurs allow themselves only one entry into a trade. There 
+is nothing wrong with re-entering a trade after getting stopped out. 
+Professionals keep trying to get in until they get a good entry, using tight 
+money management. 
+3. Protect-Profit Order 
+As prices continue to move in your favor, you have to protect your paper 
+profits. Paper profit is real money- treat it with the same respect as money 
+in your wallet. Risk only a portion of it, as the price of staying in the trade. 
+If you are a conservative trader, apply the 2 percent rule to your paper 
+profits. This protect-profit order is a "money stop," protecting your equity. 
+268 RISK MANAGEMENT 
+Keep moving it in the direction of the trade so that no more than 2 percent of 
+your growing equity is ever exposed. 
+More aggressive traders use the 50 percent rule. If you follow it, half the 
+paper profit is yours and half belongs to the market. You can mark the high - 
+est high reached in a long trade or the lowest low reached in a short trade, 
+and place your stop halfway between that point and your entry point. For 
+example, if prices move 10 points in your favor, place a stop to protect 5 
+points of profit. 
+If in doubt, use the Parabolic system (see Section 44) to help you adjust 
+your stops. When you are not sure whether to stay in a trade or not, take 
+profits and re -evaluate the situation from the sidelines. There is nothing 
+wrong with exiting and re -entering a trade. People think much more clearly 
+when they have no money at risk. 
+After the Trade 
+A trade does not end when you close out your position. You must analyze it 
+and learn from it. Many traders throw their confirmation slips into a folder 
+and go looking for the next trade. They miss an essential part of growing to 
+become a professional trader - review and self -analysis. 
+Have you identified a good trade? Which indicators were useful and 
+which did not work? How good was your entry? Was the initial stop too far 
+or too close? Why and by how much? Did you move your stop to a break- 
+even level too early or too late? Were your protect -profit stops too loose or 
+too tight? Did you recognize the signals to exit a trade? What should you 
+have done differently? What did you feel at the various stages of the trade? 
+This analysis is an antidote against emotional trading. 
+Ask yourself these and other questions and learn from your experiences. 
+A cool, intelligent analysis does you more good than gloating about profits 
+or wallowing in regrets. 
+Start keeping a "before and after" notebook. Whenever you enter a posi- 
+tion, print out the current charts. Paste them on the left page of your note - 
+book and jot down your main reasons for buying or shorting. Write down 
+your plan for managing the trade. 
+When you exit, print the charts again and paste them on the right page of 
+your notebook. Write down your reasons for exiting and list what you did 
+right or wrong. You will have a pictorial record of your trades and thoughts. 
+This notebook will help you learn from the past and discover blind spots in 
+yyour thinking. Learn from history and profit from your experiences. 
+Afterword 
+One hot summer, in the mountains of northern Italy, I sat down to draft the 
+first outline of this book. Two and a half years later, on a frigid January in 
+New York City, I printed out its last chart. I wrote and rewrote this book 
+three times, to make it clearer and to reflect my growing experience. 
+I have changed as a person, and my methods continue to evolve. If I could 
+work on this manuscript for another two and a half years, it would become a 
+different book, but it is time to let go. 
+Pulling the Trigger 
+Traders sometimes confide in me that they have trouble "pulling the trig - 
+ger''- buying or selling when their methods tell them to go long or short. I 
+had this problem once, for a very short time. My friend Lou, to whom this 
+book is dedicated, helped me get rid of it. 
+One Sunday afternoon I mentioned to Lou that I saw several attractive 
+trades but doubted I'd take any of them the following week because I had 
+recently gotten beat up in the markets. Lou, who is usually cool and mild- 
+mannered, suddenly began yelling. "I want you to trade at the opening on 
+Monday!" I did not feel like trading-I was afraid of losing. "I don't give a 
+shit whether you win or lose - trade tomorrow at the open!" I seldom trade at 
+the open, but I could trade 10 minutes later, looking for an opening range 
+breakout. "10 minutes is OK, but trade tomorrow!" 
+I thought about what had happened and realized what my problem was. I 
+was like a skier at the top of the hill who had taken a bad spill and was afraid 
+to go down again. Whatever my technique, if I was afraid to go downhill, I 
+could not be a skier. 
+Fear of placing an order is the biggest problem that a serious trader can 
+RISK MANAGEMENT 
+Keep moving it in the direction of the trade so that no more than 2 percent of 
+your growing equity is ever exposed. 
+More aggressive traders use the 50 percent rule. If you follow it, half the 
+paper profit is yours and half belongs to the market. You can mark the high - 
+est high reached in a long trade or the lowest low reached in a short trade, 
+and place your stop halfway between that point and your entry point. For 
+example, if prices move 10 points in your favor, place a stop to protect 5 
+points of profit. 
+If in doubt, use the Parabolic system (see Section 44) to help you adjust 
+your stops. When you are not sure whether to stay in a trade or not, take 
+profits and re -evaluate the situation from the sidelines. There is nothing 
+wrong with exiting and re -entering a trade. People think much more clearly 
+when they have no money at risk. 
+After the Trade 
+A trade does not end when you close out your position. You must analyze it 
+and learn from it. Many traders throw their confirmation slips into a folder 
+and go looking for the next trade. They miss an essential part of growing to 
+become a professional trader - review and self-analysis. 
+Have you identified a good trade? Which indicators were useful and 
+which did not work? How good was your entry? Was the initial stop too far 
+or too close? Why and by how much? Did you move your stop to a break- 
+even level too early or too late? Were your protect -profit stops too loose or 
+too tight? Did you recognize the signals to exit a trade? What should you 
+have done differently? What did you feel at the various stages of the trade? 
+This analysis is an antidote against emotional trading. 
+Ask yourself these and other questions and learn from your experiences. 
+A cool, intelligent analysis does you more good than gloating about profits 
+or wallowing in regrets. 
+Start keeping a "before and after" notebook. Whenever you enter a posi- 
+tion, print out the current charts. Paste them on the left page of your note - 
+book and jot down your main reasons for buying or shorting. Write down 
+your plan for managing the trade. 
+When you exit, print the charts again and paste them on the right page of 
+your notebook. Write down your reasons for exiting and list what you did 
+right or wrong. You will have a pictorial record of your trades and thoughts. 
+This notebook will help you learn from the past and discover blind spots in 
+yyour thinking. Learn from history and profit from your experiences. 
+Afterword 
+One hot summer, in the mountains of northern Italy, I sat down to draft the 
+first outline of this book. Two and a half years later, on a frigid January in 
+New York City, I printed out its last chart. I wrote and rewrote this book 
+three times, to make it clearer and to reflect my growing experience. 
+I have changed as a person, and my methods continue to evolve. If I could 
+work on this manuscript for another two and a half years, it would become a 
+different book, but it is time to let go. 
+Pulling the Trigger 
+Traders sometimes confide in me that they have trouble "pulling the trig - 
+ger" - buying or selling when their methods tell them to go long or short. I 
+had this problem once, for a very short time. My friend Lou, to whom this 
+book is dedicated, helped me get rid of it. 
+One Sunday afternoon I mentioned to Lou that I saw several attractive 
+trades but doubted I'd take any of them the following week because I had 
+recently gotten beat up in the markets. Lou, who is usually cool and mild- 
+mannered, suddenly began yelling. "I want you to trade at the opening on 
+Monday!" I did not feel like trading-I was afraid of losing. "I don't give a 
+shit whether you win or lose - trade tomorrow at the open!" I seldom trade at 
+the open, but I could trade 10 minutes later, looking for an opening range 
+breakout. "10 minutes is OK, but trade tomorrow!" 
+I thought about what had happened and realized what my problem was. I 
+was like a skier at the top of the hill who had taken a bad spill and was afraid 
+to go down again. Whatever my technique, if I was afraid to go downhill, I 
+could not be a skier. 
+Fear of placing an order is the biggest problem that a serious trader can 
+2 70 AFTERWORD 
+have. There is no way to handle this problem with ease and comfort. It has to 
+be handled hard, by a sheer effort of will, which is why Lou yelled at me- 
+as a friend. 
+You need to design a system or borrow one from this book and adapt it to 
+your needs. Skiers do a little practice on a bunny slope, and you can paper- 
+trade. Design a sensible money management plan, using the 2 percent rule. 
+Limit your monthly losses to the maximum of 6 percent or 8 percent of your 
+risk capital. At this point you are like a skier, ready at the top of the hill. 
+Push off when your system flags you to go! Push off now! 
+If you do not go downhill when the flag comes down, you might as well 
+sell your skis and take up golf or raise goldfish. In other words, forget about 
+trading. 
+Now you have a system, you've learned money management rules, you 
+know the psychological rules for cutting losses. Now you must trade. Can 
+you? Traders try to weasel out of making this decision. They papertrade for 
+years, buy automatic trading systems, and so on. Several traders have even 
+asked me to hypnotize them. These games must end. It is time to make an 
+effort of will! 
+Consider this book my friendly yell at you. 
+The Endless Trail 
+Markets change, new opportunities emerge, and old ones melt away. Good 
+traders are successful but humble people - they always learn. Being a trader 
+is a lifelong challenge. 
+I hope this book helps you to grow as a trader. If you have read this far, 
+you must be serious about your work. Take this book for what it is- a 
+description of what's on one trader's mind and how he goes about solving 
+problems that all of us face. Take the ideas that appeal to you, and shape 
+them to fit your style. 
+If you believe that being a trader is worth the effort- as I decided years 
+ago-my best wishes to you. I continue to learn, and like any trader, I 
+reserve the right to be smarter tomorrow than I am today. 
+Acknowledgments 
+After finishing a project of several years, I owe a sweet debt of gratitude to 
+hundreds of persons- teachers, friends, and clients. If you do not see your 
+name here, please forgive me, and I'll thank you in pcrson the next time we 
+meet. 
+Thanks, first of all, to all the clients of Financial Trading Seminars, Inc. 
+Often a phone would ring and a trader would ask for "Dr. Elder's book." The 
+book was not written yet, not advertised anywhere-but clients expected a 
+book from me. That was terrific encouragement. 
+Writing a book was a hard job, but it helped me organize my thoughts and 
+become a better trader. Two friends provided a soft push at the birth of this 
+project. First, Tim Slater invited me to seminars in Asia, and then Martin 
+Pring introduced me to people at WEFA, which led to a conference in Italy. 
+Walking with Tim through Snake Alley to a smoky restaurant in Taipei and, 
+a few months later, sitting in a cafe in Milan with Martin, I felt friendly but 
+unmistakable pressure to organize my thoughts and start writing. 
+The blank screen of a word processor seemed huge and forbidding. To get 
+the job rolling, I offered a number of seminars and taped some of them. 
+Those transcripts helped me flesh out the ideas for this book. Thanks to all 
+the analysts and traders in New York and Toronto, London and Singapore 
+who came to my seminars, listened, and asked hundreds of questions. Some 
+were experts whose comments forced me to stretch my mind farther than I 
+expected; others were beginners whose questions served as a reminder to 
+keep my feet on the ground. I hope you are all making money trading. 
+Three persons, a colleague and two patients, have opened my mind to the 
+idea of 12 Steps - a major factor in my improvement as a trader. Thank you, 
+Dagmar O'Connor, Jim S., and Kathy H. (Kathy died last year, after a long 
+battle with cancer, and visiting her for months in a hospice reinforced my 
+belief that there are values more important than money.) Thanks to the pro- 
+272 ACKNOWLEDGMENTS 
+fessional traders who came to consult with me as a psychiatrist and entrusted 
+me with their confidence. You reinforced my conviction that if you get your 
+head in order, money tends to flow in. 
+Great thanks to everybody who works for my company, Financial Trading 
+Seminars, Inc. It is a unique group of people-intelligent, dynamic, and fun 
+to be with. Each has been selected from dozens if not hundreds of appli- 
+cants -you are the best. Thanks especially to our managers - Carol Keegan 
+Kayne and Inga Boguslavsky. Carol helped me edit every chapter. We had 
+many passionate arguments about the language, most of which Carol won, 
+and if you have any complaints about the clarity of this book, I'll give you 
+her number. 
+Once the manuscript was ready, I divided it into a dozen sections and 
+mailed each to a top expert in the field. These busy and successful people 
+found time to review several chapters each and suggested many improve- 
+ments. In addition to the friends already mentioned, they included Gerald 
+Appel, Stephen Briese, Ralph Cato, Mark Douglas, John Ehlers, Perry 
+Kaufman, Tony Plummer, Fred Schutzman, Bo Thunman, Ralph 
+Vince, and 
+David Weis. Thank you for being so generous with your time and advice. If 
+the market is a minus-sum game, then having friends like you is an espe- 
+cially big plus! 
+Thanks to the analysts who wrote before me. It was often hard to find who 
+was first- there is a thicket of conflicting claims in our field. As Henry 
+Kissinger once said, "Academic fights are so bitter because the stakes are so 
+small." Most charts in this book were drawn using CompuTrac software on 
+an IBM-compatible and imported into 
+PageMakerB for the Macintosh. 
+Thanks to Norbert Rudek for helping to set up the system and for unstinting 
+phone support. Thanks to the editors at Barron 's, Futures, Technical Analysis 
+of Stocks and Commodities, Futures and Options World, and other maga- 
+zines for encouraging me to write articles and book and software reviews - it 
+was a good training for the book. 
+Many thanks to Stephen Reibel, M.D., a fellow psychiatrist and a former 
+boss at St. Luke's-Roosevelt Hospital Center for covering my practice. I can 
+go and teach all over the world knowing that my patients in New York are in 
+good hands. 
+Lou Taylor, to whom this book is dedicated, has offered a treasury of 
+superb ideas. I wish he would write a book. His wise advice made a huge 
+difference at several important turning points. My family, especially Miriam, 
+Nicole, and Danny, provided cheerful support and a happy diversion from 
+business. 
+ACKNOWLEDGMENTS 2 73 
+Finally, I want to thank my friend from way back when, Nicolai 
+Gorbunoff. A scientist, he was destroyed by the Soviet system when I was 
+but a teenager. In the closed, Communist party-dominated world that we 
+lived in, he planted a simple but revolutionary idea in my mind: that the only 
+standard for research and work was the "world class." You had to strive to be 
+among the best in the world, or else it did not pay to try. Thank you Nicolai, 
+and thank you, all my friends. 
+New York 
+November 1992 Dr. Alexander Elder 
+Sources 
+I Angel], George. Winning in the Futures Market (1979) (Chicago: Probus Publishing, 
+1990). 
+Appel, Gerald. Day-Trading with Gerald Appel (video) (New York: Financial 
+Trading Seminars, Inc., 1989). 
+Arms, Richard W., Jr. The Arms Index (Homewood, IL: Business One Irwin, 1988). 
+Babcock, Bruce, Jr. The Dow Jones Irwin Guide to Commodity Trading Systems 
+(Homewood, IL: Dow Jones Irwin, 1989). 
+Balsara, Nauzer J. Money Management Stategies for Future Traders (New York: 
+John Wiley & Sons, 1992). 
+Belveal, L. Dee. Charting Commodity Market Price Behavior (1969) (Homewood, 
+IL: Dow Jones Irwin, 1989). 
+Bullish Review Newsletter, Rosemount, MN. 
+Club 3000 Newsletter, Augusta, MI. 
+CompuTrac Software Manual (1982) (New Orleans, LA: CompuTrac, 1991). 
+Davis, L. J. "Buffet Takes Stock," The New York Times, April 1, 1990. 
+Diamond, Barbara, and Mark Kollar. 24-Hour Trading (New York: John Wiley & 
+Sons, 1989). 
+Douglas, Mark. The Disciplined Trader (New York: New York Institute of Finance, 
+1990). 
+Edwards, Robert D., and John Magee. Technical Analysis of Stock Trends (1948) 
+(New York: New York Institute of Finance, 1992). 
+Ehlers, John. MESA and Trading Market Cycles (New York: John Wiley & Sons, 
+1992) . 
+Elder, Alexander. Directional System (video) (New York: Financial Trading 
+Seminars, Inc., 1988). 
+- . Elder-ray (video) (New York: Financial Trading Seminars, Inc., 1990). 
+ - . MACD & MACD-Histogram (video) (New York: Financial Trading Seminars, 
+Inc., 1988). 
+. "Market Gums," Futures and Options World London, September 1990. 
+ - . Relative Strength Index (video) (New York: Financial Trading Seminars, Inc., 
+1988). 
+- . Stochastic (video) (New York: Financial Trading Seminars, Inc., 1988). 
+276 SOURCES 
+. Technical Analysis in Just 52 Minutes (video) (New York: Financial 
+Trading Seminars, Inc., 1992). 
+- . "Triple Screen Trading System," Futures Magazine, April 1986. 
+- . Triple Screen Trading System (video) (New York: Financial Trading Seminars, 
+Inc., 1989). 
+- . William %R (video) (New York: Financial Trading Seminars, Inc., 1988). 
+Elliott, Ralph Nelson. Nature's Law (1946) (Gainesville, GA: New Classics Library, 
+1980). 
+Engel, Louis. How to Buy Stocks (1953) (New York: Bantam Books, 1977). 
+Freud, Sigmund. Group Psychology and the Analyst of the Ego (1921) (London: 
+Hogarth Press, 1974). 
+Friedman, Milton. Essays in Positive Economics (Chicago: The University of 
+Chicago Press, h3). 
+Frost, A. J., and R. R. Prechter, Jr. Elliott Wave Principle (Gainesville, GA: New 
+Classics Library, 1978). 
+Gallacher, William. Winner Takes All -A Privateer's Guide to Commodity Trading 
+(Toronto: Midway Publications, 1983). 
+Gann, W. D. How to Make Profits in Commodities (Chicago: W. D. Gann Holdings, 
+1951). 
+Garland, Trudi Hammel. Fascinating Fibonacct (Palo Alto, CA: Dale Seymour 
+Publications, 1987). 
+Granville, Joseph. New Strategy of Daily Stock Market Timing for Maximum Profit 
+(Englewood Cliffs, NJ: Prentice Hall, 1976). 
+- . The Book of Granville; Reflections of a Stock Market Prophet (New York: 
+St. Martin's Press, 1984). 
+Greenson, Ralph R. "On Gambling" (1947), in Explorations in Psychoanalysis 
+(New York: International Universities Press, 1978). 
+Greising, David, and Laurie Morse. Brokers, Bagmen & Moles (New York: John 
+Wiley & Sons, 1991). 
+Havens, Leston. Making Contact (Cambridge, MA: Harvard University Press, 
+1986). 
+Hurst, J. M. The Profit Magic of Stock Transaction Timing (Englewood Cliffs, NJ: 
+Prentice-Hall, 1970). 
+Kannerman, Daniel, and Amos Tversky. "Choices, Values, and Frames," American 
+Psychologist, 39(4) (April 1984), 341-350. 
+Kaufman, Perry. The New Commodity Trading System and Methods (New York: 
+John Wiley & Sons, 1987). 
+Kleinfield, Sonny. The Traders (New York: Holt, Rinehart and Winston, 1983). 
+Lefevre, Edwin. Reminiscences of a Stock Operator (1923) (Greenville, SC: Traders 
+Press, 1985). 
+LeBon, Gustave. The Crowd (1897) (Atlanta, GA: Cherokee Publishing, 1982). 
+SOURCES 277 
+Mackay, Charles. Extraordinary Popular Delusions and the Madness of Crow& 
+(1841) (New York: Crown Publishers, 1980). 
+Murphy, John J. Technical Analysis of the Futures Markets (New York: New York 
+Institute of Finance, 1986). 
+Neill, Humphrey B. The Art of Contrary Thinking (1954) (Caldwell, ID: Caxton 
+Printers, 1985). 
+. Tape Reading and Market Tactics (1931) (New York: Forbes Publishing, 
+1931). 
+Nison, Steve. Japanese Candlestick Charting Techniques (New York: New York 
+Institute of Finance, 1991). 
+Notis, Steve. "How to Gain an Edge with a Filtered Approach," Futures Magazine, 
+September 1989. 
+Pacelli, Albert Peter. The Speculator's Edge (New York: John Wiley & Sons, 1989). 
+Paulos, John Allen. Innumeracy. Mathematical Illiteracy and Its Consequences 
+(New York, Vintage Press, 1988). 
+Plummer, Tony. Forecasting Financial Markets (London: Kogan Page, 1989). 
+Pring, Martin J. Technical Analysis Explained, 3rd ed. (New York: McGraw-Hill, 
+1991). 
+Rhea, Robert. The Dow Theory (New York: Barron's, 1932). 
+Rorschach, Herman. 
+ Psychodiagnostics (1921) (New York: Gmne & Stratton, 1942). 
+Schutzman, Fred G. "Smoothing Rate of Change: New Twist to Old Study," Futures 
+Magazine, April 1991. 
+Shapiro, Roy. Why Johnny Can't Sell Losers: Psychological Roots, unpublished arti- 
+cle, 1991. 
+Sperandeo, Victor. Trader Vic-Methods of a Wall Street Master (New York: John 
+Wiley & Sons, 1991). 
+Steidlmayer, J. Peter, and Kevin Koy. Markets & Market Logic (Chicago: Porcupine 
+Press, 1986). 
+Teweles, Richard J., and Frank J. Jones. The Futures Game, 2nd ed. (New York: 
+McGraw-Hill, 1987). 
+Twelve Steps and Twelve Traditions (New York: Alcoholics Anonymous World 
+Se~ices, 1952). 
+Vince, Ralph. Portfolio Management Formulas (New York: John Wiley & Sons, 
+1990). 
+Wilder, J. Welles, Jr. New Concepts in Technical Trading Systems (Greensboro, SC: 
+Trend Research, 1976). 
+Williams, Larry. How I Made One Million Dollars (Carmel Valley, CA: Conceptual 
+Management, 1973). 
+. The Secret of Selecting Stocks (Carmel Valley, CA: Conceptual 
+Management, 1972). 
+Accumulation/Distribution, 175-178 
+crowd behavior, 176 
+how to construct, 175-176 
+trading rules, 176-177 
+Volume Accumulator, 177-178 
+AdvanceDecline line, 206-207. See 
+also Stock market indicators. 
+Alcoholics Anonymous (AA) and trad- 
+ing, 29-33,3940. See also 
+Psychology of trading. 
+denial, 30-31 
+rock bottom, 31,34-35 
+Losers Anonymous, 37-38 
+recovery, 
+ 29,31,34,36-38 
+the first step, 31-32,35-37 
+12 steps, 29-32,42, 271 
+Breakouts, 79-80, 105, 107-112, 170, 
+250,265 
+false, 76,7940, 107,250 
+pullbacks, 
+ 84-85,91-93,103,108, 
+111,113 
+Channels, 93-94,247-253 
+Bollinger bands, 248,25 1-253 
+how to construct, 251-252 
+trading rules, 253 
+channel trading systems, 250 -252. 
+See also Trading systems. Commodity Channel Index, 253 
+four types of channels, 247-248 
+moving average channels, 248-25 1 
+how to construct, 248-249 
+mass psychology, 249-250 
+trading rules, 250-251 
+parallel to trendlines, 93-94 
+Chaos and noise, 47,74, 124, 157,188, 
+203 
+Charts, 69-74, 115-1 16. See also 
+Prices. 
+bar, 69 
+intraday, 70, 135, 206, 248. See 
+also Day-trading. 
+meaning, 70-73 
+tails, 88-89 
+weekly, 70, 80,90, 104, 109, 112, 
+133, 135, 152,156,160,225, 
+237-239,248,249 
+candlestick, 73, 178 
+chart patterns, 
+ 46,61,65,70,91,99, 
+101-114,166,185. See also 
+Head and shoulders; Rectangles; 
+Support and resistance; Trends 
+and trading ranges; Triangles. 
+congestion areas, 
+ 75-76,88-89,93, 
+107,109-110 
+continuation and reversal, 101-102, 
+107-108,110-113,208,244 
+280 INDEX 
+crowd psychology, 76-77, 82, 
+91-92,95-96,98-99 
+extreme points, 
+75,88-89,93. 
+See also Charts, bar, tails. 
+tops and bottoms, 70,202,210 
+double tops and bottoms, 113-114 
+hand-drawn vs. computerized, 
+115-116,118 
+Market Profile, 22,73-74 
+point-and-figure, 69 
+Commitment indicators, 215-219. See 
+also Indicators, psychological. 
+Commitments of Traders index, 217 
+insider trading, legal, 217-218 
+odd-lot activity, 218-219. See also 
+Stock Market indicators. 
+stock exchange members, 218. See 
+also Stock Market indicators. 
+Computers, 9, 15,69, 116-119 
+data, 116-119 
+hardware, 116-118 
+quote machine, 43,46,48,52, 87, 
+20 1 
+software, 34,53-54, 116-118,251 
+black boxes, 117-118 
+gray boxes, 118,124,188 
+MESA, 117,124,188-189 
+toolboxes, 54,117 
+CompuTrac, 117,183,272 
+three steps to computerized analysis, 
+116 
+fact sheet offer, 117 
+Consensus indicators, 209-215. See 
+also Indicators, psychological. 
+bullish consensus, 210-214 
+how it works, 211-212 
+Contrary Opinion theory, 209-210 
+advisory opinion, 210 -213 
+financial advertisers, 214-215 
+media headlines, 213-214 
+Cycles, 18-19,41,82, 124, 130, 151, 
+187-189. See also Time. 
+Fourier analysis, 188 Maximum Entropy Spectral Analysis 
+(MESA), 117,124,188-189 
+Day-trading, 12,101,119,135,193, 
+237. See also Charts, intraday. 
+vs. position trading, 119,243 
+The Directional system, 83,135 -141, 
+237. See also Indicators, trend- 
+following. 
+crowd behavior, 139 
+how to construct, 135-139 
+trading rules, 139-141 
+identifying "baby bulls," 140-141 
+Edwards, R. D., and J. Magee, 70,79 
+Elder-ray, 112,220-227,239-240, 
+265. See also Indicators, oscil- 
+lators. 
+how to construct, 220-222 
+Bull Power and Bear Power, 
+221-227 
+trading psychology, 222-224 
+trading rules, 224-227 
+Elliott Wave theory, 18-21,70,265 
+Elliott, R. N., 20, 23, 70,265 
+Financial Trading Seminars, Inc., 4, 
+44-45,116,271-272 
+fact sheet offer, 117 
+Force Index, 100,227 -234,239-240. 
+See also Indicators, oscillators. 
+how to construct, 227-229 
+trading psychology, 229 
+trading rules 
+intermediate -term, 232-234 
+short-term, 229-232,239-240 
+Freud, Sigmund, 24,57,62,187 
+Gann, W. D., 23,70 
+interview with son, 23 
+Gaps, 95-101 
+causes, 95-97 
+valid and phony gaps, 96-97 
+trading rules, 99-100 
+INDEX 
+types of gaps 
+breakaway, 9699,100 
+common, 96-100 
+continuation, 9697,99-100 
+ex-dividend, 98 
+exhaustion, 96-97,99-100 
+island reversal, 100 
+opening, 101 
+Government and trading. See also 
+Inside information. 
+Commodity Futures Trading 
+Commission (CFTC ), 215-217 
+position limits, 52, 215-216 
+reporting levels, 215-216 
+Securities and Exchange Commission 
+(SEC), 50,215,217 
+Granville, Joseph, 20-21,172. See also 
+On-Balance Volume. 
+Gums, 
+17-23,34,43,58,63. See also 
+Elliott, Gann, Granville; Trading 
+industry, advisors. 
+dead gurus, 22-23 
+magic method gums, 21-22 
+market cycle gurus, 18-21,63 
+Head and shoulders, 102-105,166. See 
+also Chart patterns. 
+inverse head and shoulders, 105-107 
+trading rules, 104 -105 
+Herrick Payoff Index, 183-187 
+crowd psychology, 184-185 
+how to construct, 183-184 
+trading rules, 184-187 
+chart patterns, 185-186 
+divergences, 185-186 
+The Hound of the Baskervilles signal, 
+104-105,177 
+Indicators, 65, 114-166,264-265. See 
+ako Overbought and oversold. 
+and chart patterns, 80,83,95, 101, 
+104 
+choosing the length, 123-125: 152 the 5 percent rule, 164,248 
+rule of thumb, 124-125,152 
+crowd psychology, 122, 128-129, 
+131-132,139,146,150, 
+152-153,158,164,169 -171, 
+173,176,179-181,184-185, 
+195-197,203-205,211, 
+222-224,229,245,249 -250 
+developing your own, 117. See also 
+Elder-ray, Force Index. 
+divergences, 
+ 63,64,80,92-93,114, 
+133-135,148-150,153-155, 
+158-160,173-174,176-177, 
+185-186,191,196 -199,204, 
+206,223,225-227,230-234, 
+25 1,252,266. See also price 
+shocks. 
+classes A, B, and C, 143-145 
+triple bullish or bearish, 135, 145, 
+185 
+indicator seasons, 188-192,237 
+defined, 190 
+leading and coincident, 120, 145, 148, 
+162,172 
+oscillators, 120, 142-166, 199. See 
+also Elder-ray, Momentum, 
+Relative Strength Index, 
+Stochastic, Williams %R. 
+psychological, 120,209 -219. See 
+also Consensus indicators and 
+Commitment indicators. 
+three major groups, 119-120,142, 
+235-236,243 
+trend-following, 120. See ako the 
+Directional System; MACD; 
+Moving averages; On -Balance 
+Volume. 
+Inside information, 50,52-54, 215-218. 
+See also Theft. 
+Leaders of market trends, 23,5740, 63, 
+195-200,206. See also New 
+High-New Low Index. 
+INDEX 
+Managing others' money, 25,34,55-56, 
+67,259 
+track record, 14,54, 117 
+Market(s), 47-50 
+international, 48,51,96,206 
+as an ocean, 38-39 
+related, 96, 101, 112, 117 
+source of money in the markets, 
+49-50,164 
+uncertainty, 82-83 
+Market analysis, 18-21,6548, 88. See 
+also Trading. 
+astrology and mysticism, 74-75 
+common sense, 67-68 
+Dow Theory, 69, 109,236 
+Efficient Market theory, 74-75 
+forecasting, 18-21,75,91, 231. See 
+also Prices, price targets. 
+managing vs. forecasting, 66-67, 
+125,220 
+fundamental analysis, 65, 187-188 
+Random Walk theory, 74-75 
+seasonality, 179 
+technical analysis, 46-47,50, 61, 
+64-68 
+art or science, 65-66 
+the 5 percent rule, 164,248 
+and poll-taking, 47,66,236 
+Market crowds, 56 -60. See also Chart 
+patterns, crowd psychology; 
+Indicators, crowd psychology; 
+Traders. 
+changes in individuals 
+childlike behavior, 13,57-58,60 
+crowd behavior vs. individual 
+behavior, 4049,187 
+reasons for joining crowds, 58-60 
+mass manias 
+the Dutch tulip mania, 17,5657, 
+209 
+the South Seas bubble, 17,5657, 
+209 mass psychology, 
+ 43-68,187,203, 
+209 
+laws of social psychology, 57-58, 
+64-65 
+optimism and pessimism, 56, 142, 
+146,201-203,217,249 
+Mathematics for traders, 256-262. See 
+also Money Management; 
+Trading systems, optimization. 
+innumeracy, 15,256 
+margin, 7 
+minus-sum game, 67,258 
+negative expectation, 256257,259, 
+26 1 
+positive expectation, 256-257, 261 
+probabilities, 254-258 
+odds, 24,256-258 
+risk of ruin, 260 
+zero-sum game, 6-7 
+Media, 
+20-21,48,60,63, 197, 209, 
+213-215 
+advertisers, 214-215 
+Barron 's, 21,272 
+Business Week, 213-214 
+Futures, 117,235,237,272 
+Futures and Options World 17, 272 
+the impact of news, 95 
+Technical Analysis of Stocks and 
+Commodities, 1 17,272 
+The Wall Street Journal, 28,70, 
+214-215 
+Momentum, 120,142-15 1,250. See 
+also Indicators, oscillators; 
+Overbought and oversold. 
+Momentum indicator, 145-149 
+crowd psychology, 146-148 
+how to construct, 145-147 
+trading rules, 148 
+Rate of Change, 145-149 
+crowd psychology, 146-148 
+how to construct, 145-147 
+trading rules, 148 
+i i INDEX 
+1 Smoothed Rate of Change, 147-151 
+crowd behavior, 150 
+how b construct, 148-150 
+trading rules, 150-15 1 
+Money management, 14-16,27,42, 
+59-60,67,145,257-268,270. 
+See also Mathematics for 
+traders; Stop -Loss orders. 
+businessman's risk, 36-37 
+i drawdown, 
+ 14,33,261,262 
+1 Martingale systems, 261 
+optimalf; 262 
+pyramiding, 225-226,230-231,243, 
+26 1 
+riskheward ratio, 84 
+the 2 percent rule, 36, 85, 260 -261, 
+I 267,270 
+the 6-8 percent rule, 260,270 
+Moving averages, 120-127,137,146, 
+222, 227. See also Indicators, 
+trend-following. 
+simple 
+a fatal flaw, 121 -122,146 
+how to construct, 121 
+market psychology, 122 
+a mechanical system, 125-126 
+exponential, 83, 122-129, 148, 172, 
+200,202-203,22&226, 
+228-234,238,248-253,265 
+how to construct, 123-124 
+choosing the length, 123-125 
+good and had features, 127 
+lagging by half-cycle, 127 
+trading rules, 125 
+weighted, 121, 127 
+Moving Average Convergence- 
+Divergence (MACD), 83. See 
+also Indicators, trend-following. 
+MACD-Histogram, 131-135, 
+190-191,237-241,251,265 
+how to construct, 131 
+market psychology, 131-132 trading rules, 132-135 
+divergences, 133-135 
+when to expect new highs or lows, 
+134,250 
+MACD Lines, 127-13 1 
+how to construct, 128-129 
+optimization and cycles, 130-131 
+"quick-and-dirty," 131 
+market psychology, 128-129 
+trading rules, 129-130 
+New High-New Low Index, 194-200, 
+205-206. See also Stock market 
+indicators. 
+crowd psychology, 195-197 
+how to construct, 195 
+trading rules, 197-200 
+On-Balance Volume, 172-175. See also 
+Indicators, trend-following; 
+Volume. 
+additional indicators 
+Climax indicator, 174-175 
+Net Field Trend indicator, 174-175 
+crowd psychology, 173 
+how to construct, 172 
+trading rules, 173-174 
+Open Interest, 178-187. See also 
+Herrick Payoff Index. 
+crowd psychology, 179-181 
+measure of conflict, 179-181 
+in currencies, 179 
+trading rules, 181-182 
+Options, 80, 100, 117,201,251 
+Overbought and oversold, 142-143, 
+153,155-156,160-161,164, 
+166,203-205. See also 
+Indicators. 
+Parabolic trading system, 244-247, 267, 
+268. See also Trading systems. 
+how to construct, 244 -245 
+INDEX 
+trading psychology, 245 
+trading rules, 245-247 
+Plummer, Tony, 60,63, 108, 265, 272 
+Prices. See also Charts. 
+deviations and normalcy, 142,250 
+strength and weakness, 80 
+directional movement, 135-136 
+meaning, 
+43-47,61,70-73,222-224 
+closing, 70-73,156-158,162-164 
+consensus of value, 44-46,131, 
+248,252 
+high and low, 
+70-73,83,156-158, 
+222,253 
+mean, 127,178,184 -185 
+moved by mass emotions, 61-65 
+opening, 70-73 
+price shocks, 63-64 
+price targets, 93,95,99, 103, 
+107-109,111-112,265-266. 
+See also Channels. 
+Fibonacci ratios, 109, 112, 192, 
+265-266 
+retracements, 192 
+quote machine, 
+ 43,46,48,52,87, 201 
+rallies and declines, 60-64, 170 
+trends, 60-64, 167 
+Pring, Martin, 142, 189,271 
+Psychiatry, 1-2,3-4, 13,25,27-29, 
+203,249,270,272,273 
+Psychological indicators. See Consensus 
+indicators and Commitment 
+indicators. 
+Psychology of trading. See also 
+Alcoholics Anonymous and 
+trading. 
+amateurs, 
+ 39,47,75,85,235,258 
+blaming others, 25-26 
+overtrading, 53 
+discipline, 1, 14,35,41, 68,243,259 
+and dieting, 2-3 
+and trading limits, 53,259. See also 
+Traders, institutional. 
+emotional trading, 
+17,27,38-41,47, 53,56-62,66, 75-76, 83, 
+169-171,227,254-256, 
+259-260,262 
+elation, 
+24-25,27-28,33, 3840, 
+53,58 
+fear, 
+35,38-39,53,56,58-59, 
+61-63,70,142,181,254-255, 
+265264,269-270 
+selling climax, 59 
+greed, 
+15,40,50,53,59,61-63,70, 
+142,203,254,263-264 
+hope, 56,179-181,255 
+self-destructiveness, 12,2627 
+fantasies of traders 
+the autopilot myth, 15-16,246 
+the brain myth, 13-14 
+the greater fool theory, 44,225-226 
+the rescue fantasy, 34 
+the Rorschach test, 69, 113 
+Santa Claus, 64, 116 
+the undercapitalization myth, 14-15 
+models of trading 
+as an addiction, 24,33-34,40, 257 
+as a battle, 
+26,47-50,57,72,77, 82, 
+11 1,199,207,229,249 
+as entertainment, 3-4, 10, 11,24,28, 
+39-40,47,51,54,254,260,261 
+as gambling, 
+ 24-25,27,33,35,40, 
+51,65,208,257,261 
+and masturbation, 24 
+pain, 35,76 
+measured by volume, 169-171,173 
+reality and fantasy, 4, 12-17, 30,47, 
+75,265. See also Market 
+crowds, mass manias, the Dutch 
+Tulip mania, the South Seas 
+bubble. 
+psychology of losers, 13-17,24, 
+31-41,53-54,87,169, 
+179-181,229,245,254 -256, 
+261,263 
+counting money, 263-264 
+laziness, 15 
+INDEX 285 
+psychology of winners, 6-7,16,27, 
+3142,49,58-60,68 
+differences between winners and 
+losers, 
+17,24,33-42,55,63-64, 
+169,182,258 
+goals, 12,53,254, 258,264 
+independence, 41,49,58-60 
+signs of losing, 58 
+intellect, 
+13-14,23,38,40,57,229, 
+254,263 
+Odysseus at the mast, 60 
+responsibility, 54 
+self-esteem, 35 
+self-fulfillment, 11-12 
+Rectangles, 107-110. See also Charts. 
+flag, 109-110 
+line (Dow theory), 109 
+trading rules, 109 
+Relative Strength Index, 162-166, 
+240-241. See also Indicators, 
+oscillators. 
+how to construct, 162-163 
+mass psychology, 164 
+trading rules, 164-166 
+charting patterns, 165-166 
+divergences, 164-166 
+Stochastic, 112, 156 -162,239-240,251, 
+265. See also Indicators, oscil- 
+lators. 
+crowd psychology, 158 
+how to construct, 156-157 
+Fast and Slow, 157 
+trading rules, 158-161 
+divergences, 158 -160 
+overbought/oversold, 160-161 
+Stock market indicators, 18,20. See 
+also 
+AdvanceDecline Line, 
+New High-New Low Index, 
+Traders' Index. 
+the Member Short Sale Ratio, 208, 
+218 the Most Active Stocks, 207-208 
+the Odd-lot Sale Ratio, 219 
+the Odd-lot Short Sale Ratio, 208, 
+219 
+the Specialist Short Sale Ratio, 208, 
+218 
+the Volume of Low-Priced Stocks, 
+208 
+Stop-loss orders, 
+80,81,85,89,93,97, 
+102-107,113,133, 159,180, 
+225-226,230-23 1,244-247, 
+266-267. See also Money man- 
+agement. 
+break-even orders, 243,267 
+the 50 percent rule, 243, 267-268 
+losses, cutting, 254-255,260 
+protect-profit orders, 267-268 
+stop-and-reverse orders, 104 -105. See 
+also Parabolic trading system. 
+Support and resistance, 75-80, 100, 
+107-108,127,149,247 -248, 
+266-267. See also Charts. 
+crowd psychology, 76-77 
+edges of congestion areas, 75-76 
+and indicators, 127, 149, 166 
+measuring, 78 
+trading rules, 78-79 
+Theft, 8-9,50. See also Inside informa - 
+tion. 
+Time, 76,78,82,90, 152, 156-157, 161, 
+185,187-193,203,244 -245, 
+267. See also Parabolic trading 
+system. 
+the factor of five, 192-193, 236-237, 
+266-267 
+indicator length-rule of thumb, 
+124-125,152. See also 
+Indicators. 
+indicator seasons, 188-1 92, 237 
+timeframes, 85-87,90, 104, 146, 
+235237,250 
+how to define, 236-237 
+INDEX 
+Traders. See also Psychology of trading. 
+amateurs and professionals, 3-5, 
+24-25,47,72-73,76,79-80, 
+87,96, 101, 142, 167, 170, 176, 
+243,250,254,258,262 -264, 
+265,267,271 
+bulls and bears, hogs and sheep, 43 
+buyers, sellers, and undecided, 4547, 
+179-181 
+commercials, 179, 182-183 
+futures and cash markets, 52 
+engineers, 14,47 
+floor traders, 8-9,64-65,96, 100, 
+109,258. See also Trading 
+Industry. 
+hedgers, large, and small speculators, 
+216-217. See also Commitment 
+indicators, Commitments of 
+Traders index. 
+institutional, 4, 
+19,46,52-53,259 
+men and women, 4 
+private, 51,53,259 
+professional, 
+ 12-13,24,36,37,39, 
+41,47,51,82-83,85,98,120, 
+167,205,254,269 -270,272 
+Traders' Index (TRIN), 201-206. See 
+also Stock market indicators. 
+crowd psychology, 203-205 
+how to construct, 201-203 
+trading rules, 205-206 
+Trading, 1 1,24 
+approaches, 34,59,68 
+buying opportunity, 
+ 81,89-90,93-95, 
+114,132-133,143-145,171, 
+247 
+decisions at the right edge of the chart, 
+76,81,82-83,84,89,94,97, 
+103,106,108,149,154,159, 
+165,180,189,204,223,233, 
+240 
+entering trades, 27,56,58,60, 
+111-113,126,239,241 -243 exiting trades, 27,56,58,60, 141, 
+226-227,230-232,263-268 
+learning to trade, 
+5-6,42,51,54. See 
+also Financial Trading 
+Seminars, Inc. 
+plan, 12, 
+14-15,24,28,42,56,58,60, 
+64. See also Trading systems. 
+profitability, 112, 117, 235, 259-260 
+record-keeping, 34,3637 
+and a trading diary, 27-28,60, 
+268 
+risk, 11, 
+24,33,36-37,262 
+rules, 42, 78-79, 93, 99-100, 
+104-105,109,112 -113,125, 
+129-130,132-135,139-141, 
+148,150,153-155,158-161, 
+164-166,171-172,173-174, 
+176-177,181-182,185-187, 
+190,197-200,205-206, 
+224-226,229-234,241, 
+245-247,250-25 1 
+strength and weakness, 80 
+shorting opportunity, 84,90,92-94, 
+97,102,103,114,132 -133, 
+143-145,172,247 
+uncertainty, 58,86, 103 
+whipsaws, 123,125,129-130,141, 
+192,236,244 -247,267 
+Trading industry, 6-7, 258 
+advisors, 6, 10, 13, 16-23, 34,53-55, 
+67,161,209-213. See also 
+Consensus indicators, Contrary 
+Opinion theory; Gurus. 
+newsletters, 54-55, 209-213 
+Bullish Review, 217 
+Club 3000,116,133,135 
+Investors' Intelligence, 210-211 
+Market Vane, 210-213 
+software developers, 117-1 18, 
+161-162 
+brokers, 
+6-10,48,49,51,56,216 
+commissions and slippage, 6-10,28, 
+288 INDEX 
+Volume Accumulator. See crowd psychology, 152 -153 
+Accumulation/Distribution. how to construct, 151-153 
+Volume-based indicators. See On- trading rules, 153-155 
+Balance Volume, divergences, 153-155 
+Accumulation/Distribution. See failure swings, 155 
+also Indictors, trend-following. 
+ overbought/oversold, 153,155-156 
+Williams %R, 151-156,239-240. See 
+also Indicators, oscillators. 
+About the Author 
+Alexander Elder, M.D., was born in Leningrad and grew up in 
+Estonia where he entered medical school at the age of 16. At 23, 
+while working as a ship's doctor, he jumped a Soviet ship in Africa 
+and received political asylum in the United States. He continued to 
+work as a psychiatrist in New York City, served as the book editor of 
+The Psychiatric Times, and taught at Columbia University. After 
+becoming involved in financial trading, Dr. Elder published dozens of 
+articles, software, and book reveiws and spoke at many conferences. 
+In 1988 he founded Financial Trading Seminars, Inc., an educational 
+firm for traders. Dr. Elder consults for individuals and financial insti- 
+tutions and conducts seminars for traders. His firm produces video - 
+tapes on trading and supplies trading books. 
+Readers of Trading for a Living are welcome to request a current 
+information kit by writing or calling: 
+Financial Trading Seminars, Inc. 
+PO Box 20555, Columbus Circle Station 
+New York, NY 10023, USA 
+800-458-0939 or 212-432-7630 
+Fax 718-639-8889 

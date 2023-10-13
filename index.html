@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text to Speech</title>
+    <style>
+      .highlight {
+        text-decoration: underline;
+        color: #000;
+      }
+      #output {
+        color: #333;
+        border: 1px solid #eee;
+        margin-top: 20px;
+        padding: 12px;
+        max-height: 500px;
+        overflow-y: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Text to Speech</h1>
+    <form id="fileForm">
+      <input type="file" id="fileInput" accept=".txt" required />
+      <button type="button" id="playButton" disabled>Play Text</button>
+      <button type="button" id="pauseButton" disabled>Pause</button>
+      <button type="button" id="prev">Prev</button>
+      <button type="button" id="next">Next</button>
+    </form>
+    <div id="output"></div>
+
+    <script>
+      const fileInput = document.getElementById("fileInput");
+      const playButton = document.getElementById("playButton");
+      const pauseButton = document.getElementById("pauseButton");
+      const nextButton = document.getElementById("next");
+      const prevButton = document.getElementById("prev");
+      const outputDiv = document.getElementById("output");
+      const highlightClass = "highlight";
+
+      let synth;
+      let utterance;
+      let rawText;
+      let lines = [];
+
+      let tmo;
+
+      let currentIndex = 0;
+
+      let usEnglishVoice = null;
+
+      let next;
+      let prev;
+
+      let hlEl;
+      let els = [];
+
+      let rsPause;
+
+      let paused = false;
+
+      window.speechSynthesis.cancel();
+
+      // Listen for the voiceschanged event to ensure the voices list is populated
+      window.speechSynthesis.onvoiceschanged = function () {
+        const voices = window.speechSynthesis.getVoices();
+        //usEnglishVoice = voices.find((voice) => voice.lang === "en-US");
+
+        usEnglishVoice = voices.find(
+          (voice) => voice.voiceURI === "Google US English"
+        );
+
+        console.log("usEnglishVoice", usEnglishVoice);
+      };
+
+      fileInput.addEventListener("change", () => {
+        playButton.disabled = false;
+      });
+
+      playButton.addEventListener("click", () => {
+        const selectedFile = fileInput.files[0];
+        if (!selectedFile) {
+          alert("Please select a text file.");
+          return;
+        }
+
+        const reader = new FileReader();
+
+        function processSplit(rows, termMath, termAdd) {
+          const newRows = [];
+          for (const row of rows) {
+            const splits = row.split(termMath);
+
+            for (let i = 0; i < splits.length; i++) {
+              newRows.push(
+                splits[i] + (i === splits.length - 1 ? "" : termAdd)
+              );
+            }
+          }
+          return newRows;
+        }
+
+        reader.onload = function (event) {
+          rawText = event.target.result;
+
+          lines = processSplit([rawText], /\. \n?/, ". ");
+
+          lines = processSplit(lines, /\? \n?/, "? ");
+
+          startPlay();
+        };
+        reader.readAsText(selectedFile);
+      });
+
+      pauseButton.addEventListener("click", () => {
+        if (paused) {
+          handleResume();
+        } else {
+          handlePause();
+        }
+      });
+
+      nextButton.addEventListener("click", () => {
+        next && next();
+      });
+
+      prevButton.addEventListener("click", () => {
+        prev && prev();
+      });
+
+      function handlePause() {
+        paused = true;
+        pauseButton.textContent = "Resume";
+
+        clearInterval(tmo);
+        synth.cancel();
+
+        rsPause && rsPause();
+      }
+
+      function handleResume() {
+        paused = false;
+        pauseButton.textContent = "Pause";
+
+        continueRead();
+      }
+
+      async function startPlay() {
+        outputDiv.innerHTML = ""; // Clear previous content
+
+        currentIndex = 0;
+
+        paused = false;
+
+        els = [];
+
+        for (let i = 0; i < lines.length; i++) {
+          const el = document.createElement("span");
+          el.textContent = lines[i];
+
+          el.addEventListener("dbclick", function () {
+            currentIndex = i;
+          });
+
+          outputDiv.appendChild(el);
+          els.push(el);
+        }
+
+        next = function () {
+          handlePause();
+
+          currentIndex++;
+          highlight(currentIndex);
+        };
+
+        prev = function () {
+          handlePause();
+
+          currentIndex--;
+          highlight(currentIndex);
+        };
+
+        continueRead();
+      }
+
+      function highlight(idx) {
+        if (hlEl) {
+          hlEl.classList.remove(highlightClass);
+        }
+        hlEl = els[idx];
+        hlEl.classList.add(highlightClass);
+        hlEl.scrollIntoView({
+          behavior: "smooth",
+          block: "center",
+          inline: "center",
+        });
+      }
+
+      async function continueRead() {
+        for (; currentIndex < lines.length; currentIndex++) {
+          highlight(currentIndex);
+
+          if (paused) {
+            break;
+          }
+
+          if (lines[currentIndex]) {
+            await Promise.race([
+              readAloud(lines[currentIndex]),
+              new Promise((rs) => (rsPause = rs)),
+            ]);
+          }
+
+          if (paused) {
+            break;
+          }
+        }
+      }
+
+      async function readAloud(lineText) {
+        return new Promise((rs) => {
+          pauseButton.disabled = false;
+
+          synth = window.speechSynthesis;
+          utterance = new SpeechSynthesisUtterance();
+
+          utterance.text = lineText;
+          utterance.voice = usEnglishVoice;
+          utterance.rate = 1;
+
+          tmo = setTimeout(() => {
+            console.log("TIMEOUT:", utterance.text);
+            synth.cancel();
+            rs();
+          }, 10000);
+
+          utterance.onerror = (event) => {
+            synth.cancel();
+            clearInterval(tmo);
+            rs();
+          };
+
+          utterance.onend = (event) => {
+            synth.cancel();
+            clearInterval(tmo);
+            rs();
+          };
+
+          synth.speak(utterance);
+        });
+      }
+    </script>
+  </body>
+</html>
